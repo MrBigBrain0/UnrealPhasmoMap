@@ -2412,3 +2412,21 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-20.17.34:938][  3]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.22-20.17.34:938][  3]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.22-20.17.34:938][  3]AssetCheck: /Game/NewHUD Validating asset
+[2025.09.22-20.19.47:366][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.22-20.19.49:075][715]LogSlate: Window 'Save Content' being destroyed
+[2025.09.22-20.19.49:086][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-20.19.49:141][715]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode] ([2] browsable assets)...
+[2025.09.22-20.19.49:141][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode]
+[2025.09.22-20.19.49:146][715]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2025.09.22-20.19.49:147][715]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BP_FirstPersonGameMode2E4DBB2C48FCEB66F4CED6AB85C781CD.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2025.09.22-20.19.49:158][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.258 ms (total: 2.03 sec)
+[2025.09.22-20.19.49:222][715]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-20.19.49:222][715]LogContentValidation: Enabled validators:
+[2025.09.22-20.19.49:222][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-20.19.49:222][715]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-20.19.49:222][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-20.19.49:222][715]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-20.19.49:222][715]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-20.19.49:222][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-20.19.49:222][715]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode Validating asset
+[2025.09.22-20.19.49:242][715]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
