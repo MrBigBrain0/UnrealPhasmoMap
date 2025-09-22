@@ -2430,3 +2430,203 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-20.19.49:222][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.22-20.19.49:222][715]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode Validating asset
 [2025.09.22-20.19.49:242][715]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-20.22.08:195][155]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.22-20.22.08:205][155]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.22-20.22.08:219][156]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.22-20.22.09:015][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7775.687988
+[2025.09.22-20.22.09:095][255]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-20.22.09:095][255]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7775.758789, Update Interval: 332.114014
+[2025.09.22-20.22.10:883][459]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2025.09.22-20.22.10:885][459]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.22-20.22.15:750][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-20.22.15:750][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode] ([2] browsable assets)...
+[2025.09.22-20.22.15:750][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode]
+[2025.09.22-20.22.15:755][863]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2025.09.22-20.22.15:755][863]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BP_FirstPersonGameMode342002FD4C3A51EDE2D8EDBBFE65A9C5.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2025.09.22-20.22.15:757][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/NewHUD] ([2] browsable assets)...
+[2025.09.22-20.22.15:757][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/NewHUD]
+[2025.09.22-20.22.15:757][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/NewHUD" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/NewHUD.uasset" SILENT=true
+[2025.09.22-20.22.15:763][863]LogSavePackage: Moving output files for package: /Game/UI/NewHUD
+[2025.09.22-20.22.15:763][863]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/NewHUD4280EC864F7B2CB758D56C9F4C62141C.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/NewHUD.uasset'
+[2025.09.22-20.22.15:769][863]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_UI] ([2] browsable assets)...
+[2025.09.22-20.22.15:772][863]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_UI.WB_UI]
+[2025.09.22-20.22.15:772][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_UI]
+[2025.09.22-20.22.15:772][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_UI" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/WB_UI.uasset" SILENT=true
+[2025.09.22-20.22.15:779][863]LogSavePackage: Moving output files for package: /Game/UI/WB_UI
+[2025.09.22-20.22.15:779][863]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WB_UID1A5650B4F09B6922506CCAB497821E0.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/WB_UI.uasset'
+[2025.09.22-20.22.15:783][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.067 ms (total: 2.07 sec)
+[2025.09.22-20.22.15:870][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.09.22-20.22.15:901][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.22-20.22.15:926][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.22-20.22.15:954][863]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.22-20.22.15:954][863]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.22-20.22.15:954][863]LogContentValidation: Enabled validators:
+[2025.09.22-20.22.15:954][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-20.22.15:954][863]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-20.22.15:954][863]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-20.22.15:954][863]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-20.22.15:954][863]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-20.22.15:954][863]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-20.22.15:954][863]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode Validating asset
+[2025.09.22-20.22.15:955][863]AssetCheck: /Game/UI/NewHUD Validating asset
+[2025.09.22-20.22.15:955][863]AssetCheck: /Game/UI/WB_UI Validating asset
+[2025.09.22-20.22.15:982][863]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-20.22.19:571][218]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.22-20.22.19:581][218]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.22-20.22.19:594][219]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.22-20.22.28:672][263]LogContentBrowser: Attempting asset rename: NewFolder -> CrossHair
+[2025.09.22-20.22.28:672][263]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.22-20.24.27:749][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.22-20.24.27:753][ 50]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.034
+[2025.09.22-20.24.27:754][ 50]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_UI] ([2] browsable assets)...
+[2025.09.22-20.24.27:756][ 50]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_UI.WB_UI]
+[2025.09.22-20.24.27:756][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_UI]
+[2025.09.22-20.24.27:763][ 50]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_UI_Auto3
+[2025.09.22-20.24.27:764][ 50]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WB_UI_Auto35228EF844300C6931BA7049BCF258999.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/UI/WB_UI_Auto3.uasset'
+[2025.09.22-20.24.27:765][ 50]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.09.22-20.27.16:773][809]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-20.27.16:857][809]LogInterchangeEngine: [Pending] Importing
+[2025.09.22-20.27.16:857][809]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/sicilisi/Desktop/Layer 1.png]
+[2025.09.22-20.27.16:993][811]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-20.27.16:994][812]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.22-20.27.17:047][813]LogTexture: Display: Building textures: /Game/UI/CrossHair/Layer_1.Layer_1 (TFO_AutoDXT, 240x244 x1x1x1) (Required Memory Estimate: 10.233398 MB), EncodeSpeed: Fast
+[2025.09.22-20.27.17:097][813]LogInterchangeEngine: Display: Interchange import completed [C:/Users/sicilisi/Desktop/Layer 1.png]
+[2025.09.22-20.27.17:107][813]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.22-20.27.17:108][813]LogInterchangeEngine: [Success] Import Done
+[2025.09.22-20.27.31:982][245]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/CrossHair/Layer_1.Layer_1
+[2025.09.22-20.27.32:380][245]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2025.09.22-20.27.32:380][245]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2025.09.22-20.27.32:381][245]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2025.09.22-20.27.32:381][245]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2025.09.22-20.27.47:834][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-20.27.47:869][ 31]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_UI] ([2] browsable assets)...
+[2025.09.22-20.27.47:872][ 31]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_UI.WB_UI]
+[2025.09.22-20.27.47:872][ 31]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_UI]
+[2025.09.22-20.27.47:872][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_UI" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/WB_UI.uasset" SILENT=true
+[2025.09.22-20.27.47:878][ 31]LogSavePackage: Moving output files for package: /Game/UI/WB_UI
+[2025.09.22-20.27.47:879][ 31]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WB_UI4032B7A64088DA4180D9C99469519574.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/WB_UI.uasset'
+[2025.09.22-20.27.47:888][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.870 ms (total: 2.12 sec)
+[2025.09.22-20.27.47:952][ 31]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-20.27.47:952][ 31]LogContentValidation: Enabled validators:
+[2025.09.22-20.27.47:952][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-20.27.47:952][ 31]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-20.27.47:952][ 31]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-20.27.47:952][ 31]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-20.27.47:952][ 31]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-20.27.47:952][ 31]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-20.27.47:952][ 31]AssetCheck: /Game/UI/WB_UI Validating asset
+[2025.09.22-20.27.50:035][273]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.22-20.27.50:042][273]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.22-20.27.50:042][273]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.09.22-20.27.50:044][273]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 768 us (total: 8.639 ms)
+[2025.09.22-20.27.50:048][273]LogPlayLevel: [PlayLevel] Compiling WB_UI before play...
+[2025.09.22-20.27.50:198][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.09.22-20.27.50:200][273]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (1 blueprints)
+[2025.09.22-20.27.50:200][273]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.22-20.27.50:205][273]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.22-20.27.50:206][273]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 941 us (total: 12.697 ms)
+[2025.09.22-20.27.50:206][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005519s)
+[2025.09.22-20.27.50:206][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005563s)
+[2025.09.22-20.27.50:234][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.22-20.27.50:236][273]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.09.22-20.27.50:237][273]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.22-20.27.50:237][273]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.22-20.27.50:237][273]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.22-20.27.50:237][273]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.22-20.27.50:239][273]LogWorldPartition: Display: WorldPartition initialize took 1.331 ms (total: 82.950 ms)
+[2025.09.22-20.27.50:239][273]LogPlayLevel: PIE: World Init took: (0.003377s)
+[2025.09.22-20.27.50:240][273]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.09.22-20.27.50:240][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.22-20.27.50:240][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.22-20.27.50:240][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.22-20.27.50:240][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.22-20.27.50:240][273]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.22-20.27.50:240][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.22-20.27.50:240][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.22-20.27.50:240][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.22-20.27.50:240][273]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.22-20.27.50:240][273]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.22-20.27.50:240][273]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.22-20.27.50:242][273]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.22-20.27.50:268][273]LogAudioMixer: Display: Using Audio Hardware Device HP Z24n G2 (NVIDIA High Definition Audio)
+[2025.09.22-20.27.50:268][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.22-20.27.50:268][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.22-20.27.50:268][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.22-20.27.50:269][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.09.22-20.27.50:269][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.09.22-20.27.50:271][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.09.22-20.27.50:271][273]LogInit: FAudioDevice initialized with ID 13.
+[2025.09.22-20.27.50:271][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.09.22-20.27.50:271][273]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_FirstPerson'.
+[2025.09.22-20.27.50:271][273]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.22-20.27.50:319][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-20.27.50:319][273]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.22-20.27.50:322][273]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.09.22-16.27.50
+[2025.09.22-20.27.50:322][273]LogWorld: Bringing up level for play took: 0.002398
+[2025.09.22-20.27.50:324][273]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.09.22-20.27.50:335][273]PIE: Server logged in
+[2025.09.22-20.27.50:336][273]PIE: Play in editor total start time 0.293 seconds.
+[2025.09.22-20.27.50:517][274]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.22-20.27.51:044][302]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.09.22-20.27.58:682][967]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2025.09.22-20.27.59:689][ 52]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1
+[2025.09.22-20.28.01:246][188]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4
+[2025.09.22-20.28.02:993][338]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.09.22-20.28.05:471][553]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2025.09.22-20.28.06:480][638]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1
+[2025.09.22-20.28.08:497][812]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4
+[2025.09.22-20.28.12:613][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8139.329102
+[2025.09.22-20.28.12:692][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-20.28.12:692][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8139.395996, Update Interval: 338.652924
+[2025.09.22-20.28.14:804][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-20.28.14:804][361]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.22-20.28.14:805][361]LogSlate: Window 'unrealPhasmoMap Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.22-20.28.14:812][361]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.28.14:813][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.28.14:813][361]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.09.22-20.28.14:815][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.22-20.28.14:820][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.28.14:846][361]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.09.22-20.28.14:846][361]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2025.09.22-20.28.14:849][361]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2025.09.22-20.28.14:858][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.22-20.28.14:895][362]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.09.22-20.28.17:506][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-20.28.17:569][670]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_UI] ([2] browsable assets)...
+[2025.09.22-20.28.17:571][670]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_UI.WB_UI]
+[2025.09.22-20.28.17:571][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_UI]
+[2025.09.22-20.28.17:571][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_UI" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/WB_UI.uasset" SILENT=true
+[2025.09.22-20.28.17:578][670]LogSavePackage: Moving output files for package: /Game/UI/WB_UI
+[2025.09.22-20.28.17:578][670]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WB_UI2048B79E4599DA4885F47C93CCDE0B4D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/WB_UI.uasset'
+[2025.09.22-20.28.17:588][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.990 ms (total: 2.20 sec)
+[2025.09.22-20.28.17:651][670]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-20.28.17:651][670]LogContentValidation: Enabled validators:
+[2025.09.22-20.28.17:651][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-20.28.17:651][670]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-20.28.17:651][670]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-20.28.17:651][670]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-20.28.17:651][670]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-20.28.17:651][670]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-20.28.17:652][670]AssetCheck: /Game/UI/WB_UI Validating asset
+[2025.09.22-20.28.24:445][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.22-20.28.25:772][415]LogSlate: Window 'Save Content' being destroyed
+[2025.09.22-20.28.25:795][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-20.28.25:836][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/CrossHair/Layer_1] ([1] browsable assets)...
+[2025.09.22-20.28.25:838][415]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/CrossHair/Layer_1.Layer_1]
+[2025.09.22-20.28.25:838][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/CrossHair/Layer_1]
+[2025.09.22-20.28.25:838][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CrossHair/Layer_1" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/CrossHair/Layer_1.uasset" SILENT=true
+[2025.09.22-20.28.25:845][415]LogSavePackage: Moving output files for package: /Game/UI/CrossHair/Layer_1
+[2025.09.22-20.28.25:845][415]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Layer_18568E9354A1131742FD22995DBBFFC35.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/CrossHair/Layer_1.uasset'
+[2025.09.22-20.28.25:856][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.882 ms (total: 2.26 sec)
+[2025.09.22-20.28.25:918][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-20.28.25:918][415]LogContentValidation: Enabled validators:
+[2025.09.22-20.28.25:918][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-20.28.25:918][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-20.28.25:918][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-20.28.25:918][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-20.28.25:918][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-20.28.25:918][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-20.28.25:918][415]AssetCheck: /Game/UI/CrossHair/Layer_1 Validating asset
+[2025.09.22-20.28.25:939][415]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
