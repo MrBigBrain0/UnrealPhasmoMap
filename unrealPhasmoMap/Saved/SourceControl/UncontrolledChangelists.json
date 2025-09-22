@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/WB_UI.uasset",
+				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/NewHUD.uasset"
 			]
 		}
 	]
