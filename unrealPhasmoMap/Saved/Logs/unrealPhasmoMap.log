@@ -2630,3 +2630,102 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.22-20.28.25:918][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.22-20.28.25:918][415]AssetCheck: /Game/UI/CrossHair/Layer_1 Validating asset
 [2025.09.22-20.28.25:939][415]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.22-20.31.56:457][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.22-20.31.56:521][262]LogStall: Shutdown...
+[2025.09.22-20.31.56:521][262]LogStall: Shutdown complete.
+[2025.09.22-20.31.56:574][262]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.56:574][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.56:636][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.22-20.31.56:636][262]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.56:636][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.56:702][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.22-20.31.56:702][262]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.56:702][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.56:768][262]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.56:768][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.56:777][262]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.56:777][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.56:811][262]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.22-20.31.56:811][262]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.56:811][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.56:870][262]LogSlate: Window 'unrealPhasmoMap - Unreal Editor' being destroyed
+[2025.09.22-20.31.56:872][262]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.09.22-20.31.57:039][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.22-20.31.57:078][262]Cmd: QUIT_EDITOR
+[2025.09.22-20.31.57:079][263]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.22-20.31.57:085][263]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.22-20.31.57:086][263]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.22-20.31.57:086][263]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.22-20.31.57:087][263]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.57:087][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.57:087][263]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.09.22-20.31.57:098][263]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.09.22-20.31.57:099][263]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.22-20.31.57:099][263]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.22-20.31.57:110][263]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.57:111][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.57:114][263]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.57:114][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.57:117][263]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.57:117][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.57:119][263]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-20.31.57:119][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-20.31.57:121][263]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.09.22-20.31.57:121][263]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.22-20.31.57:128][263]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.09.22-20.31.57:734][263]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.22-20.31.57:734][263]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.22-20.31.57:735][263]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.09.22-20.31.57:735][263]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.22-20.31.57:735][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.09.22-20.31.57:737][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.09.22-20.31.57:746][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.22-20.31.57:746][263]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.22-20.31.57:748][263]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.22-20.31.57:749][263]LogExit: Preparing to exit.
+[2025.09.22-20.31.57:790][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:794][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:795][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:795][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:795][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:795][263]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.57:795][263]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.22-20.31.58:304][263]LogEditorDataStorage: Deinitializing
+[2025.09.22-20.31.58:440][263]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.22-20.31.58:457][263]LogExit: Editor shut down
+[2025.09.22-20.31.58:460][263]LogExit: Transaction tracking system shut down
+[2025.09.22-20.31.58:605][263]LogExit: Object subsystem successfully closed.
+[2025.09.22-20.31.58:709][263]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.22-20.31.58:792][263]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.09.22-20.31.58:792][263]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.09.22-20.31.58:792][263]LogMemoryProfiler: Shutdown
+[2025.09.22-20.31.58:792][263]LogNetworkingProfiler: Shutdown
+[2025.09.22-20.31.58:792][263]LoadingProfiler: Shutdown
+[2025.09.22-20.31.58:792][263]LogTimingProfiler: Shutdown
+[2025.09.22-20.31.59:082][263]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.22-20.31.59:089][263]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.22-20.31.59:089][263]RenderDocPlugin: plugin has been unloaded.
+[2025.09.22-20.31.59:095][263]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.22-20.31.59:095][263]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B43170654-4D66-D8BF-EE8C-4085834326F8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=75828e5f4e67a45d9d3c1283a4edd417%7Cf1542229a5184341ad5823bd938d62b0%7C9245eb81-33bd-408f-9b1d-6da399ad81c9&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.22-20.31.59:658][263]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.22-20.31.59:660][263]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.22-20.31.59:660][263]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.22-20.31.59:660][263]LogPakFile: Destroying PakPlatformFile
+[2025.09.22-20.32.00:090][263]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.22-20.32.00:131][263]LogExit: Exiting.
+[2025.09.22-20.32.00:154][263]Log file closed, 09/22/25 16:32:00
