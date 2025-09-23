@@ -1563,3 +1563,785 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.23-22.12.23:184][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.23-22.12.23:184][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.23-22.12.23:184][375]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-22.13.09:761][510]LogContentBrowser: Deferred new asset file creation: WBP_InventoryWidget1
+[2025.09.23-22.13.09:766][510]LogContentBrowser: Creating deferred item: WBP_InventoryWidget1
+[2025.09.23-22.13.09:808][511]LogContentBrowser: Renaming the item being created (Deferred Item: WBP_InventoryWidget1).
+[2025.09.23-22.13.26:492][381]LogContentBrowser: Attempting asset rename: WBP_InventoryWidget1 -> WBP_ItemSlots
+[2025.09.23-22.13.26:518][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.09.23-22.13.26:527][381]LogContentBrowser: End creating deferred item WBP_InventoryWidget1
+[2025.09.23-22.13.28:717][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.23-22.13.30:068][636]LogSlate: Window 'Save Content' being destroyed
+[2025.09.23-22.13.30:078][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.13.30:136][636]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_ItemSlots] ([2] browsable assets)...
+[2025.09.23-22.13.30:139][636]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_ItemSlots.WBP_ItemSlots]
+[2025.09.23-22.13.30:139][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_ItemSlots]
+[2025.09.23-22.13.30:144][636]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_ItemSlots
+[2025.09.23-22.13.30:144][636]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_ItemSlotsB7AFFC644CE71DAD12C62A8B8A4FA90F.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_ItemSlots.uasset'
+[2025.09.23-22.13.30:156][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.046 ms (total: 886.607 ms)
+[2025.09.23-22.13.30:219][636]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.13.30:219][636]LogContentValidation: Enabled validators:
+[2025.09.23-22.13.30:219][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.13.30:219][636]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.13.30:219][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.13.30:219][636]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.13.30:219][636]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.13.30:219][636]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.13.30:219][636]AssetCheck: /Game/Inventory/Widgets/WBP_ItemSlots Validating asset
+[2025.09.23-22.13.30:239][636]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.23-22.14.00:912][982]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/Widgets/WBP_ItemSlots.WBP_ItemSlots
+[2025.09.23-22.14.00:913][982]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.23-22.14.00:921][982]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.23-22.14.08:984][341]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-22.14.08:985][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-22.14.09:061][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.23-22.14.10:593][521]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-22.14.10:593][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-22.14.10:653][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.23-22.14.17:577][349]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.23-22.14.17:577][349]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-22.14.17:577][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-22.14.17:656][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.23-22.14.21:726][830]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-22.14.21:726][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-22.14.21:791][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.23-22.14.23:523][ 33]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-22.14.23:523][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-22.14.23:533][ 33]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-22.14.23:533][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-22.14.23:585][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.23-22.14.33:396][163]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/BPC_Inventory.BPC_Inventory
+[2025.09.23-22.14.33:396][163]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.23-22.17.04:364][205]LogStreaming: Display: FlushAsyncLoading(596): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.23-22.17.42:344][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1701.322754
+[2025.09.23-22.17.43:344][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-22.17.43:344][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1701.989136, Update Interval: 322.242493
+[2025.09.23-22.17.58:116][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.23-22.17.58:124][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.057
+[2025.09.23-22.17.58:125][266]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_ItemSlots] ([2] browsable assets)...
+[2025.09.23-22.17.58:127][266]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_ItemSlots.WBP_ItemSlots]
+[2025.09.23-22.17.58:127][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_ItemSlots]
+[2025.09.23-22.17.58:134][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Widgets/WBP_ItemSlots_Auto1
+[2025.09.23-22.17.58:134][266]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_ItemSlots_Auto1E655E4E44F1583DE6038FA8AD2EB16CA.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/Inventory/Widgets/WBP_ItemSlots_Auto1.uasset'
+[2025.09.23-22.17.58:135][266]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.09.23-22.17.59:051][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.09.23-22.18.36:943][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.09.23-22.20.19:468][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.23-22.20.25:366][473]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.20.25:402][473]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_ItemSlots] ([2] browsable assets)...
+[2025.09.23-22.20.25:404][473]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_ItemSlots.WBP_ItemSlots]
+[2025.09.23-22.20.25:404][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_ItemSlots]
+[2025.09.23-22.20.25:412][473]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_ItemSlots
+[2025.09.23-22.20.25:413][473]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_ItemSlots9BE00C004CC06DCB31D215B0916E2114.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_ItemSlots.uasset'
+[2025.09.23-22.20.25:421][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.314 ms (total: 941.922 ms)
+[2025.09.23-22.20.25:486][473]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.20.25:486][473]LogContentValidation: Enabled validators:
+[2025.09.23-22.20.25:486][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.20.25:486][473]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.20.25:486][473]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.20.25:486][473]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.20.25:486][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.20.25:486][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.20.25:487][473]AssetCheck: /Game/Inventory/Widgets/WBP_ItemSlots Validating asset
+[2025.09.23-22.23.49:731][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2068.706543
+[2025.09.23-22.23.49:781][155]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-22.23.49:781][156]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2068.748291, Update Interval: 326.523621
+[2025.09.23-22.24.47:500][630]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.23-22.24.52:850][889]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.23-22.25.19:522][937]LogSlate: Window 'Color Picker' being destroyed
+[2025.09.23-22.29.01:168][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.23-22.29.01:797][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.29.01:835][196]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_ItemSlots] ([2] browsable assets)...
+[2025.09.23-22.29.01:837][196]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_ItemSlots.WBP_ItemSlots]
+[2025.09.23-22.29.01:837][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_ItemSlots]
+[2025.09.23-22.29.01:848][196]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_ItemSlots
+[2025.09.23-22.29.01:849][196]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_ItemSlots18CC5EAC4B3681C8BF398FB385D2F8B1.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_ItemSlots.uasset'
+[2025.09.23-22.29.01:858][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.900 ms (total: 1.00 sec)
+[2025.09.23-22.29.01:918][196]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.29.01:918][196]LogContentValidation: Enabled validators:
+[2025.09.23-22.29.01:918][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.29.01:918][196]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.29.01:918][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.29.01:918][196]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.29.01:918][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.29.01:918][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.29.01:918][196]AssetCheck: /Game/Inventory/Widgets/WBP_ItemSlots Validating asset
+[2025.09.23-22.29.26:595][819]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget
+[2025.09.23-22.29.26:596][819]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.23-22.29.26:604][819]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.09.23-22.29.50:734][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2429.707764
+[2025.09.23-22.29.50:784][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-22.29.50:784][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2429.749512, Update Interval: 353.851135
+[2025.09.23-22.30.51:336][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.30.51:395][988]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.30.51:397][988]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.30.51:397][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.30.51:404][988]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.30.51:404][988]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidget1403556348B327D5E542388E91B123F2.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.30.51:414][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.413 ms (total: 1.08 sec)
+[2025.09.23-22.30.51:480][988]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.30.51:480][988]LogContentValidation: Enabled validators:
+[2025.09.23-22.30.51:480][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.30.51:480][988]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.30.51:480][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.30.51:480][988]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.30.51:480][988]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.30.51:480][988]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.30.51:481][988]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.30.52:392][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.23-22.31.27:501][125]LogSlate: Took 0.001813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.09.23-22.31.49:005][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.31.49:051][215]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.31.49:054][215]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.31.49:054][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.31.49:062][215]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.31.49:063][215]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidget85F1C327499BAB91015A84BDA180BD7C.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.31.49:071][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.788 ms (total: 1.14 sec)
+[2025.09.23-22.31.49:117][215]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.31.49:117][215]LogContentValidation: Enabled validators:
+[2025.09.23-22.31.49:117][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.31.49:117][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.31.49:117][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.31.49:117][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.31.49:117][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.31.49:117][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.31.49:119][215]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.31.50:389][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.23-22.32.36:194][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.09.23-22.32.36:197][415]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.028
+[2025.09.23-22.32.36:197][415]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.32.36:202][415]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.32.36:202][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.32.36:211][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Widgets/WBP_InventoryWidget_Auto2
+[2025.09.23-22.32.36:211][415]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidget_Auto25A4546EF48FED5ECFAC2DD99674B67CC.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/Inventory/Widgets/WBP_InventoryWidget_Auto2.uasset'
+[2025.09.23-22.32.36:212][415]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.09.23-22.33.42:709][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:711][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:715][658]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:778][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:799][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:858][661]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:868][661]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:880][662]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:939][663]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:944][663]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:955][663]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:967][664]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:971][664]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.42:977][664]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:034][665]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:051][666]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:057][666]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:114][667]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:124][667]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:198][669]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:211][670]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:285][672]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:347][673]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:359][674]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:420][675]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:430][675]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:441][676]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:447][676]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:505][677]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:523][678]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:530][678]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:586][679]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:597][679]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:608][680]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:669][681]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:679][681]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:691][682]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:749][683]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:768][684]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:832][685]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:843][686]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:908][687]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:912][687]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:922][687]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:934][688]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:938][688]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.43:944][688]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:002][689]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:022][690]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:083][691]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:156][693]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:168][694]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:242][696]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:304][697]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:378][699]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:391][700]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:463][702]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:526][703]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.44:592][705]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.09.23-22.33.45:820][836]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.09.23-22.34.17:875][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.34.17:916][747]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.34.17:918][747]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.34.17:918][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.34.17:926][747]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.34.17:927][747]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidgetBB798BB7409874025AFF12A736DBCE27.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.34.17:936][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.801 ms (total: 1.20 sec)
+[2025.09.23-22.34.17:981][747]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.34.17:981][747]LogContentValidation: Enabled validators:
+[2025.09.23-22.34.17:981][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.34.17:981][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.34.17:981][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.34.17:981][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.34.17:981][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.34.17:981][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.34.17:982][747]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.34.18:667][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.23-22.34.54:670][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.34.54:734][617]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.34.54:737][617]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.34.54:737][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.34.54:746][617]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.34.54:746][617]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidgetEF77D0A243A7AB0AC38C4B8B51F95C1B.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.34.54:756][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.193 ms (total: 1.29 sec)
+[2025.09.23-22.34.54:800][617]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.34.54:800][617]LogContentValidation: Enabled validators:
+[2025.09.23-22.34.54:800][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.34.54:800][617]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.34.54:800][617]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.34.54:800][617]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.34.54:800][617]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.34.54:800][617]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.34.54:800][617]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.34.55:986][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.23-22.36.24:855][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2823.824951
+[2025.09.23-22.36.25:855][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-22.36.25:855][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2824.491211, Update Interval: 339.938354
+[2025.09.23-22.37.23:058][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.37.23:117][173]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.37.23:121][173]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.37.23:121][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.37.23:131][173]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.37.23:131][173]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidgetADE9C26A479E3FBE9966929598C5B93B.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.37.23:140][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.969 ms (total: 1.37 sec)
+[2025.09.23-22.37.23:183][173]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.37.23:183][173]LogContentValidation: Enabled validators:
+[2025.09.23-22.37.23:183][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.37.23:183][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.37.23:183][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.37.23:183][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.37.23:183][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.37.23:183][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.37.23:183][173]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.37.23:941][254]LogBlueprint: Error: [AssetLog] C:\Users\Sicilisi\Documents\GitHub\UnrealPhasmoMap\unrealPhasmoMap\Content\Inventory\Widgets\WBP_InventoryWidget.uasset: [Compiler] Default value '' for  Slot Array  is invalid: 'Array inputs (like 'Slot Array') must have an input wired into them (try connecting a MakeArray node).'
+[2025.09.23-22.37.24:006][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.09.23-22.37.47:530][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.09.23-22.39.22:564][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.39.22:617][312]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.39.22:619][312]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.39.22:619][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.39.22:631][312]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.39.22:631][312]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidget1C8EDF0744A01133BDEF0FA22AC33FBD.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.39.22:641][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.322 ms (total: 1.45 sec)
+[2025.09.23-22.39.22:700][312]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.39.22:701][312]LogContentValidation: Enabled validators:
+[2025.09.23-22.39.22:701][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.39.22:701][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.39.22:701][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.39.22:701][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.39.22:701][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.39.22:701][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.39.22:701][312]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.39.23:267][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.23-22.40.38:149][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.40.38:183][694]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.40.38:186][694]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.40.38:186][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.40.38:197][694]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.40.38:197][694]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidget4194CE8A434AB604940D16B281C6C8C9.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.40.38:206][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.758 ms (total: 1.50 sec)
+[2025.09.23-22.40.38:265][694]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.40.38:265][694]LogContentValidation: Enabled validators:
+[2025.09.23-22.40.38:265][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.40.38:265][694]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.40.38:265][694]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.40.38:265][694]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.40.38:265][694]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.40.38:265][694]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.40.38:266][694]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.40.39:275][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.23-22.42.30:204][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.42.30:266][304]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.42.30:269][304]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.42.30:269][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.42.30:281][304]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.42.30:281][304]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidget8F3DF0FF426657A67251FC942124D94F.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.42.30:292][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.061 ms (total: 1.59 sec)
+[2025.09.23-22.42.30:348][304]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.42.30:348][304]LogContentValidation: Enabled validators:
+[2025.09.23-22.42.30:348][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.42.30:348][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.42.30:348][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.42.30:348][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.42.30:348][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.42.30:348][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.42.30:349][304]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.42.31:295][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.23-22.42.45:269][775]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3204.236084
+[2025.09.23-22.42.45:327][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-22.42.45:327][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3204.286377, Update Interval: 343.650024
+[2025.09.23-22.43.59:751][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.43.59:799][222]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-22.43.59:802][222]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-22.43.59:802][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-22.43.59:815][222]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-22.43.59:815][222]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidgetB22228294B4F71D29BF0EB9359CAF6B2.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-22.43.59:826][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.767 ms (total: 1.67 sec)
+[2025.09.23-22.43.59:882][222]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.43.59:882][222]LogContentValidation: Enabled validators:
+[2025.09.23-22.43.59:882][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.43.59:882][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.43.59:882][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.43.59:882][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.43.59:882][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.43.59:882][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.43.59:883][222]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-22.44.01:177][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.23-22.48.49:773][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.48.49:838][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-22.48.49:838][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-22.48.49:838][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-22.48.49:849][ 49]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-22.48.49:851][ 49]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory1ED4F057409A134075F02B8E829C6481.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-22.48.49:859][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.599 ms (total: 1.76 sec)
+[2025.09.23-22.48.49:903][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.48.49:903][ 49]LogContentValidation: Enabled validators:
+[2025.09.23-22.48.49:903][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.48.49:903][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.48.49:903][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.48.49:903][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.48.49:903][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.48.49:903][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.48.49:903][ 49]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-22.48.50:984][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.09.23-22.49.06:601][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3585.549316
+[2025.09.23-22.49.07:032][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-22.49.07:032][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3585.972656, Update Interval: 347.103485
+[2025.09.23-22.49.15:186][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.49.15:232][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-22.49.15:232][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-22.49.15:232][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-22.49.15:244][679]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-22.49.15:245][679]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory2B1E401D4F44FE751275BCB7CD806F65.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-22.49.15:254][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.098 ms (total: 1.82 sec)
+[2025.09.23-22.49.15:316][679]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.49.15:316][679]LogContentValidation: Enabled validators:
+[2025.09.23-22.49.15:316][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.49.15:316][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.49.15:316][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.49.15:316][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.49.15:316][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.49.15:316][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.49.15:316][679]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-22.49.16:496][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.23-22.51.17:259][289]LogDerivedDataCache: C:/Users/Sicilisi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.23-22.52.04:080][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.52.04:132][141]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-22.52.04:132][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-22.52.04:132][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-22.52.04:147][141]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-22.52.04:147][141]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory75ABCE574EA6850A27E47C857BE10977.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-22.52.04:156][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.991 ms (total: 1.90 sec)
+[2025.09.23-22.52.04:198][141]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.52.04:199][141]LogContentValidation: Enabled validators:
+[2025.09.23-22.52.04:199][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.52.04:199][141]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.52.04:199][141]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.52.04:199][141]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.52.04:199][141]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.52.04:199][141]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.52.04:199][141]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-22.52.18:026][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.52.18:079][729]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-22.52.18:079][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-22.52.18:079][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-22.52.18:094][729]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-22.52.18:094][729]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_InventoryB4CBDA2C46D47A9A0D5B90BB3F6BC505.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-22.52.18:104][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.256 ms (total: 1.98 sec)
+[2025.09.23-22.52.18:146][729]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.52.18:146][729]LogContentValidation: Enabled validators:
+[2025.09.23-22.52.18:146][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.52.18:146][729]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.52.18:146][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.52.18:146][729]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.52.18:146][729]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.52.18:146][729]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.52.18:146][729]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-22.52.19:405][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.23-22.53.03:041][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.23-22.53.03:045][105]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.030
+[2025.09.23-22.53.03:045][105]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-22.53.03:045][105]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-22.53.03:061][105]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/BPC_Inventory_Auto3
+[2025.09.23-22.53.03:061][105]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory_Auto3015791CF4CD2B5AF7AE37A9D1F7E5197.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/Inventory/BPC_Inventory_Auto3.uasset'
+[2025.09.23-22.53.03:062][105]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.09.23-22.55.52:612][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3991.566650
+[2025.09.23-22.55.52:688][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-22.55.52:688][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3991.633057, Update Interval: 315.060883
+[2025.09.23-22.58.53:711][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.58.53:744][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-22.58.53:744][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-22.58.53:744][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-22.58.53:761][104]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-22.58.53:762][104]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_InventoryADC4C6D542404C3E326C83B37DC7154E.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-22.58.53:773][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.832 ms (total: 2.04 sec)
+[2025.09.23-22.58.53:827][104]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.58.53:827][104]LogContentValidation: Enabled validators:
+[2025.09.23-22.58.53:827][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.58.53:827][104]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.58.53:827][104]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.58.53:827][104]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.58.53:827][104]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.58.53:827][104]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.58.53:827][104]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-22.58.54:917][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.09.23-22.59.55:416][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.09.23-22.59.55:935][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-22.59.55:994][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-22.59.55:994][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-22.59.55:994][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-22.59.56:012][220]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-22.59.56:012][220]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_InventoryA0C7E19B42DA6B0DEA9640B35491C721.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-22.59.56:023][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.039 ms (total: 2.13 sec)
+[2025.09.23-22.59.56:076][220]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-22.59.56:076][220]LogContentValidation: Enabled validators:
+[2025.09.23-22.59.56:076][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-22.59.56:076][220]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-22.59.56:077][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-22.59.56:077][220]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-22.59.56:077][220]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-22.59.56:077][220]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-22.59.56:077][220]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.00.54:880][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.00.54:944][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.00.54:944][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.00.54:944][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-23.00.54:964][328]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-23.00.54:965][328]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_InventoryA344A75D4B042780570338B637689ED2.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-23.00.54:975][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.436 ms (total: 2.22 sec)
+[2025.09.23-23.00.55:010][328]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.00.55:010][328]LogContentValidation: Enabled validators:
+[2025.09.23-23.00.55:010][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.00.55:010][328]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.00.55:010][328]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.00.55:010][328]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.00.55:010][328]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.00.55:010][328]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.00.55:010][328]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.01.50:811][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.01.50:861][948]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.01.50:862][948]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.01.50:862][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-23.01.50:882][948]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-23.01.50:883][948]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory2BB534CD402C2FFE9E7F549EF1097834.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-23.01.50:892][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.435 ms (total: 2.30 sec)
+[2025.09.23-23.01.50:943][948]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.01.50:943][948]LogContentValidation: Enabled validators:
+[2025.09.23-23.01.50:943][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.01.50:943][948]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.01.50:943][948]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.01.50:943][948]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.01.50:943][948]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.01.50:943][948]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.01.50:944][948]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.01.51:842][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.23-23.02.06:845][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4365.809570
+[2025.09.23-23.02.06:912][779]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-23.02.06:912][780]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4365.868164, Update Interval: 356.852325
+[2025.09.23-23.04.51:743][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.04.51:797][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.04.51:797][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.04.51:797][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-23.04.51:819][  6]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-23.04.51:820][  6]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory703AAD1D4133AE4F3F9B25A739E0B06B.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-23.04.51:829][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.876 ms (total: 2.39 sec)
+[2025.09.23-23.04.51:880][  6]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.04.51:880][  6]LogContentValidation: Enabled validators:
+[2025.09.23-23.04.51:881][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.04.51:881][  6]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.04.51:881][  6]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.04.51:881][  6]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.04.51:881][  6]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.04.51:881][  6]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.04.51:881][  6]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.05.06:684][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.09.23-23.05.07:457][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.05.07:510][799]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.05.07:510][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.05.07:510][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-23.05.07:531][799]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-23.05.07:532][799]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory75DEA7714527F19D8B5F2887263C23A4.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-23.05.07:541][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.532 ms (total: 2.47 sec)
+[2025.09.23-23.05.07:595][799]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.05.07:595][799]LogContentValidation: Enabled validators:
+[2025.09.23-23.05.07:595][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.05.07:595][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.05.07:595][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.05.07:595][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.05.07:595][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.05.07:595][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.05.07:595][799]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.05.47:599][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.23-23.05.47:604][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.030
+[2025.09.23-23.05.47:604][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.05.47:604][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.05.47:625][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/BPC_Inventory_Auto4
+[2025.09.23-23.05.47:625][719]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory_Auto44C9C184943743032F8134BB229B6C7DC.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/Inventory/BPC_Inventory_Auto4.uasset'
+[2025.09.23-23.05.47:626][719]LogFileHelpers: Auto-saving content packages took 0.022
+[2025.09.23-23.06.13:377][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.23-23.06.14:177][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.06.14:242][499]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.06.14:242][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.06.14:242][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-23.06.14:263][499]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-23.06.14:263][499]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory6E3728564F7A11B5F0F2DFB0BDFEFB0F.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-23.06.14:274][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.040 ms (total: 2.57 sec)
+[2025.09.23-23.06.14:325][499]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.06.14:325][499]LogContentValidation: Enabled validators:
+[2025.09.23-23.06.14:325][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.06.14:325][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.06.14:325][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.06.14:325][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.06.14:325][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.06.14:325][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.06.14:325][499]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.07.53:498][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.07.53:557][956]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.07.53:557][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.07.53:557][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-23.07.53:580][956]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-23.07.53:581][956]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory94CF6E8B4FB8C87AFA358A94D30877F5.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-23.07.53:592][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.825 ms (total: 2.66 sec)
+[2025.09.23-23.07.53:640][956]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.07.53:640][956]LogContentValidation: Enabled validators:
+[2025.09.23-23.07.53:640][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.07.53:640][956]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.07.53:640][956]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.07.53:640][956]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.07.53:640][956]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.07.53:640][956]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.07.53:640][956]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.07.54:797][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.23-23.08.53:734][237]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4772.661133
+[2025.09.23-23.08.54:408][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-23.08.54:408][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4773.329102, Update Interval: 329.784851
+[2025.09.23-23.09.54:379][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.23-23.09.55:068][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.09.55:123][124]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.09.55:123][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.09.55:123][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-23.09.55:149][124]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-23.09.55:149][124]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_InventoryED9A9D72451D8CA938185C8BE8932596.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-23.09.55:159][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.407 ms (total: 2.75 sec)
+[2025.09.23-23.09.55:223][124]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.09.55:223][124]LogContentValidation: Enabled validators:
+[2025.09.23-23.09.55:223][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.09.55:223][124]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.09.55:223][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.09.55:223][124]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.09.55:223][124]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.09.55:223][124]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.09.55:223][124]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.10.28:563][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.10.28:622][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/BPC_Inventory] ([2] browsable assets)...
+[2025.09.23-23.10.28:622][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/BPC_Inventory]
+[2025.09.23-23.10.28:622][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inventory/BPC_Inventory" FILE="../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset" SILENT=true
+[2025.09.23-23.10.28:647][ 45]LogSavePackage: Moving output files for package: /Game/Inventory/BPC_Inventory
+[2025.09.23-23.10.28:647][ 45]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BPC_Inventory5F47151F4BFC8692C0C977AB5290AF48.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/BPC_Inventory.uasset'
+[2025.09.23-23.10.28:657][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.211 ms (total: 2.85 sec)
+[2025.09.23-23.10.28:721][ 45]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.10.28:721][ 45]LogContentValidation: Enabled validators:
+[2025.09.23-23.10.28:721][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.10.28:721][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.10.28:721][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.10.28:721][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.10.28:721][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.10.28:721][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.10.28:721][ 45]AssetCheck: /Game/Inventory/BPC_Inventory Validating asset
+[2025.09.23-23.10.29:696][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.23-23.10.52:108][698]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.09.23-23.10.59:408][473]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.23-23.10.59:561][476]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.09.23-23.10.59:810][485]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.09.23-23.10.59:831][486]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.09.23-23.10.59:881][488]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.09.23-23.11.08:831][417]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.09.23-23.11.13:366][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2025.09.23-23.11.13:366][883]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.09.23-23.11.46:450][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.09.23-23.11.50:695][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.11.50:756][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.09.23-23.11.50:871][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.09.23-23.11.50:871][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.09.23-23.11.50:903][344]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.09.23-23.11.50:904][344]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BP_FirstPersonCharacterDF955E9F4F011DC08DD09D854AF0481C.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.09.23-23.11.50:918][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 222.751 ms (total: 3.07 sec)
+[2025.09.23-23.11.50:971][344]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.11.50:971][344]LogContentValidation: Enabled validators:
+[2025.09.23-23.11.50:971][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.11.50:971][344]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.11.50:971][344]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.11.50:971][344]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.11.50:971][344]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.11.50:971][344]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.11.50:971][344]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2025.09.23-23.11.52:531][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.23-23.11.52:542][499]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.23-23.11.52:542][499]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.09.23-23.11.52:543][499]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 744 us
+[2025.09.23-23.11.52:544][499]LogPlayLevel: [PlayLevel] Compiling BP_TestItem1 before play...
+[2025.09.23-23.11.52:574][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.09.23-23.11.52:578][499]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2025.09.23-23.11.52:584][499]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.23-23.11.52:584][499]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.23-23.11.52:584][499]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.23-23.11.52:590][499]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.23-23.11.52:591][499]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.259 ms
+[2025.09.23-23.11.52:591][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006232s)
+[2025.09.23-23.11.52:591][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.006285s)
+[2025.09.23-23.11.52:614][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.09.23-23.11.52:618][499]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.09.23-23.11.52:620][499]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.23-23.11.52:620][499]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.23-23.11.52:620][499]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.23-23.11.52:620][499]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.23-23.11.52:621][499]LogWorldPartition: Display: WorldPartition initialize took 1.538 ms (total: 76.299 ms)
+[2025.09.23-23.11.52:621][499]LogPlayLevel: PIE: World Init took: (0.003504s)
+[2025.09.23-23.11.52:622][499]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.23-23.11.52:622][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-23.11.52:622][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-23.11.52:622][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-23.11.52:622][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-23.11.52:622][499]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-23.11.52:622][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-23.11.52:622][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-23.11.52:622][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-23.11.52:622][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-23.11.52:622][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-23.11.52:622][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-23.11.52:625][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-23.11.52:645][499]LogAudioMixer: Display: Using Audio Hardware Device HP Z24n G2 (NVIDIA High Definition Audio)
+[2025.09.23-23.11.52:646][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-23.11.52:646][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-23.11.52:646][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-23.11.52:646][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.23-23.11.52:646][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.23-23.11.52:649][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.23-23.11.52:649][499]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.23-23.11.52:649][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.23-23.11.52:649][499]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_FirstPerson'.
+[2025.09.23-23.11.52:649][499]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.23-23.11.52:684][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-23.11.52:684][499]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.23-23.11.52:687][499]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.09.23-19.11.52
+[2025.09.23-23.11.52:687][499]LogWorld: Bringing up level for play took: 0.002513
+[2025.09.23-23.11.52:690][499]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.09.23-23.11.52:705][499]PIE: Server logged in
+[2025.09.23-23.11.52:708][499]PIE: Play in editor total start time 0.167 seconds.
+[2025.09.23-23.11.52:738][500]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2025.09.23-23.11.52:738][500]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.09.23-23.11.52:785][500]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.23-23.11.53:537][540]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.09.23-23.11.59:327][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-23.11.59:327][962]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.23-23.11.59:328][962]LogSlate: Window 'unrealPhasmoMap Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.23-23.11.59:335][962]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-23.11.59:336][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-23.11.59:336][962]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.09.23-23.11.59:337][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-23.11.59:342][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-23.11.59:371][962]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.23-23.11.59:371][962]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.09.23-23.11.59:373][962]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.09.23-23.11.59:381][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.09.23-23.11.59:417][963]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.09.23-23.12.54:926][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.23-23.12.54:963][215]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Widgets/WBP_InventoryWidget] ([2] browsable assets)...
+[2025.09.23-23.12.54:966][215]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Inventory/Widgets/WBP_InventoryWidget.WBP_InventoryWidget]
+[2025.09.23-23.12.54:966][215]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Widgets/WBP_InventoryWidget]
+[2025.09.23-23.12.54:978][215]LogSavePackage: Moving output files for package: /Game/Inventory/Widgets/WBP_InventoryWidget
+[2025.09.23-23.12.54:979][215]LogSavePackage: Moving '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WBP_InventoryWidgetC074248D4676205CE9591E8807CC7439.tmp' to '../../../../../../Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Widgets/WBP_InventoryWidget.uasset'
+[2025.09.23-23.12.54:989][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.469 ms (total: 3.13 sec)
+[2025.09.23-23.12.55:046][215]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.23-23.12.55:046][215]LogContentValidation: Enabled validators:
+[2025.09.23-23.12.55:046][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.23-23.12.55:046][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.23-23.12.55:046][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.23-23.12.55:046][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.23-23.12.55:046][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.23-23.12.55:046][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.23-23.12.55:047][215]AssetCheck: /Game/Inventory/Widgets/WBP_InventoryWidget Validating asset
+[2025.09.23-23.12.56:286][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.23-23.13.00:532][786]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.23-23.13.00:542][786]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.23-23.13.00:542][786]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.09.23-23.13.00:542][786]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 731 us (total: 1.476 ms)
+[2025.09.23-23.13.00:543][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.23-23.13.00:543][786]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.23-23.13.00:548][786]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.23-23.13.00:549][786]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.263 ms (total: 2.523 ms)
+[2025.09.23-23.13.00:549][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006250s)
+[2025.09.23-23.13.00:549][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.006287s)
+[2025.09.23-23.13.00:573][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.23-23.13.00:576][786]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.09.23-23.13.00:578][786]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.23-23.13.00:578][786]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.23-23.13.00:578][786]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.23-23.13.00:578][786]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.23-23.13.00:579][786]LogWorldPartition: Display: WorldPartition initialize took 1.373 ms (total: 77.672 ms)
+[2025.09.23-23.13.00:579][786]LogPlayLevel: PIE: World Init took: (0.003430s)
+[2025.09.23-23.13.00:580][786]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.23-23.13.00:580][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-23.13.00:580][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-23.13.00:580][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-23.13.00:580][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-23.13.00:580][786]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-23.13.00:580][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-23.13.00:580][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-23.13.00:580][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-23.13.00:580][786]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-23.13.00:580][786]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-23.13.00:580][786]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-23.13.00:584][786]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-23.13.00:604][786]LogAudioMixer: Display: Using Audio Hardware Device HP Z24n G2 (NVIDIA High Definition Audio)
+[2025.09.23-23.13.00:605][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-23.13.00:605][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-23.13.00:605][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-23.13.00:606][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.23-23.13.00:606][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.23-23.13.00:608][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.23-23.13.00:608][786]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.23-23.13.00:608][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.23-23.13.00:608][786]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2025.09.23-23.13.00:608][786]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.23-23.13.00:662][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-23.13.00:662][786]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.23-23.13.00:665][786]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.09.23-19.13.00
+[2025.09.23-23.13.00:665][786]LogWorld: Bringing up level for play took: 0.002474
+[2025.09.23-23.13.00:669][786]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2025.09.23-23.13.00:682][786]PIE: Server logged in
+[2025.09.23-23.13.00:686][786]PIE: Play in editor total start time 0.144 seconds.
+[2025.09.23-23.13.00:759][787]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.23-23.13.01:526][827]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.09.23-23.13.05:967][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-23.13.05:967][148]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.23-23.13.05:967][148]LogSlate: Window 'unrealPhasmoMap Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.09.23-23.13.05:975][148]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-23.13.05:975][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-23.13.05:975][148]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.09.23-23.13.05:978][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-23.13.05:983][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-23.13.06:009][148]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.23-23.13.06:009][148]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.23-23.13.06:010][148]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.09.23-23.13.06:012][148]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.09.23-23.13.06:019][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.09.23-23.13.06:098][149]LogPlayLevel: Display: Destroying online subsystem :Context_28
