@@ -6,12 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/WB_UI.uasset",
-				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/NewHUD.uasset",
 				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/NewHUD.uasset",
 				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/WB_UI.uasset",
-				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/CrossHair/Layer_1.uasset"
+				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/UI/CrossHair/Layer_1.uasset",
+				"C:/Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Input/IMC_Default.uasset",
+				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/WB_UI.uasset",
+				"C:/Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/NewHUD.uasset"
 			]
 		}
 	]
