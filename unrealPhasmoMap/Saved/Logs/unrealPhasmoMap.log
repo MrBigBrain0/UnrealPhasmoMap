@@ -1396,3 +1396,440 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.24-23.58.05:210][719]AssetCheck: /Game/Inventory/Pickups/Art/HighPolyThermo Validating asset
 [2025.09.24-23.58.05:210][719]AssetCheck: /Game/Inventory/Pickups/Art/openPBR_shader1 Validating asset
 [2025.09.24-23.58.05:230][719]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.24-23.59.02:262][465]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.24-23.59.02:328][465]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.24-23.59.02:333][465]LogStreaming: Display: FlushAsyncLoading(414): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.24-23.59.03:435][466]LogPSOHitching: Encountered 400 PSO creation hitches so far (100 graphics, 300 compute). 0 of them were precached.
+[2025.09.24-23.59.10:941][856]LogSlate: Window 'HighPolyBook' being destroyed
+[2025.09.24-23.59.25:156][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.24-23.59.25:156][679]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.24-23.59.25:158][679]LogActorFactory: Actor Factory spawned StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_1
+[2025.09.24-23.59.26:484][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.24-23.59.26:486][755]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2025.09.24-23.59.26:493][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.24-23.59.26:493][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.24-23.59.26:498][755]LogActorFactory: Actor Factory spawned StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_D8BBC1B5C12E229202_2070244655
+[2025.09.24-23.59.28:083][844]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-23.59.28:096][844]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.24-23.59.28:096][844]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.09.24-23.59.28:102][844]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 5.160 ms
+[2025.09.24-23.59.28:112][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-23.59.28:133][844]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.24-23.59.28:133][844]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.24-23.59.28:134][844]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.24-23.59.28:142][844]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.24-23.59.28:144][844]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.155 ms
+[2025.09.24-23.59.28:144][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009568s)
+[2025.09.24-23.59.28:144][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.009875s)
+[2025.09.24-23.59.28:165][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.24-23.59.28:168][844]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.09.24-23.59.28:171][844]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.24-23.59.28:171][844]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.24-23.59.28:171][844]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.24-23.59.28:172][844]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.24-23.59.28:174][844]LogWorldPartition: Display: WorldPartition initialize took 2.606 ms (total: 132.954 ms)
+[2025.09.24-23.59.28:174][844]LogPlayLevel: PIE: World Init took: (0.005759s)
+[2025.09.24-23.59.28:175][844]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.24-23.59.28:175][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-23.59.28:175][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-23.59.28:175][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-23.59.28:175][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-23.59.28:175][844]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-23.59.28:175][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-23.59.28:175][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-23.59.28:175][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-23.59.28:175][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-23.59.28:175][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-23.59.28:175][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-23.59.28:178][844]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-23.59.28:227][844]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.24-23.59.28:227][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-23.59.28:227][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-23.59.28:227][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-23.59.28:227][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.24-23.59.28:227][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.24-23.59.28:230][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.24-23.59.28:230][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.24-23.59.28:230][844]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.24-23.59.28:230][844]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_FirstPerson'.
+[2025.09.24-23.59.28:230][844]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.24-23.59.28:239][844]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.24-23.59.28:243][844]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2025.09.24-19.59.28
+[2025.09.24-23.59.28:244][844]LogWorld: Bringing up level for play took: 0.003291
+[2025.09.24-23.59.28:247][844]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.09.24-23.59.28:362][844]PIE: Server logged in
+[2025.09.24-23.59.28:364][844]PIE: Play in editor total start time 0.269 seconds.
+[2025.09.24-23.59.28:477][845]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.24-23.59.28:643][846]LogPSOHitching: Encountered 450 PSO creation hitches so far (120 graphics, 330 compute). 0 of them were precached.
+[2025.09.24-23.59.29:176][851]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.09.24-23.59.29:193][852]LogSlate: Took 0.001587 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.24-23.59.35:306][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-23.59.35:306][142]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.24-23.59.35:308][142]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-23.59.35:310][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-23.59.35:310][142]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.09.24-23.59.35:315][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-23.59.35:319][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-23.59.35:348][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-23.59.35:349][142]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.24-23.59.35:352][142]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.09.24-23.59.35:355][142]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.09.24-23.59.35:369][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.24-23.59.35:445][143]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2025.09.24-23.59.37:341][252]Cmd: DELETE
+[2025.09.24-23.59.37:342][252]Cmd: ACTOR DELETE
+[2025.09.24-23.59.37:365][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.24-23.59.37:386][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.09.24-23.59.37:389][252]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.09.24-23.59.42:283][540]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 312.319916
+[2025.09.24-23.59.42:384][546]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-23.59.42:384][546]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 312.406708, Update Interval: 333.751038
+[2025.09.24-23.59.58:947][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-23.59.58:979][536]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Pickups/Art/HighPolyBook] ([1] browsable assets)...
+[2025.09.24-23.59.58:979][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/Art/HighPolyBook]
+[2025.09.24-23.59.58:983][536]LogSavePackage: Moving output files for package: /Game/Inventory/Pickups/Art/HighPolyBook
+[2025.09.24-23.59.58:984][536]LogSavePackage: Moving '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HighPolyBook48190BE842097D1BA24867AD5F9EC9CC.tmp' to '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Pickups/Art/HighPolyBook.uasset'
+[2025.09.24-23.59.58:992][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.266 ms (total: 255.351 ms)
+[2025.09.24-23.59.59:019][536]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-23.59.59:019][536]LogContentValidation: Enabled validators:
+[2025.09.24-23.59.59:019][536]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-23.59.59:019][536]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-23.59.59:019][536]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-23.59.59:019][536]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-23.59.59:019][536]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-23.59.59:019][536]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-23.59.59:019][536]AssetCheck: /Game/Inventory/Pickups/Art/HighPolyBook Validating asset
+[2025.09.25-00.00.05:421][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.25-00.00.05:421][884]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.25-00.00.05:422][884]LogActorFactory: Actor Factory spawned StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_2
+[2025.09.25-00.00.06:461][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.09.25-00.00.06:467][945]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.09.25-00.00.06:473][945]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.25-00.00.06:473][945]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.25-00.00.06:476][945]LogActorFactory: Actor Factory spawned StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_D8BBC1B5C12E229202_2110223656
+[2025.09.25-00.00.07:799][ 19]Cmd: DELETE
+[2025.09.25-00.00.07:799][ 19]Cmd: ACTOR DELETE
+[2025.09.25-00.00.07:801][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.25-00.00.07:825][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.09.25-00.00.07:827][ 19]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.09.25-00.00.13:449][336]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.25-00.00.13:457][336]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.25-00.00.13:457][336]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.09.25-00.00.13:457][336]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 724 us (total: 5.884 ms)
+[2025.09.25-00.00.13:458][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.25-00.00.13:480][336]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.25-00.00.13:486][336]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.25-00.00.13:488][336]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.394 ms (total: 2.550 ms)
+[2025.09.25-00.00.13:488][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007943s)
+[2025.09.25-00.00.13:488][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.008024s)
+[2025.09.25-00.00.13:507][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.09.25-00.00.13:510][336]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.09.25-00.00.13:512][336]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.25-00.00.13:512][336]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.25-00.00.13:512][336]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.25-00.00.13:512][336]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.25-00.00.13:514][336]LogWorldPartition: Display: WorldPartition initialize took 1.682 ms (total: 134.637 ms)
+[2025.09.25-00.00.13:514][336]LogPlayLevel: PIE: World Init took: (0.003767s)
+[2025.09.25-00.00.13:515][336]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.25-00.00.13:515][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.25-00.00.13:515][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.25-00.00.13:515][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.25-00.00.13:515][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.25-00.00.13:515][336]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.25-00.00.13:515][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.25-00.00.13:515][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.25-00.00.13:515][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.25-00.00.13:515][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.25-00.00.13:515][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.25-00.00.13:515][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.25-00.00.13:518][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.25-00.00.13:570][336]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.09.25-00.00.13:570][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.25-00.00.13:570][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.25-00.00.13:570][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.25-00.00.13:570][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.25-00.00.13:570][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.25-00.00.13:573][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.25-00.00.13:573][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.25-00.00.13:573][336]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.25-00.00.13:573][336]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2025.09.25-00.00.13:573][336]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.25-00.00.13:578][336]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.09.25-00.00.13:580][336]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2025.09.24-20.00.13
+[2025.09.25-00.00.13:581][336]LogWorld: Bringing up level for play took: 0.002804
+[2025.09.25-00.00.13:583][336]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.09.25-00.00.13:591][336]PIE: Server logged in
+[2025.09.25-00.00.13:593][336]PIE: Play in editor total start time 0.137 seconds.
+[2025.09.25-00.00.13:647][337]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.25-00.00.14:472][359]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.09.25-00.00.15:690][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.25-00.00.15:690][396]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.09.25-00.00.15:691][396]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.25-00.00.15:691][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-00.00.15:692][396]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.09.25-00.00.15:693][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.25-00.00.15:695][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.25-00.00.15:715][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.25-00.00.15:715][396]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.25-00.00.15:715][396]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.09.25-00.00.15:718][396]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.09.25-00.00.15:728][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.25-00.00.15:796][397]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.09.25-00.00.36:296][550]LogShaderCompilers: Display: ================================================
+[2025.09.25-00.00.36:296][550]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.25-00.00.36:296][550]LogShaderCompilers: Display: Total job queries 504, among them cache hits 74 (14.68%), DDC hits 347 (68.85%), Duplicates 72 (14.29%)
+[2025.09.25-00.00.36:296][550]LogShaderCompilers: Display: Tracking 358 distinct input hashes that result in 263 distinct outputs (73.46%)
+[2025.09.25-00.00.36:296][550]LogShaderCompilers: Display: RAM used: 3.52 MiB of 819.20 MiB budget. Usage: 0.43%
+[2025.09.25-00.00.36:296][550]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.25-00.00.36:296][550]LogShaderCompilers: Display: Shaders Compiled: 11
+[2025.09.25-00.00.36:296][550]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Average time worker was idle: 0.59 s
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.11 s
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Job execution time: average 2.32 s, max 3.53 s
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Job life time (pending + execution): average 2.36 s, max 3.56
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Shader code size: total 137.189 KiB, numShaders 11, average 12.472 KiB, min 4.277 KiB, max 19.18 KiB
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.21 s
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Average processing rate: 2.11 jobs/sec
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Total thread time: 22.337 s
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Total thread preprocess time: 13.575 s
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Percentage time preprocessing: 60.77%
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Effective parallelization: 4.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.535860
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.15 sec, max 3.15 sec, min 3.15 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.13 sec, max 3.13 sec, min 3.13 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.78 sec, max 2.78 sec, min 2.78 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 2.34 sec, max 2.64 sec, min 2.05 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 20.99% of total time (compiled    2 times, average 2.34 sec, max 2.64 sec, min 2.05 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.47% of total time (compiled    2 times, average 1.95 sec, max 2.70 sec, min 1.20 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 14.12% of total time (compiled    1 times, average 3.15 sec, max 3.15 sec, min 3.15 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 14.00% of total time (compiled    1 times, average 3.13 sec, max 3.13 sec, min 3.13 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display:                                                 FLumenCardCS - 12.46% of total time (compiled    1 times, average 2.78 sec, max 2.78 sec, min 2.78 sec)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: === Material stats ===
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Materials Translated:    146
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: Material Cache Hits: 15 (10%)
+[2025.09.25-00.00.36:299][550]LogShaderCompilers: Display: ================================================
+[2025.09.25-00.00.47:903][240]LogStreaming: Display: FlushAsyncLoading(420): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.25-00.04.46:206][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.25-00.04.46:210][152]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.040
+[2025.09.25-00.05.18:477][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 648.511719
+[2025.09.25-00.05.19:477][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.25-00.05.19:477][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 649.179077, Update Interval: 332.300781
+[2025.09.25-00.08.50:769][132]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-00.08.50:769][132]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyThermo.fbx]
+[2025.09.25-00.08.50:854][132]LogStaticMesh: Display: Building static mesh HighPolyThermo (Required Memory Estimate: 3.572705 MB)...
+[2025.09.25-00.08.50:864][132]LogStaticMesh: Adjacency [0.00s], tris: 2316, UVs 1
+[2025.09.25-00.08.50:872][132]LogStaticMesh: Clustering [0.01s]. Ratio: 1.421053
+[2025.09.25-00.08.50:872][132]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-00.08.50:967][132]LogStaticMesh: Reduce [0.10s]
+[2025.09.25-00.08.50:995][132]LogStaticMesh: Fallback [0.03s], num tris: 490
+[2025.09.25-00.08.51:006][132]LogStaticMesh: Fallback [0.01s], num tris: 270
+[2025.09.25-00.08.51:007][132]LogStaticMesh: ConstrainClusters:
+[2025.09.25-00.08.51:007][132]LogStaticMesh:   Input: 48 Clusters, 4962 Triangles and 5118 Vertices
+[2025.09.25-00.08.51:007][132]LogStaticMesh:   Output without splits: 48 Clusters, 4962 Triangles and 5129 Vertices
+[2025.09.25-00.08.51:007][132]LogStaticMesh:   Output with splits: 48 Clusters, 4962 Triangles and 5129 Vertices
+[2025.09.25-00.08.51:007][132]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 48, Slow Path Clusters: 0, 1 Material: 48, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-00.08.51:007][132]LogStaticMesh: WritePages:
+[2025.09.25-00.08.51:007][132]LogStaticMesh:   Root: GPU size: 31080 bytes. 1 Pages. 31080.000 bytes per page (94.849% utilization).
+[2025.09.25-00.08.51:007][132]LogStaticMesh:   Streaming: GPU size: 29444 bytes. 1 Pages (1 with relative encoding). 29444.000 bytes per page (22.464% utilization).
+[2025.09.25-00.08.51:007][132]LogStaticMesh:   Page data disk size: 45228 bytes. Fixup data size: 304 bytes.
+[2025.09.25-00.08.51:007][132]LogStaticMesh:   Total GPU size: 60524 bytes, Total disk size: 45532 bytes.
+[2025.09.25-00.08.51:008][132]LogStaticMesh: Encode [0.00s]
+[2025.09.25-00.08.51:008][132]LogStaticMesh: NaniteBuild [0.14s]
+[2025.09.25-00.08.51:022][132]LogStaticMesh: Built static mesh [0.18s] /Game/Inventory/Pickups/Art/HighPolyThermo.HighPolyThermo
+[2025.09.25-00.08.51:049][132]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Silve/OneDr...evelDesign/Year3/FBX/HighPolyThermo.fbx]
+[2025.09.25-00.08.51:049][132]Interchange: Warning: [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyThermo.fbx : 'HighPolyThermo', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-00.08.51:054][132]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-00.08.51:054][132]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-00.08.51:067][132]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-00.08.51:067][132]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyBook.fbx]
+[2025.09.25-00.08.51:115][132]LogStaticMesh: Display: Building static mesh HighPolyBook (Required Memory Estimate: 1.34957 MB)...
+[2025.09.25-00.08.51:119][132]LogStaticMesh: Adjacency [0.00s], tris: 872, UVs 1
+[2025.09.25-00.08.51:120][132]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.09.25-00.08.51:120][132]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-00.08.51:152][132]LogStaticMesh: Reduce [0.03s]
+[2025.09.25-00.08.51:173][132]LogStaticMesh: Fallback [0.02s], num tris: 348
+[2025.09.25-00.08.51:195][132]LogStaticMesh: Fallback [0.02s], num tris: 314
+[2025.09.25-00.08.51:196][132]LogStaticMesh: ConstrainClusters:
+[2025.09.25-00.08.51:196][132]LogStaticMesh:   Input: 14 Clusters, 1754 Triangles and 1689 Vertices
+[2025.09.25-00.08.51:196][132]LogStaticMesh:   Output without splits: 14 Clusters, 1754 Triangles and 1690 Vertices
+[2025.09.25-00.08.51:196][132]LogStaticMesh:   Output with splits: 14 Clusters, 1754 Triangles and 1690 Vertices
+[2025.09.25-00.08.51:196][132]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-00.08.51:196][132]LogStaticMesh: WritePages:
+[2025.09.25-00.08.51:196][132]LogStaticMesh:   Root: GPU size: 19780 bytes. 1 Pages. 19780.000 bytes per page (60.364% utilization).
+[2025.09.25-00.08.51:196][132]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.25-00.08.51:196][132]LogStaticMesh:   Page data disk size: 16688 bytes. Fixup data size: 72 bytes.
+[2025.09.25-00.08.51:196][132]LogStaticMesh:   Total GPU size: 19780 bytes, Total disk size: 16760 bytes.
+[2025.09.25-00.08.51:196][132]LogStaticMesh: Encode [0.00s]
+[2025.09.25-00.08.51:196][132]LogStaticMesh: NaniteBuild [0.08s]
+[2025.09.25-00.08.51:214][132]LogStaticMesh: Built static mesh [0.10s] /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook
+[2025.09.25-00.08.51:265][132]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Silve/OneDr...evelDesign/Year3/FBX/HighPolyBook.fbx]
+[2025.09.25-00.08.51:266][132]Interchange: Warning: [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyBook.fbx : 'HighPolyBook', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-00.08.51:276][132]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-00.08.51:276][132]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-00.08.51:289][132]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-00.08.51:289][132]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyBookActive.fbx]
+[2025.09.25-00.08.51:326][132]LogStaticMesh: Display: Building static mesh HighPolyBookActive (Required Memory Estimate: 1.45741 MB)...
+[2025.09.25-00.08.51:330][132]LogStaticMesh: Adjacency [0.00s], tris: 940, UVs 1
+[2025.09.25-00.08.51:332][132]LogStaticMesh: Clustering [0.00s]. Ratio: 1.750000
+[2025.09.25-00.08.51:332][132]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-00.08.51:368][132]LogStaticMesh: Reduce [0.04s]
+[2025.09.25-00.08.51:390][132]LogStaticMesh: Fallback [0.02s], num tris: 448
+[2025.09.25-00.08.51:414][132]LogStaticMesh: Fallback [0.02s], num tris: 346
+[2025.09.25-00.08.51:414][132]LogStaticMesh: ConstrainClusters:
+[2025.09.25-00.08.51:414][132]LogStaticMesh:   Input: 21 Clusters, 1822 Triangles and 1917 Vertices
+[2025.09.25-00.08.51:414][132]LogStaticMesh:   Output without splits: 21 Clusters, 1822 Triangles and 1917 Vertices
+[2025.09.25-00.08.51:414][132]LogStaticMesh:   Output with splits: 21 Clusters, 1822 Triangles and 1917 Vertices
+[2025.09.25-00.08.51:414][132]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 21, Slow Path Clusters: 0, 1 Material: 21, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-00.08.51:415][132]LogStaticMesh: WritePages:
+[2025.09.25-00.08.51:415][132]LogStaticMesh:   Root: GPU size: 22580 bytes. 1 Pages. 22580.000 bytes per page (68.909% utilization).
+[2025.09.25-00.08.51:415][132]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.25-00.08.51:415][132]LogStaticMesh:   Page data disk size: 20092 bytes. Fixup data size: 72 bytes.
+[2025.09.25-00.08.51:415][132]LogStaticMesh:   Total GPU size: 22580 bytes, Total disk size: 20164 bytes.
+[2025.09.25-00.08.51:415][132]LogStaticMesh: Encode [0.00s]
+[2025.09.25-00.08.51:415][132]LogStaticMesh: NaniteBuild [0.08s]
+[2025.09.25-00.08.51:436][132]LogStaticMesh: Built static mesh [0.11s] /Game/Inventory/Pickups/Art/HighPolyBookActive.HighPolyBookActive
+[2025.09.25-00.08.51:444][132]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Silve/OneDr...evelDesign/Year3/FBX/HighPolyBookActive.fbx]
+[2025.09.25-00.08.51:444][132]Interchange: Warning: [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyBookActive.fbx : 'HighPolyBookActive', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-00.08.51:448][132]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-00.08.51:448][132]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-00.08.51:463][132]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-00.08.51:463][132]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyDots.fbx]
+[2025.09.25-00.08.51:501][132]LogStaticMesh: Display: Building static mesh HighPolyDots (Required Memory Estimate: 1.585176 MB)...
+[2025.09.25-00.08.51:504][132]LogStaticMesh: Adjacency [0.00s], tris: 1022, UVs 1
+[2025.09.25-00.08.51:506][132]LogStaticMesh: Clustering [0.00s]. Ratio: 1.125000
+[2025.09.25-00.08.51:506][132]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-00.08.51:542][132]LogStaticMesh: Reduce [0.04s]
+[2025.09.25-00.08.51:557][132]LogStaticMesh: Fallback [0.02s], num tris: 694
+[2025.09.25-00.08.51:580][132]LogStaticMesh: Fallback [0.02s], num tris: 492
+[2025.09.25-00.08.51:581][132]LogStaticMesh: ConstrainClusters:
+[2025.09.25-00.08.51:581][132]LogStaticMesh:   Input: 16 Clusters, 1904 Triangles and 2013 Vertices
+[2025.09.25-00.08.51:581][132]LogStaticMesh:   Output without splits: 16 Clusters, 1904 Triangles and 2015 Vertices
+[2025.09.25-00.08.51:581][132]LogStaticMesh:   Output with splits: 16 Clusters, 1904 Triangles and 2015 Vertices
+[2025.09.25-00.08.51:581][132]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-00.08.51:582][132]LogStaticMesh: WritePages:
+[2025.09.25-00.08.51:582][132]LogStaticMesh:   Root: GPU size: 23048 bytes. 1 Pages. 23048.000 bytes per page (70.337% utilization).
+[2025.09.25-00.08.51:582][132]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.25-00.08.51:582][132]LogStaticMesh:   Page data disk size: 20948 bytes. Fixup data size: 72 bytes.
+[2025.09.25-00.08.51:582][132]LogStaticMesh:   Total GPU size: 23048 bytes, Total disk size: 21020 bytes.
+[2025.09.25-00.08.51:582][132]LogStaticMesh: Encode [0.00s]
+[2025.09.25-00.08.51:582][132]LogStaticMesh: NaniteBuild [0.08s]
+[2025.09.25-00.08.51:613][132]LogStaticMesh: Built static mesh [0.11s] /Game/Inventory/Pickups/Art/HighPolyDots.HighPolyDots
+[2025.09.25-00.08.51:621][132]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Silve/OneDr...evelDesign/Year3/FBX/HighPolyDots.fbx]
+[2025.09.25-00.08.51:621][132]Interchange: Warning: [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyDots.fbx : 'HighPolyDots', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-00.08.51:633][132]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-00.08.51:633][132]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-00.08.51:644][132]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-00.08.51:644][132]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyDotsActive.fbx]
+[2025.09.25-00.08.51:694][132]LogStaticMesh: Display: Building static mesh HighPolyDotsActive (Required Memory Estimate: 2.571487 MB)...
+[2025.09.25-00.08.51:701][132]LogStaticMesh: Adjacency [0.00s], tris: 1666, UVs 1
+[2025.09.25-00.08.51:703][132]LogStaticMesh: Clustering [0.00s]. Ratio: 1.214286
+[2025.09.25-00.08.51:703][132]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-00.08.51:762][132]LogStaticMesh: Reduce [0.06s]
+[2025.09.25-00.08.51:793][132]LogStaticMesh: Fallback [0.03s], num tris: 774
+[2025.09.25-00.08.51:831][132]LogStaticMesh: Fallback [0.04s], num tris: 578
+[2025.09.25-00.08.51:832][132]LogStaticMesh: ConstrainClusters:
+[2025.09.25-00.08.51:832][132]LogStaticMesh:   Input: 31 Clusters, 3430 Triangles and 3447 Vertices
+[2025.09.25-00.08.51:832][132]LogStaticMesh:   Output without splits: 31 Clusters, 3430 Triangles and 3453 Vertices
+[2025.09.25-00.08.51:832][132]LogStaticMesh:   Output with splits: 31 Clusters, 3430 Triangles and 3453 Vertices
+[2025.09.25-00.08.51:832][132]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 31, Slow Path Clusters: 0, 1 Material: 31, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-00.08.51:833][132]LogStaticMesh: WritePages:
+[2025.09.25-00.08.51:833][132]LogStaticMesh:   Root: GPU size: 32764 bytes. 1 Pages. 32764.000 bytes per page (99.988% utilization).
+[2025.09.25-00.08.51:833][132]LogStaticMesh:   Streaming: GPU size: 6984 bytes. 1 Pages (1 with relative encoding). 6984.000 bytes per page (5.328% utilization).
+[2025.09.25-00.08.51:833][132]LogStaticMesh:   Page data disk size: 31456 bytes. Fixup data size: 256 bytes.
+[2025.09.25-00.08.51:833][132]LogStaticMesh:   Total GPU size: 39748 bytes, Total disk size: 31712 bytes.
+[2025.09.25-00.08.51:833][132]LogStaticMesh: Encode [0.00s]
+[2025.09.25-00.08.51:833][132]LogStaticMesh: NaniteBuild [0.13s]
+[2025.09.25-00.08.51:868][132]LogStaticMesh: Built static mesh [0.17s] /Game/Inventory/Pickups/Art/HighPolyDotsActive.HighPolyDotsActive
+[2025.09.25-00.08.51:887][132]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Silve/OneDr...evelDesign/Year3/FBX/HighPolyDotsActive.fbx]
+[2025.09.25-00.08.51:887][132]Interchange: Warning: [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyDotsActive.fbx : 'HighPolyDotsActive', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-00.08.51:894][132]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-00.08.51:894][132]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-00.08.51:907][132]LogInterchangeEngine: [Pending] Importing
+[2025.09.25-00.08.51:907][132]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyFlashlight.fbx]
+[2025.09.25-00.08.51:940][132]LogStaticMesh: Display: Building static mesh HighPolyFlashlight (Required Memory Estimate: 1.306759 MB)...
+[2025.09.25-00.08.51:943][132]LogStaticMesh: Adjacency [0.00s], tris: 846, UVs 1
+[2025.09.25-00.08.51:944][132]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.09.25-00.08.51:944][132]LogStaticMesh: Leaves [0.00s]
+[2025.09.25-00.08.51:971][132]LogStaticMesh: Reduce [0.03s]
+[2025.09.25-00.08.51:989][132]LogStaticMesh: Fallback [0.02s], num tris: 372
+[2025.09.25-00.08.52:008][132]LogStaticMesh: Fallback [0.02s], num tris: 292
+[2025.09.25-00.08.52:008][132]LogStaticMesh: ConstrainClusters:
+[2025.09.25-00.08.52:008][132]LogStaticMesh:   Input: 14 Clusters, 1727 Triangles and 1554 Vertices
+[2025.09.25-00.08.52:008][132]LogStaticMesh:   Output without splits: 14 Clusters, 1727 Triangles and 1557 Vertices
+[2025.09.25-00.08.52:008][132]LogStaticMesh:   Output with splits: 14 Clusters, 1727 Triangles and 1557 Vertices
+[2025.09.25-00.08.52:008][132]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.25-00.08.52:009][132]LogStaticMesh: WritePages:
+[2025.09.25-00.08.52:009][132]LogStaticMesh:   Root: GPU size: 18536 bytes. 1 Pages. 18536.000 bytes per page (56.567% utilization).
+[2025.09.25-00.08.52:009][132]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.25-00.08.52:009][132]LogStaticMesh:   Page data disk size: 14268 bytes. Fixup data size: 72 bytes.
+[2025.09.25-00.08.52:009][132]LogStaticMesh:   Total GPU size: 18536 bytes, Total disk size: 14340 bytes.
+[2025.09.25-00.08.52:009][132]LogStaticMesh: Encode [0.00s]
+[2025.09.25-00.08.52:009][132]LogStaticMesh: NaniteBuild [0.07s]
+[2025.09.25-00.08.52:026][132]LogStaticMesh: Built static mesh [0.09s] /Game/Inventory/Pickups/Art/HighPolyFlashlight.HighPolyFlashlight
+[2025.09.25-00.08.52:034][132]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Silve/OneDr...evelDesign/Year3/FBX/HighPolyFlashlight.fbx]
+[2025.09.25-00.08.52:034][132]Interchange: Warning: [C:/Users/Silve/OneDrive/Documents/GitHub/3DModels/LevelDesign/Year3/FBX/HighPolyFlashlight.fbx : 'HighPolyFlashlight', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.25-00.08.52:038][132]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.25-00.08.52:038][132]LogInterchangeEngine: [Success] Import Done
+[2025.09.25-00.08.52:245][132]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.09.25-00.08.52:324][132]LogPSOHitching: Encountered 500 PSO creation hitches so far (152 graphics, 348 compute). 0 of them were precached.
+[2025.09.25-00.08.52:345][132]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2025.09.25-00.08.57:124][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.25-00.08.58:435][146]LogSlate: Window 'Save Content' being destroyed
+[2025.09.25-00.08.58:448][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.25-00.08.58:482][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Pickups/Art/HighPolyBook] ([1] browsable assets)...
+[2025.09.25-00.08.58:593][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Inventory/Pickups/Art/HighPolyBook.HighPolyBook]
+[2025.09.25-00.08.58:594][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/Art/HighPolyBook]
+[2025.09.25-00.08.58:598][146]LogSavePackage: Moving output files for package: /Game/Inventory/Pickups/Art/HighPolyBook
+[2025.09.25-00.08.58:599][146]LogSavePackage: Moving '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HighPolyBook13133E7644F3F679F08B17B0D828C8F4.tmp' to '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Pickups/Art/HighPolyBook.uasset'
+[2025.09.25-00.08.58:600][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Pickups/Art/HighPolyBookActive] ([1] browsable assets)...
+[2025.09.25-00.08.58:620][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Inventory/Pickups/Art/HighPolyBookActive.HighPolyBookActive]
+[2025.09.25-00.08.58:620][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/Art/HighPolyBookActive]
+[2025.09.25-00.08.58:626][146]LogSavePackage: Moving output files for package: /Game/Inventory/Pickups/Art/HighPolyBookActive
+[2025.09.25-00.08.58:627][146]LogSavePackage: Moving '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HighPolyBookActive54CD056D4E272F59C7590BA6EDC6F075.tmp' to '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Pickups/Art/HighPolyBookActive.uasset'
+[2025.09.25-00.08.58:629][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Pickups/Art/HighPolyDots] ([1] browsable assets)...
+[2025.09.25-00.08.58:646][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Inventory/Pickups/Art/HighPolyDots.HighPolyDots]
+[2025.09.25-00.08.58:646][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/Art/HighPolyDots]
+[2025.09.25-00.08.58:651][146]LogSavePackage: Moving output files for package: /Game/Inventory/Pickups/Art/HighPolyDots
+[2025.09.25-00.08.58:652][146]LogSavePackage: Moving '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HighPolyDots4CA330B54C83CAEDCE81A9837B70F0C3.tmp' to '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Pickups/Art/HighPolyDots.uasset'
+[2025.09.25-00.08.58:654][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Pickups/Art/HighPolyDotsActive] ([1] browsable assets)...
+[2025.09.25-00.08.58:672][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Inventory/Pickups/Art/HighPolyDotsActive.HighPolyDotsActive]
+[2025.09.25-00.08.58:672][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/Art/HighPolyDotsActive]
+[2025.09.25-00.08.58:676][146]LogSavePackage: Moving output files for package: /Game/Inventory/Pickups/Art/HighPolyDotsActive
+[2025.09.25-00.08.58:677][146]LogSavePackage: Moving '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HighPolyDotsActive4FDFFFF7482E3B6476A099B6AF5E7606.tmp' to '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Pickups/Art/HighPolyDotsActive.uasset'
+[2025.09.25-00.08.58:681][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Pickups/Art/HighPolyFlashlight] ([1] browsable assets)...
+[2025.09.25-00.08.58:696][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Inventory/Pickups/Art/HighPolyFlashlight.HighPolyFlashlight]
+[2025.09.25-00.08.58:697][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/Art/HighPolyFlashlight]
+[2025.09.25-00.08.58:702][146]LogSavePackage: Moving output files for package: /Game/Inventory/Pickups/Art/HighPolyFlashlight
+[2025.09.25-00.08.58:703][146]LogSavePackage: Moving '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HighPolyFlashlight537AAE3C42F63D7E7CFEE79BA47A1236.tmp' to '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Pickups/Art/HighPolyFlashlight.uasset'
+[2025.09.25-00.08.58:704][146]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Inventory/Pickups/Art/HighPolyThermo] ([1] browsable assets)...
+[2025.09.25-00.08.58:721][146]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Inventory/Pickups/Art/HighPolyThermo.HighPolyThermo]
+[2025.09.25-00.08.58:721][146]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Pickups/Art/HighPolyThermo]
+[2025.09.25-00.08.58:726][146]LogSavePackage: Moving output files for package: /Game/Inventory/Pickups/Art/HighPolyThermo
+[2025.09.25-00.08.58:727][146]LogSavePackage: Moving '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HighPolyThermo3F662B754A866CCF3D4803837A116662.tmp' to '../../../../../../Users/Silve/OneDrive/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Inventory/Pickups/Art/HighPolyThermo.uasset'
+[2025.09.25-00.08.58:742][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 293.869 ms (total: 549.221 ms)
+[2025.09.25-00.08.58:780][146]LogContentValidation: Display: Starting to validate 6 assets
+[2025.09.25-00.08.58:780][146]LogContentValidation: Enabled validators:
+[2025.09.25-00.08.58:780][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.25-00.08.58:780][146]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.25-00.08.58:780][146]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.25-00.08.58:780][146]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.25-00.08.58:780][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.25-00.08.58:780][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.25-00.08.58:780][146]AssetCheck: /Game/Inventory/Pickups/Art/HighPolyBook Validating asset
+[2025.09.25-00.08.58:780][146]AssetCheck: /Game/Inventory/Pickups/Art/HighPolyBookActive Validating asset
+[2025.09.25-00.08.58:780][146]AssetCheck: /Game/Inventory/Pickups/Art/HighPolyDots Validating asset
+[2025.09.25-00.08.58:781][146]AssetCheck: /Game/Inventory/Pickups/Art/HighPolyDotsActive Validating asset
+[2025.09.25-00.08.58:781][146]AssetCheck: /Game/Inventory/Pickups/Art/HighPolyFlashlight Validating asset
+[2025.09.25-00.08.58:781][146]AssetCheck: /Game/Inventory/Pickups/Art/HighPolyThermo Validating asset
