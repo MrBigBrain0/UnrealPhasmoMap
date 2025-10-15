@@ -5174,3 +5174,22 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.15-18.34.13:287][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3159.295898
 [2025.10.15-18.34.14:287][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.15-18.34.14:287][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3159.964355, Update Interval: 318.065735
+[2025.10.15-18.34.57:016][715]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.15-18.34.57:025][715]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.15-18.35.17:780][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.15-18.35.19:134][502]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-18.35.19:191][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2025.10.15-18.35.19:254][502]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2025.10.15-18.35.19:254][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2025.10.15-18.35.19:300][502]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2025.10.15-18.35.19:300][502]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/BP_FirstPersonCharacter20F5D0E049F2FBF06D9D2FB4CAB3CE17.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2025.10.15-18.35.19:311][502]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.438 ms (total: 3.19 sec)
+[2025.10.15-18.35.19:375][502]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-18.35.19:375][502]LogContentValidation: Enabled validators:
+[2025.10.15-18.35.19:375][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-18.35.19:375][502]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-18.35.19:375][502]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-18.35.19:375][502]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-18.35.19:375][502]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-18.35.19:375][502]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-18.35.19:375][502]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
