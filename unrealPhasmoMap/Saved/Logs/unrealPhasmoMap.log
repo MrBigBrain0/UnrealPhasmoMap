@@ -6631,3 +6631,357 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.15-19.26.05:968][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090 Validating asset
 [2025.10.15-19.26.05:968][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C Validating asset
 [2025.10.15-19.26.05:987][621]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-19.27.04:469][289]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.15-19.27.08:413][716]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.27.08:413][716]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.27.11:195][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.15-19.27.11:199][995]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2025.10.15-19.27.11:205][995]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.27.11:205][995]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.27.14:944][411]Cmd: DUPLICATE
+[2025.10.15-19.27.14:944][411]Cmd: ACTOR DUPLICATE
+[2025.10.15-19.27.42:266][447]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-19.27.45:177][775]Cmd: DUPLICATE
+[2025.10.15-19.27.45:177][775]Cmd: ACTOR DUPLICATE
+[2025.10.15-19.28.14:666][  2]Cmd: DUPLICATE
+[2025.10.15-19.28.14:666][  2]Cmd: ACTOR DUPLICATE
+[2025.10.15-19.28.47:982][852]Cmd: TRANSACTION UNDO
+[2025.10.15-19.28.47:982][852]LogEditorTransaction: Undo Edit Attenuation Radius
+[2025.10.15-19.29.00:742][278]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6446.642578
+[2025.10.15-19.29.00:809][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-19.29.00:809][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6446.700195, Update Interval: 355.413055
+[2025.10.15-19.29.11:084][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-19.29.11:168][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.15-19.29.11:204][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-19.29.11:229][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.15-19.29.11:234][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/MW/5YB5WG9Y4S2X6037V70KVG
+[2025.10.15-19.29.11:234][399]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/5YB5WG9Y4S2X6037V70KVG478B2FDD4D4CBD87E9F76ABC421DC180.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/MW/5YB5WG9Y4S2X6037V70KVG.uasset'
+[2025.10.15-19.29.11:238][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/WC/H8XGXLL7SZINWQFR96GFMX
+[2025.10.15-19.29.11:238][399]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/H8XGXLL7SZINWQFR96GFMXDEA56BDC40F985214EE8D69D77905232.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/WC/H8XGXLL7SZINWQFR96GFMX.uasset'
+[2025.10.15-19.29.11:242][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LY/XJDNX0VP9FQUZDMOLW52GC
+[2025.10.15-19.29.11:242][399]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XJDNX0VP9FQUZDMOLW52GCAD4761F64F23F918468B3B9DEF4AA5B7.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LY/XJDNX0VP9FQUZDMOLW52GC.uasset'
+[2025.10.15-19.29.11:246][399]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/34/QQU2AD1TIMINB6MZDYC0BC
+[2025.10.15-19.29.11:246][399]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/QQU2AD1TIMINB6MZDYC0BCD375B5E04A34BF7F6D4254A9CF735228.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/34/QQU2AD1TIMINB6MZDYC0BC.uasset'
+[2025.10.15-19.29.11:265][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.035 ms (total: 4.22 sec)
+[2025.10.15-19.29.11:318][399]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.15-19.29.11:318][399]LogContentValidation: Enabled validators:
+[2025.10.15-19.29.11:318][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-19.29.11:318][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-19.29.11:318][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-19.29.11:318][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-19.29.11:318][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-19.29.11:318][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-19.29.11:319][399]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-19.29.11:349][399]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-19.29.26:716][ 94]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.29.26:720][ 94]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.15-19.29.49:622][186]Cmd: TRANSACTION UNDO
+[2025.10.15-19.29.49:623][186]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.29.49:862][189]Cmd: TRANSACTION UNDO
+[2025.10.15-19.29.49:862][189]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.29.50:182][194]Cmd: TRANSACTION UNDO
+[2025.10.15-19.29.50:182][194]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.29.50:618][228]Cmd: TRANSACTION UNDO
+[2025.10.15-19.29.50:618][228]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.07:174][543]LogSlate: Window 'Accept changes instead?' being destroyed
+[2025.10.15-19.30.07:181][543]Message dialog closed, result: No, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2025.10.15-19.30.20:289][942]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.30.20:294][942]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.15-19.30.30:651][912]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.30:651][912]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.30:933][916]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.30:933][916]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.31:100][918]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.31:100][918]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.31:350][929]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.31:350][929]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.15-19.30.31:826][968]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.31:826][968]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.15-19.30.32:274][  5]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.32:275][  5]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.32:556][ 26]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.32:556][ 26]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.33:645][116]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.33:646][116]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.43:370][  7]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.43:370][  7]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.43:594][ 10]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.43:594][ 10]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.43:961][ 19]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.43:961][ 19]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.30.44:925][103]Cmd: TRANSACTION UNDO
+[2025.10.15-19.30.44:925][103]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.15:948][385]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.15:948][385]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.16:233][389]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.16:233][389]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.16:516][393]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.16:516][393]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.16:955][427]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.16:955][427]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.15-19.32.17:343][457]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.17:343][457]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.17:732][487]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.17:732][487]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.18:139][520]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.18:139][520]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.24:968][140]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.24:968][140]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.25:250][144]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.25:250][144]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.25:499][147]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.25:499][147]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.25:655][153]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.25:655][153]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.15-19.32.25:961][175]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.25:961][175]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.26:165][187]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.26:165][187]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.32.26:563][217]Cmd: TRANSACTION UNDO
+[2025.10.15-19.32.26:563][217]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.33.30:455][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-19.33.30:561][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.15-19.33.30:592][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.10.15-19.33.30:616][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-19.33.30:621][ 57]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/MW/5YB5WG9Y4S2X6037V70KVG
+[2025.10.15-19.33.30:621][ 57]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/5YB5WG9Y4S2X6037V70KVGDC0AF08D47332520F1E43D982D447FE3.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/MW/5YB5WG9Y4S2X6037V70KVG.uasset'
+[2025.10.15-19.33.30:640][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.173 ms (total: 4.41 sec)
+[2025.10.15-19.33.30:703][ 57]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-19.33.30:703][ 57]LogContentValidation: Enabled validators:
+[2025.10.15-19.33.30:703][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-19.33.30:703][ 57]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-19.33.30:703][ 57]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-19.33.30:703][ 57]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-19.33.30:703][ 57]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-19.33.30:703][ 57]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-19.33.30:703][ 57]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-19.33.38:740][773]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E.CubeGridToolOutput_B8112E7E
+[2025.10.15-19.33.38:741][773]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_B8112E7E (Required Memory Estimate: 1.26069 MB)...
+[2025.10.15-19.33.38:743][773]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E.CubeGridToolOutput_B8112E7E as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AD9802_2004935481
+[2025.10.15-19.33.38:746][773]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E.CubeGridToolOutput_B8112E7E
+[2025.10.15-19.33.38:747][773]LogStaticMesh: Warning: CubeGridToolOutput_B8112E7E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.33.38:747][773]LogStaticMesh: Warning: CubeGridToolOutput_B8112E7E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.33.49:150][633]Cmd: DUPLICATE
+[2025.10.15-19.33.49:150][633]Cmd: ACTOR DUPLICATE
+[2025.10.15-19.34.14:050][159]Cmd: DUPLICATE
+[2025.10.15-19.34.14:050][159]Cmd: ACTOR DUPLICATE
+[2025.10.15-19.34.19:241][662]Cmd: DELETE
+[2025.10.15-19.34.19:241][662]Cmd: ACTOR DELETE
+[2025.10.15-19.34.19:243][662]LogEditorActor: Deleted Actor: PointLight
+[2025.10.15-19.34.19:274][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.15-19.34.19:282][662]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.10.15-19.34.24:545][181]Cmd: DELETE
+[2025.10.15-19.34.24:545][181]Cmd: ACTOR DELETE
+[2025.10.15-19.34.24:547][181]LogEditorActor: Deleted Actor: PointLight
+[2025.10.15-19.34.24:575][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-19.34.24:578][181]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-19.34.29:122][616]Cmd: DUPLICATE
+[2025.10.15-19.34.29:122][616]Cmd: ACTOR DUPLICATE
+[2025.10.15-19.34.31:186][840]Cmd: DELETE
+[2025.10.15-19.34.31:186][840]Cmd: ACTOR DELETE
+[2025.10.15-19.34.31:188][840]LogEditorActor: Deleted Actor: PointLight
+[2025.10.15-19.34.31:216][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.15-19.34.31:222][840]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.15-19.34.48:096][519]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.34.48:096][519]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.34.50:138][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-19.34.50:143][698]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.10.15-19.34.50:149][698]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.34.50:149][698]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.35.14:570][185]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-19.35.15:123][246]Cmd: DELETE
+[2025.10.15-19.35.15:123][246]Cmd: ACTOR DELETE
+[2025.10.15-19.35.15:125][246]LogEditorActor: Deleted Actor: PointLight
+[2025.10.15-19.35.15:154][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-19.35.15:158][246]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.15-19.35.22:852][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-19.35.30:422][742]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.35.30:422][742]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.35.31:834][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6837.764160
+[2025.10.15-19.35.31:904][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-19.35.31:904][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6837.825684, Update Interval: 311.098358
+[2025.10.15-19.35.32:389][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.15-19.35.32:394][930]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.10.15-19.35.32:400][930]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.35.32:400][930]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.35.36:696][322]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-19.35.47:749][470]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.35.47:749][470]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.35.49:021][576]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-19.35.49:025][576]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2025.10.15-19.35.49:031][576]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.35.49:031][576]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.36.03:969][123]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-19.36.19:361][815]Cmd: DELETE
+[2025.10.15-19.36.19:361][815]Cmd: ACTOR DELETE
+[2025.10.15-19.36.19:363][815]LogEditorActor: Deleted Actor: PointLight
+[2025.10.15-19.36.19:392][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-19.36.19:398][815]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.10.15-19.36.23:499][265]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.36.23:499][265]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.10.15-19.36.25:683][509]Cmd: DELETE
+[2025.10.15-19.36.25:683][509]Cmd: ACTOR DELETE
+[2025.10.15-19.36.25:684][509]LogEditorActor: Deleted Actor: PointLight
+[2025.10.15-19.36.25:713][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.15-19.36.25:717][509]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-19.36.51:329][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-19.36.51:336][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9_Auto6
+[2025.10.15-19.36.51:336][880]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/X74LTH2THENVMLN2MEPMI9_Auto6CD02AF3249B223D048FAE58828F9EB47.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9_Auto6.uasset'
+[2025.10.15-19.36.51:341][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/O6/XX2U3SJUESCPBKIPWPF3JQ_Auto6
+[2025.10.15-19.36.51:341][880]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XX2U3SJUESCPBKIPWPF3JQ_Auto6FDD3CF5A4CEEDA65C14772B895156824.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/O6/XX2U3SJUESCPBKIPWPF3JQ_Auto6.uasset'
+[2025.10.15-19.36.51:344][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/YC/CVB64TWXG2G0C2M61E71FM_Auto6
+[2025.10.15-19.36.51:344][880]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CVB64TWXG2G0C2M61E71FM_Auto6914B000C4D55748E037A8B846EA4CF1E.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/YC/CVB64TWXG2G0C2M61E71FM_Auto6.uasset'
+[2025.10.15-19.36.51:348][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/6W/H9DIP4L0Y9T693RL1C6FTR_Auto6
+[2025.10.15-19.36.51:348][880]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/H9DIP4L0Y9T693RL1C6FTR_Auto6C0649E0042EB0112E54C50BBCA1353AA.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/6W/H9DIP4L0Y9T693RL1C6FTR_Auto6.uasset'
+[2025.10.15-19.36.51:349][880]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.045
+[2025.10.15-19.36.51:349][880]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.10.15-19.36.51:349][880]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E] ([1] browsable assets)...
+[2025.10.15-19.36.51:494][880]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E.CubeGridToolOutput_B8112E7E]
+[2025.10.15-19.36.51:495][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E]
+[2025.10.15-19.36.51:502][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E_Auto6
+[2025.10.15-19.36.51:502][880]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_B8112E7E_Auto6E21B6934ED959AD31E8EE912D0A11AA.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E_Auto6.uasset'
+[2025.10.15-19.36.51:504][880]LogFileHelpers: Auto-saving content packages took 0.155
+[2025.10.15-19.36.58:032][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.15-19.36.59:446][903]LogSlate: Window 'Save Content' being destroyed
+[2025.10.15-19.36.59:470][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-19.36.59:531][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.15-19.36.59:556][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-19.36.59:583][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-19.36.59:590][903]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9
+[2025.10.15-19.36.59:590][903]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/X74LTH2THENVMLN2MEPMI992C4501B4895501F7E3C878A4D82F13A.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9.uasset'
+[2025.10.15-19.36.59:591][903]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E] ([1] browsable assets)...
+[2025.10.15-19.36.59:591][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E]
+[2025.10.15-19.36.59:598][903]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E
+[2025.10.15-19.36.59:598][903]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_B8112E7EF74D346E4978E9EC930C9BA649D9D284.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E.uasset'
+[2025.10.15-19.36.59:602][903]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/YC/CVB64TWXG2G0C2M61E71FM
+[2025.10.15-19.36.59:602][903]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CVB64TWXG2G0C2M61E71FM20088A3745D34BF5C72BD28EB3CCE815.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/YC/CVB64TWXG2G0C2M61E71FM.uasset'
+[2025.10.15-19.36.59:607][903]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/6W/H9DIP4L0Y9T693RL1C6FTR
+[2025.10.15-19.36.59:607][903]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/H9DIP4L0Y9T693RL1C6FTR62676E96423212D099BD198FF8C20612.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/6W/H9DIP4L0Y9T693RL1C6FTR.uasset'
+[2025.10.15-19.36.59:611][903]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/O6/XX2U3SJUESCPBKIPWPF3JQ
+[2025.10.15-19.36.59:611][903]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XX2U3SJUESCPBKIPWPF3JQ5071BFE4434A9E852EC48F96CD1A5BB5.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/O6/XX2U3SJUESCPBKIPWPF3JQ.uasset'
+[2025.10.15-19.36.59:623][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.411 ms (total: 4.56 sec)
+[2025.10.15-19.36.59:687][903]LogContentValidation: Display: Starting to validate 5 assets
+[2025.10.15-19.36.59:687][903]LogContentValidation: Enabled validators:
+[2025.10.15-19.36.59:687][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-19.36.59:687][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-19.36.59:687][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-19.36.59:687][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-19.36.59:687][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-19.36.59:687][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-19.36.59:687][903]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E Validating asset
+[2025.10.15-19.36.59:687][903]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-19.36.59:718][903]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-19.41.25:106][700]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7191.035645
+[2025.10.15-19.41.25:173][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-19.41.25:173][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7191.094238, Update Interval: 340.101318
+[2025.10.15-19.42.46:976][514]LogDerivedDataCache: C:/Users/sicilisi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.15-19.45.26:152][873]Cmd: DUPLICATE
+[2025.10.15-19.45.26:152][873]Cmd: ACTOR DUPLICATE
+[2025.10.15-19.46.25:002][ 39]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.46.25:008][ 39]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.15-19.46.56:914][794]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630.CubeGridToolOutput_BA611630
+[2025.10.15-19.46.56:915][794]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_BA611630 (Required Memory Estimate: 0.19162 MB)...
+[2025.10.15-19.46.56:917][794]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630.CubeGridToolOutput_BA611630
+[2025.10.15-19.46.56:917][794]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630.CubeGridToolOutput_BA611630 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AE9802_1729367666
+[2025.10.15-19.47.03:175][392]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-19.47.03:176][392]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-19.47.05:409][597]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.10.15-19.47.59:420][524]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7585.340332
+[2025.10.15-19.47.59:498][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-19.47.59:499][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7585.405273, Update Interval: 356.764435
+[2025.10.15-19.48.14:524][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165.Stairs_A1914165
+[2025.10.15-19.48.14:524][875]LogStaticMesh: Display: Building static mesh Stairs_A1914165 (Required Memory Estimate: 0.843157 MB)...
+[2025.10.15-19.48.14:526][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165.Stairs_A1914165 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AE9802_1806977667
+[2025.10.15-19.48.14:527][875]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165.Stairs_A1914165
+[2025.10.15-19.48.19:391][332]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.48.19:396][332]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.48.42:619][368]LogStaticMesh: Display: Building static mesh Stairs_A1914165 (Required Memory Estimate: 0.961137 MB)...
+[2025.10.15-19.48.42:622][368]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165.Stairs_A1914165
+[2025.10.15-19.48.46:323][777]Cmd: TRANSACTION UNDO
+[2025.10.15-19.48.46:324][777]LogEditorTransaction: Undo Move Elements
+[2025.10.15-19.48.50:752][187]Cmd: DELETE
+[2025.10.15-19.48.50:752][187]Cmd: ACTOR DELETE
+[2025.10.15-19.48.50:755][187]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-19.48.50:793][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.15-19.48.50:801][187]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2025.10.15-19.48.56:150][802]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.48.56:156][802]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.15-19.49.22:919][726]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8.CubeGridToolOutput_8EE256D8
+[2025.10.15-19.49.22:919][726]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_8EE256D8 (Required Memory Estimate: 0.126011 MB)...
+[2025.10.15-19.49.22:921][726]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8.CubeGridToolOutput_8EE256D8
+[2025.10.15-19.49.22:921][726]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8.CubeGridToolOutput_8EE256D8 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AE9802_1875372668
+[2025.10.15-19.49.25:475][975]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-19.49.25:476][975]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-19.49.29:186][322]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.10.15-19.50.54:052][983]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7.Stairs_2FF05ED7
+[2025.10.15-19.50.54:052][983]LogStaticMesh: Display: Building static mesh Stairs_2FF05ED7 (Required Memory Estimate: 0.843157 MB)...
+[2025.10.15-19.50.54:054][983]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7.Stairs_2FF05ED7 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AE9802_1966505669
+[2025.10.15-19.50.54:055][983]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7.Stairs_2FF05ED7
+[2025.10.15-19.51.01:381][744]Cmd: TRANSACTION UNDO
+[2025.10.15-19.51.01:381][744]LogEditorTransaction: Undo Scale Elements
+[2025.10.15-19.52.42:288][676]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-19.52.42:367][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.10.15-19.52.42:397][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-19.52.42:422][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-19.52.42:427][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LY/XJDNX0VP9FQUZDMOLW52GC
+[2025.10.15-19.52.42:428][676]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XJDNX0VP9FQUZDMOLW52GCBF7269FB4D628E2518B8BB82C8351442.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LY/XJDNX0VP9FQUZDMOLW52GC.uasset'
+[2025.10.15-19.52.42:433][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/YC/CVB64TWXG2G0C2M61E71FM
+[2025.10.15-19.52.42:433][676]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CVB64TWXG2G0C2M61E71FMA328F0E94A6240FDC706F89E51984D8A.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/YC/CVB64TWXG2G0C2M61E71FM.uasset'
+[2025.10.15-19.52.42:438][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/U0/ZYTAT73CGCYO2D6M8N6SMY
+[2025.10.15-19.52.42:438][676]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/ZYTAT73CGCYO2D6M8N6SMY8B8541004A6F5EF87E1451AE51BDE747.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/U0/ZYTAT73CGCYO2D6M8N6SMY.uasset'
+[2025.10.15-19.52.42:442][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/QQ/WS6V3RRU8ADWPY61FTHL9T
+[2025.10.15-19.52.42:442][676]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WS6V3RRU8ADWPY61FTHL9TD541B14044FD6C748A7A21821D7EC64D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/QQ/WS6V3RRU8ADWPY61FTHL9T.uasset'
+[2025.10.15-19.52.42:447][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/M0/TALGKAN3CP9YZ8YRVVWVYT
+[2025.10.15-19.52.42:447][676]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/TALGKAN3CP9YZ8YRVVWVYT1D32B2A34F62094499D81996A7722489.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/M0/TALGKAN3CP9YZ8YRVVWVYT.uasset'
+[2025.10.15-19.52.42:451][676]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/DA/KRS3HO2OUETHCDE53I9EU5
+[2025.10.15-19.52.42:451][676]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/KRS3HO2OUETHCDE53I9EU5CAEDAB2F460F4A65277BB98F4D5789FE.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/DA/KRS3HO2OUETHCDE53I9EU5.uasset'
+[2025.10.15-19.52.42:463][676]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.378 ms (total: 4.74 sec)
+[2025.10.15-19.52.42:524][676]LogContentValidation: Display: Starting to validate 6 assets
+[2025.10.15-19.52.42:524][676]LogContentValidation: Enabled validators:
+[2025.10.15-19.52.42:524][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-19.52.42:524][676]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-19.52.42:524][676]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-19.52.42:524][676]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-19.52.42:524][676]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-19.52.42:524][676]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-19.52.42:524][676]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-19.52.42:562][676]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-19.52.43:809][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.15-19.52.44:780][820]LogSlate: Window 'Save Content' being destroyed
+[2025.10.15-19.52.44:790][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-19.52.44:825][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8] ([1] browsable assets)...
+[2025.10.15-19.52.44:883][820]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8.CubeGridToolOutput_8EE256D8]
+[2025.10.15-19.52.44:883][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8]
+[2025.10.15-19.52.44:888][820]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8
+[2025.10.15-19.52.44:888][820]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_8EE256D8B2C0C0B84CFF7D165D3E77AF7168E4F9.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8.uasset'
+[2025.10.15-19.52.44:890][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630] ([1] browsable assets)...
+[2025.10.15-19.52.44:898][820]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630.CubeGridToolOutput_BA611630]
+[2025.10.15-19.52.44:898][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630]
+[2025.10.15-19.52.44:904][820]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630
+[2025.10.15-19.52.44:904][820]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_BA611630A37E623740D0F7F259816E9AD62B16AD.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630.uasset'
+[2025.10.15-19.52.44:905][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7] ([1] browsable assets)...
+[2025.10.15-19.52.44:912][820]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7.Stairs_2FF05ED7]
+[2025.10.15-19.52.44:913][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7]
+[2025.10.15-19.52.44:918][820]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7
+[2025.10.15-19.52.44:918][820]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Stairs_2FF05ED7CFDFE47946C7672083050F9D8C309595.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7.uasset'
+[2025.10.15-19.52.44:920][820]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165] ([1] browsable assets)...
+[2025.10.15-19.52.44:927][820]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165.Stairs_A1914165]
+[2025.10.15-19.52.44:927][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165]
+[2025.10.15-19.52.44:933][820]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165
+[2025.10.15-19.52.44:933][820]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Stairs_A19141658DBFA36A4D8C20352EF1988995433FEA.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165.uasset'
+[2025.10.15-19.52.44:950][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.060 ms (total: 4.90 sec)
+[2025.10.15-19.52.44:991][820]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.15-19.52.44:991][820]LogContentValidation: Enabled validators:
+[2025.10.15-19.52.44:991][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-19.52.44:991][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-19.52.44:991][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-19.52.44:991][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-19.52.44:991][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-19.52.44:991][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-19.52.44:991][820]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_8EE256D8 Validating asset
+[2025.10.15-19.52.44:991][820]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630 Validating asset
+[2025.10.15-19.52.44:992][820]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_2FF05ED7 Validating asset
+[2025.10.15-19.52.44:992][820]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_A1914165 Validating asset
+[2025.10.15-19.52.45:013][820]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
