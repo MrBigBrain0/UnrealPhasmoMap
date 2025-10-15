@@ -5563,3 +5563,1071 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.15-18.40.47:941][903]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
 [2025.10.15-18.40.47:941][903]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_14C14903 Validating asset
 [2025.10.15-18.40.47:968][903]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: ================================================
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Total job queries 18,449, among them cache hits 4,857 (26.33%), DDC hits 12,393 (67.17%), Duplicates 579 (3.14%)
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Tracking 13,013 distinct input hashes that result in 11,913 distinct outputs (91.55%)
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: RAM used: 158.74 MiB of 3.20 GiB budget. Usage: 4.84%
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Shaders Compiled: 620
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Jobs assigned 620, completed 620 (100%)
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Average time worker was idle: 71.54 s
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Time job spent in pending queue: average 3.48 s, longest 21.86 s
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Job execution time: average 5.19 s, max 20.12 s
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Job life time (pending + execution): average 8.67 s, max 23.91
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Shader code size: total 9.68 MiB, numShaders 646, average 15.343 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 76.95 s
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Jobs were issued in 220 batches (only local compilation was used), average 2.82 jobs/batch
+[2025.10.15-18.41.41:492][720]LogShaderCompilers: Display: Average processing rate: 8.06 jobs/sec
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Total thread time: 661.162 s
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Total thread preprocess time: 203.363 s
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Percentage time preprocessing: 30.76%
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Effective parallelization: 8.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.716033
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 9.38 sec, max 9.38 sec, min 9.38 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.27 sec, max 5.27 sec, min 5.27 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.48 sec, max 5.13 sec, min 1.83 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 25.74% of total time (compiled   80 times, average 2.13 sec, max 2.44 sec, min 1.84 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.99% of total time (compiled   57 times, average 0.93 sec, max 6.38 sec, min 0.27 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.02% of total time (compiled   28 times, average 1.66 sec, max 7.20 sec, min 0.65 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.71% of total time (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.15% of total time (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: === Material stats ===
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Materials Translated:    158
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.15-18.41.41:493][720]LogShaderCompilers: Display: ================================================
+[2025.10.15-18.42.00:146][781]Cmd: DELETE
+[2025.10.15-18.42.00:146][781]Cmd: ACTOR DELETE
+[2025.10.15-18.42.00:148][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-18.42.00:175][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.15-18.42.00:181][781]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.15-18.42.46:945][733]LogDerivedDataCache: C:/Users/sicilisi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.15-18.42.58:330][898]Cmd: DELETE
+[2025.10.15-18.42.58:330][898]Cmd: ACTOR DELETE
+[2025.10.15-18.42.58:332][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-18.42.58:361][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-18.42.58:366][898]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.15-18.43.00:878][187]Cmd: TRANSACTION UNDO
+[2025.10.15-18.43.00:878][187]LogEditorTransaction: Undo Delete Elements
+[2025.10.15-18.43.16:028][656]Cmd: TRANSACTION UNDO
+[2025.10.15-18.43.16:028][656]LogEditorTransaction: Undo Scale Elements
+[2025.10.15-18.43.21:392][169]Cmd: TRANSACTION UNDO
+[2025.10.15-18.43.21:394][169]LogEditorTransaction: Undo Scale Elements
+[2025.10.15-18.43.35:629][632]LogInteractiveToolsContext: Display: This tool duplicates a single input object to create new objects, and optionally replaces the input object.
+[2025.10.15-18.43.37:426][813]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02.Stairs_3808BD02
+[2025.10.15-18.43.37:429][813]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02.Stairs_3808BD02 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1151105115
+[2025.10.15-18.43.37:437][813]LogStaticMesh: Display: Building static mesh Stairs_3808BD02 (Required Memory Estimate: 0.336536 MB)...
+[2025.10.15-18.43.37:438][813]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02.Stairs_3808BD02
+[2025.10.15-18.43.37:521][813]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-18.43.37:549][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.15-18.43.37:553][813]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-18.43.41:424][221]Cmd: TRANSACTION UNDO
+[2025.10.15-18.43.41:424][221]LogEditorTransaction: Undo Move Elements
+[2025.10.15-18.43.41:903][225]Cmd: TRANSACTION UNDO
+[2025.10.15-18.43.41:903][225]LogEditorTransaction: Undo Duplicate Mesh
+[2025.10.15-18.43.44:121][416]Cmd: DELETE
+[2025.10.15-18.43.44:121][416]Cmd: ACTOR DELETE
+[2025.10.15-18.43.44:123][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-18.43.44:150][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.15-18.43.44:158][416]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.10.15-18.43.48:904][976]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-18.43.48:905][976]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-18.43.52:592][408]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.10.15-18.44.08:980][312]Cmd: TRANSACTION UNDO
+[2025.10.15-18.44.08:980][312]LogEditorTransaction: Undo Transform
+[2025.10.15-18.44.11:250][517]Cmd: TRANSACTION UNDO
+[2025.10.15-18.44.11:250][517]LogEditorTransaction: Undo Transform
+[2025.10.15-18.44.13:529][750]Cmd: TRANSACTION UNDO
+[2025.10.15-18.44.13:529][750]LogEditorTransaction: Undo Transform
+[2025.10.15-18.44.56:617][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.44.56:617][687]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.44.56:618][687]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.44.56:620][687]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1230296116
+[2025.10.15-18.45.13:563][408]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.45.13:563][408]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.45.15:008][556]Cmd: TRANSACTION UNDO
+[2025.10.15-18.45.15:008][556]LogEditorTransaction: Undo Transform
+[2025.10.15-18.45.15:014][556]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_41) Not registered. Aborting.
+[2025.10.15-18.45.15:014][556]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_41) Not registered. Aborting.
+[2025.10.15-18.45.23:403][359]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.45.23:403][359]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.45.24:880][510]Cmd: TRANSACTION UNDO
+[2025.10.15-18.45.24:880][510]LogEditorTransaction: Undo Transform
+[2025.10.15-18.45.24:884][510]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_43) Not registered. Aborting.
+[2025.10.15-18.45.24:884][510]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_43) Not registered. Aborting.
+[2025.10.15-18.45.31:588][143]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.45.31:589][143]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.45.40:733][ 30]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.45.40:734][ 30]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.45.47:119][661]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.45.47:120][661]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.45.57:299][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3863.288818
+[2025.10.15-18.45.57:384][742]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-18.45.57:384][742]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3863.364502, Update Interval: 345.752136
+[2025.10.15-18.46.26:988][875]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2025.10.15-18.46.26:988][875]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.46.26:989][875]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-18.46.27:006][875]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.46.27:006][875]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2025.10.15-18.46.48:264][974]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.46.48:264][974]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.46.48:272][974]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-18.46.48:280][974]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.46.48:280][974]LogInteractiveToolsContext: Display: Split Meshes into parts
+[2025.10.15-18.46.48:281][974]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.46.48:281][974]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.46.48:321][975]LogTexture: Display: Building textures: /MeshModelingToolsetExp/Textures/ImageTextureVertexColor2.ImageTextureVertexColor2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 306.083323 MB), EncodeSpeed: Fast
+[2025.10.15-18.46.51:334][272]Cmd: TRANSACTION UNDO
+[2025.10.15-18.46.51:335][272]LogEditorTransaction: Undo Activate Tool
+[2025.10.15-18.47.13:177][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-18.47.13:278][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.15-18.47.13:307][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.15-18.47.13:331][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.15-18.47.13:338][614]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/L5/NX086HSFJZQ3XGIKR38V35
+[2025.10.15-18.47.13:338][614]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/NX086HSFJZQ3XGIKR38V35CBDBBEB94B6F1F7C55BF939579F02253.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/L5/NX086HSFJZQ3XGIKR38V35.uasset'
+[2025.10.15-18.47.13:357][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.082 ms (total: 3.65 sec)
+[2025.10.15-18.47.13:390][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-18.47.13:390][614]LogContentValidation: Enabled validators:
+[2025.10.15-18.47.13:390][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-18.47.13:390][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-18.47.13:390][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-18.47.13:390][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-18.47.13:390][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-18.47.13:390][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-18.47.13:390][614]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-18.47.13:422][614]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-18.47.15:190][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.15-18.47.16:382][822]LogSlate: Window 'Save Content' being destroyed
+[2025.10.15-18.47.16:392][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-18.47.16:425][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631] ([1] browsable assets)...
+[2025.10.15-18.47.16:469][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631]
+[2025.10.15-18.47.16:469][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631]
+[2025.10.15-18.47.16:474][822]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631
+[2025.10.15-18.47.16:474][822]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_00C8F631DBA683EA4AFF627C07BCBC90633218EE.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.uasset'
+[2025.10.15-18.47.16:476][822]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02] ([1] browsable assets)...
+[2025.10.15-18.47.16:484][822]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02.Stairs_3808BD02]
+[2025.10.15-18.47.16:484][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02]
+[2025.10.15-18.47.16:489][822]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02
+[2025.10.15-18.47.16:489][822]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Stairs_3808BD02EC4D16E04C73DA693CAF6BBB4DFC0C67.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02.uasset'
+[2025.10.15-18.47.16:506][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.692 ms (total: 3.76 sec)
+[2025.10.15-18.47.16:541][822]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-18.47.16:541][822]LogContentValidation: Enabled validators:
+[2025.10.15-18.47.16:541][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-18.47.16:541][822]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-18.47.16:541][822]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-18.47.16:541][822]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-18.47.16:541][822]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-18.47.16:541][822]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-18.47.16:541][822]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631 Validating asset
+[2025.10.15-18.47.16:542][822]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_3808BD02 Validating asset
+[2025.10.15-18.47.16:561][822]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-18.47.25:942][805]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.47.25:943][805]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.47.29:350][ 98]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.47.29:351][ 98]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.47.31:947][368]Cmd: TRANSACTION UNDO
+[2025.10.15-18.47.31:947][368]LogEditorTransaction: Undo Transform
+[2025.10.15-18.47.31:954][368]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_111) Not registered. Aborting.
+[2025.10.15-18.47.31:954][368]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_111) Not registered. Aborting.
+[2025.10.15-18.47.37:028][841]LogInteractiveToolsContext: Display: Set the subdivision level and hit Accept to create a new subdivided mesh
+[2025.10.15-18.47.37:030][841]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.47.39:523][ 64]Cmd: TRANSACTION UNDO
+[2025.10.15-18.47.39:523][ 64]LogEditorTransaction: Undo Activate Tool
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: ================================================
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Total job queries 18,498, among them cache hits 4,882 (26.39%), DDC hits 12,397 (67.02%), Duplicates 579 (3.13%)
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Tracking 13,037 distinct input hashes that result in 11,931 distinct outputs (91.52%)
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: RAM used: 158.89 MiB of 3.20 GiB budget. Usage: 4.85%
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Shaders Compiled: 640
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Jobs assigned 640, completed 640 (100%)
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Average time worker was idle: 153.42 s
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Time job spent in pending queue: average 3.37 s, longest 21.86 s
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Job execution time: average 5.05 s, max 20.12 s
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Job life time (pending + execution): average 8.42 s, max 23.91
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Shader code size: total 9.869 MiB, numShaders 670, average 15.084 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 83.01 s
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Jobs were issued in 240 batches (only local compilation was used), average 2.67 jobs/batch
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Average processing rate: 7.71 jobs/sec
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Total thread time: 671.703 s
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Total thread preprocess time: 203.978 s
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Percentage time preprocessing: 30.37%
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Effective parallelization: 8.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.674340
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 9.38 sec, max 9.38 sec, min 9.38 sec)
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.27 sec, max 5.27 sec, min 5.27 sec)
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.48 sec, max 5.13 sec, min 1.83 sec)
+[2025.10.15-18.47.41:507][222]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 25.33% of total time (compiled   80 times, average 2.13 sec, max 2.44 sec, min 1.84 sec)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.19% of total time (compiled   62 times, average 0.89 sec, max 6.38 sec, min 0.27 sec)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.15% of total time (compiled   30 times, average 1.60 sec, max 7.20 sec, min 0.65 sec)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.61% of total time (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.05% of total time (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: === Material stats ===
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: Materials Translated:    160
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.15-18.47.41:508][222]LogShaderCompilers: Display: ================================================
+[2025.10.15-18.47.46:291][728]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2025.10.15-18.47.46:291][728]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.47.46:302][728]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.47.46:302][728]LogInteractiveToolsContext: Display: Transform gizmo hidden, unhide by toggling "Gizmo Visible" (or using hotkey, if set)
+[2025.10.15-18.47.46:302][728]LogInteractiveToolsContext: Display: Click an edge to insert an edge loop passing across that edge. Edge loops follow a sequence of quad-like polygroups.
+[2025.10.15-18.48.05:489][671]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.065756 MB)...
+[2025.10.15-18.48.05:491][671]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.48.13:268][492]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.065756 MB)...
+[2025.10.15-18.48.13:270][492]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.48.18:816][ 71]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.065756 MB)...
+[2025.10.15-18.48.18:817][ 71]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.48.27:166][883]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.065756 MB)...
+[2025.10.15-18.48.27:167][883]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.48.30:006][171]LogStaticMesh: Display: Building static mesh Box_00C8F631 (Required Memory Estimate: 0.065756 MB)...
+[2025.10.15-18.48.30:008][171]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631
+[2025.10.15-18.48.34:378][553]Cmd: DELETE
+[2025.10.15-18.48.34:378][553]Cmd: ACTOR DELETE
+[2025.10.15-18.48.34:380][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-18.48.34:411][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.15-18.48.34:418][553]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2025.10.15-18.48.39:431][147]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-18.48.39:432][147]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-18.48.42:935][558]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.10.15-18.49.15:311][407]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.49.15:311][407]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.49.15:312][407]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.49.15:314][407]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117
+[2025.10.15-18.49.25:767][495]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.49.25:768][495]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.49.32:199][156]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.49.32:200][156]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.49.35:820][530]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.49.35:821][530]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.49.38:250][782]Cmd: TRANSACTION UNDO
+[2025.10.15-18.49.38:250][782]LogEditorTransaction: Undo Transform
+[2025.10.15-18.49.38:254][782]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_189) Not registered. Aborting.
+[2025.10.15-18.49.38:254][782]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_189) Not registered. Aborting.
+[2025.10.15-18.49.38:563][783]Cmd: TRANSACTION UNDO
+[2025.10.15-18.49.38:563][783]LogEditorTransaction: Undo Transform
+[2025.10.15-18.49.56:937][586]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.49.56:938][586]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.50.02:482][142]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.50.02:483][142]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.50.04:056][297]Cmd: TRANSACTION UNDO
+[2025.10.15-18.50.04:056][297]LogEditorTransaction: Undo Transform
+[2025.10.15-18.50.04:059][297]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_220) Not registered. Aborting.
+[2025.10.15-18.50.04:059][297]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_220) Not registered. Aborting.
+[2025.10.15-18.50.04:380][298]Cmd: TRANSACTION UNDO
+[2025.10.15-18.50.04:380][298]LogEditorTransaction: Undo Transform
+[2025.10.15-18.50.05:145][329]Cmd: TRANSACTION UNDO
+[2025.10.15-18.50.05:145][329]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.15-18.50.05:457][330]Cmd: TRANSACTION UNDO
+[2025.10.15-18.50.05:459][330]LogEditorTransaction: Undo Change Selection
+[2025.10.15-18.50.30:939][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.15-18.50.30:946][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/0K/UR2PD7S7AO67LUAUQLBVLK_Auto4
+[2025.10.15-18.50.30:947][922]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/UR2PD7S7AO67LUAUQLBVLK_Auto48572EEFC45B0BD8CF81132B2F0845994.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/0K/UR2PD7S7AO67LUAUQLBVLK_Auto4.uasset'
+[2025.10.15-18.50.30:948][922]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.038
+[2025.10.15-18.50.30:948][922]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.10.15-18.50.30:948][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631] ([1] browsable assets)...
+[2025.10.15-18.50.30:984][922]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.Box_00C8F631]
+[2025.10.15-18.50.30:984][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631]
+[2025.10.15-18.50.30:989][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631_Auto4
+[2025.10.15-18.50.30:989][922]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_00C8F631_Auto4A1DD0ED6484C8B76BEAFBF89AA034DA8.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631_Auto4.uasset'
+[2025.10.15-18.50.30:990][922]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB] ([1] browsable assets)...
+[2025.10.15-18.50.30:997][922]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB]
+[2025.10.15-18.50.30:997][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB]
+[2025.10.15-18.50.31:002][922]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB_Auto4
+[2025.10.15-18.50.31:002][922]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_414FC1CB_Auto4995D554A4243CB7B0D399EB0931D021C.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB_Auto4.uasset'
+[2025.10.15-18.50.31:003][922]LogFileHelpers: Auto-saving content packages took 0.056
+[2025.10.15-18.51.08:186][856]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.51.08:187][856]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.51.11:087][138]Cmd: DELETE
+[2025.10.15-18.51.11:087][138]Cmd: ACTOR DELETE
+[2025.10.15-18.51.11:092][138]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.024787 MB)...
+[2025.10.15-18.51.11:094][138]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.51.12:439][275]Cmd: DELETE
+[2025.10.15-18.51.12:439][275]Cmd: ACTOR DELETE
+[2025.10.15-18.51.12:445][275]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.021676 MB)...
+[2025.10.15-18.51.12:446][275]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.51.13:644][396]Cmd: DELETE
+[2025.10.15-18.51.13:644][396]Cmd: ACTOR DELETE
+[2025.10.15-18.51.13:650][396]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.018565 MB)...
+[2025.10.15-18.51.13:651][396]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.51.14:521][480]Cmd: DELETE
+[2025.10.15-18.51.14:521][480]Cmd: ACTOR DELETE
+[2025.10.15-18.51.14:528][480]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.015174 MB)...
+[2025.10.15-18.51.14:529][480]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.51.14:979][520]Cmd: DELETE
+[2025.10.15-18.51.14:979][520]Cmd: ACTOR DELETE
+[2025.10.15-18.51.14:984][520]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.011783 MB)...
+[2025.10.15-18.51.14:985][520]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.51.15:718][591]Cmd: DELETE
+[2025.10.15-18.51.15:718][591]Cmd: ACTOR DELETE
+[2025.10.15-18.51.15:723][591]LogStaticMesh: Display: Building static mesh Box_414FC1CB (Required Memory Estimate: 0.008011 MB)...
+[2025.10.15-18.51.15:723][591]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB
+[2025.10.15-18.51.15:727][591]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-18.51.17:027][727]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-18.51.17:028][727]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-18.51.19:227][928]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.10.15-18.51.30:942][950]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.51.30:942][950]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.51.30:943][950]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.51.30:945][950]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1624621118
+[2025.10.15-18.51.37:540][632]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.51.37:541][632]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.51.38:708][747]Cmd: MODE GRID=0
+[2025.10.15-18.51.39:770][852]Cmd: MODE GRID=1
+[2025.10.15-18.51.46:933][606]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.51.46:934][606]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.51.53:355][251]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.51.53:356][251]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.51.58:082][689]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.51.58:083][689]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.52.03:967][291]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.52.03:967][291]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.52.10:681][949]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.027864 MB)...
+[2025.10.15-18.52.10:682][949]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.52.40:352][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4266.354980
+[2025.10.15-18.52.40:430][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-18.52.40:430][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4266.422852, Update Interval: 329.034088
+[2025.10.15-18.52.50:470][ 80]LogInteractiveToolsContext: Display: Select PolyGroups to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2025.10.15-18.52.50:470][ 80]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.52.50:482][ 80]LogInteractiveToolsContext: Warning: 
+[2025.10.15-18.52.50:482][ 80]LogInteractiveToolsContext: Display: Transform gizmo hidden, unhide by toggling "Gizmo Visible" (or using hotkey, if set)
+[2025.10.15-18.52.50:482][ 80]LogInteractiveToolsContext: Display: Click an edge to insert an edge loop passing across that edge. Edge loops follow a sequence of quad-like polygroups.
+[2025.10.15-18.53.50:527][300]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.50:527][300]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.50:829][301]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.50:829][301]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.51:015][301]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.51:015][301]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.51:203][301]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.51:203][301]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.51:390][301]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.51:390][301]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.51:576][301]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.51:576][301]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.51:959][302]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.51:959][302]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.52:217][303]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.52:217][303]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.52:398][303]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.52:398][303]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.53.56:415][666]Cmd: TRANSACTION UNDO
+[2025.10.15-18.53.56:415][666]LogEditorTransaction: Undo Edge Loop Insertion
+[2025.10.15-18.54.28:899][842]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.54.28:901][842]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.54.34:124][350]Cmd: DUPLICATE
+[2025.10.15-18.54.34:124][350]Cmd: ACTOR DUPLICATE
+[2025.10.15-18.55.04:651][420]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.55.04:652][420]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.55.05:860][544]Cmd: TRANSACTION UNDO
+[2025.10.15-18.55.05:860][544]LogEditorTransaction: Undo Transform
+[2025.10.15-18.55.05:864][544]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_439) Not registered. Aborting.
+[2025.10.15-18.55.05:864][544]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_439) Not registered. Aborting.
+[2025.10.15-18.55.19:066][871]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.55.19:067][871]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.55.20:194][986]Cmd: TRANSACTION UNDO
+[2025.10.15-18.55.20:194][986]LogEditorTransaction: Undo Transform
+[2025.10.15-18.55.20:200][986]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_477) Not registered. Aborting.
+[2025.10.15-18.55.20:200][986]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_477) Not registered. Aborting.
+[2025.10.15-18.55.38:536][757]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.55.38:538][757]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.55.44:689][353]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.55.44:690][353]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.55.47:632][658]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.55.47:633][658]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.55.48:540][750]Cmd: TRANSACTION UNDO
+[2025.10.15-18.55.48:540][750]LogEditorTransaction: Undo Transform
+[2025.10.15-18.55.48:548][750]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_519) Not registered. Aborting.
+[2025.10.15-18.55.48:549][750]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_519) Not registered. Aborting.
+[2025.10.15-18.55.54:273][290]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.55.54:275][290]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.55.55:114][374]Cmd: TRANSACTION UNDO
+[2025.10.15-18.55.55:115][374]LogEditorTransaction: Undo Transform
+[2025.10.15-18.55.55:119][374]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_527) Not registered. Aborting.
+[2025.10.15-18.55.55:119][374]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_527) Not registered. Aborting.
+[2025.10.15-18.55.56:959][516]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.55.56:998][516]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.15-18.55.59:538][634]LogSlate: Window 'Box_4FC3D4CB' being destroyed
+[2025.10.15-18.55.59:545][634]LogSlate: Window 'Box_4FC3D4CB' being destroyed
+[2025.10.15-18.55.59:609][634]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-18.55.59:609][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-18.55.59:692][634]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-18.55.59:692][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-18.55.59:766][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.15-18.56.00:696][728]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2025.10.15-18.56.39:330][360]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.56.39:331][360]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.56.40:229][450]Cmd: TRANSACTION UNDO
+[2025.10.15-18.56.40:229][450]LogEditorTransaction: Undo Transform
+[2025.10.15-18.56.40:234][450]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_539) Not registered. Aborting.
+[2025.10.15-18.56.40:234][450]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_539) Not registered. Aborting.
+[2025.10.15-18.56.42:702][654]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-18.56.42:703][654]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-18.56.43:542][735]Cmd: TRANSACTION UNDO
+[2025.10.15-18.56.43:542][735]LogEditorTransaction: Undo Transform
+[2025.10.15-18.56.43:547][735]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.LineSetComponent_541) Not registered. Aborting.
+[2025.10.15-18.56.43:547][735]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.TriangleSetComponent_541) Not registered. Aborting.
+[2025.10.15-18.59.00:521][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4646.560547
+[2025.10.15-18.59.01:522][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-18.59.01:522][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4647.227051, Update Interval: 310.951874
+[2025.10.15-18.59.19:359][543]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-18.59.19:365][543]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-18.59.19:371][543]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.15-18.59.40:339][364]Cmd: DELETE
+[2025.10.15-18.59.40:339][364]Cmd: ACTOR DELETE
+[2025.10.15-18.59.40:339][364]LogInteractiveToolsContext: Warning: Cannot delete objects while this Tool is active
+[2025.10.15-18.59.40:567][383]Cmd: DELETE
+[2025.10.15-18.59.40:567][383]Cmd: ACTOR DELETE
+[2025.10.15-18.59.40:567][383]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.10.15-18.59.40:567][383]LogInteractiveToolsContext: Warning: Cannot delete objects while this Tool is active
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: ================================================
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Total job queries 18,502, among them cache hits 4,884 (26.40%), DDC hits 12,397 (67.00%), Duplicates 579 (3.13%)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Tracking 13,039 distinct input hashes that result in 11,933 distinct outputs (91.52%)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: RAM used: 158.90 MiB of 3.20 GiB budget. Usage: 4.85%
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Shaders Compiled: 642
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Jobs assigned 642, completed 642 (100%)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Average time worker was idle: 158.40 s
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Time job spent in pending queue: average 3.36 s, longest 21.86 s
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Job execution time: average 5.04 s, max 20.12 s
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Job life time (pending + execution): average 8.40 s, max 23.91
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Shader code size: total 9.892 MiB, numShaders 672, average 15.074 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 83.76 s
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Jobs were issued in 242 batches (only local compilation was used), average 2.65 jobs/batch
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Average processing rate: 7.66 jobs/sec
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Total thread time: 672.486 s
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Total thread preprocess time: 204.031 s
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Percentage time preprocessing: 30.34%
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Effective parallelization: 8.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.669063
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 9.38 sec, max 9.38 sec, min 9.38 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.27 sec, max 5.27 sec, min 5.27 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.48 sec, max 5.13 sec, min 1.83 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 25.30% of total time (compiled   80 times, average 2.13 sec, max 2.44 sec, min 1.84 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.25% of total time (compiled   63 times, average 0.88 sec, max 6.38 sec, min 0.27 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.14% of total time (compiled   30 times, average 1.60 sec, max 7.20 sec, min 0.65 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.60% of total time (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.04% of total time (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: === Material stats ===
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Materials Translated:    161
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.15-18.59.41:536][469]LogShaderCompilers: Display: ================================================
+[2025.10.15-18.59.43:635][537]LogSlate: Window 'Accept changes instead?' being destroyed
+[2025.10.15-18.59.43:642][537]Message dialog closed, result: Yes, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2025.10.15-18.59.43:643][537]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9.CubeGridToolOutput_44A1D2A9
+[2025.10.15-18.59.43:644][537]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_44A1D2A9 (Required Memory Estimate: 0.040895 MB)...
+[2025.10.15-18.59.43:645][537]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9.CubeGridToolOutput_44A1D2A9
+[2025.10.15-18.59.43:646][537]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9.CubeGridToolOutput_44A1D2A9 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_2117322120
+[2025.10.15-18.59.45:367][708]Cmd: DELETE
+[2025.10.15-18.59.45:367][708]Cmd: ACTOR DELETE
+[2025.10.15-18.59.45:369][708]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-18.59.45:402][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.15-18.59.45:409][708]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2025.10.15-18.59.46:166][779]Cmd: DELETE
+[2025.10.15-18.59.46:166][779]Cmd: ACTOR DELETE
+[2025.10.15-18.59.46:168][779]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-18.59.46:194][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.15-18.59.46:198][779]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.15-18.59.49:739][164]Cmd: DELETE
+[2025.10.15-18.59.49:739][164]Cmd: ACTOR DELETE
+[2025.10.15-18.59.49:741][164]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-18.59.49:768][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.15-18.59.49:773][164]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.15-19.00.00:999][500]Cmd: TRANSACTION UNDO
+[2025.10.15-19.00.00:999][500]LogEditorTransaction: Undo Delete Elements
+[2025.10.15-19.00.03:485][668]Cmd: TRANSACTION UNDO
+[2025.10.15-19.00.03:485][668]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.15-19.00.05:801][887]Cmd: TRANSACTION UNDO
+[2025.10.15-19.00.05:801][887]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.15-19.00.09:149][190]Cmd: TRANSACTION UNDO
+[2025.10.15-19.00.09:149][190]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.15-19.00.09:392][211]Cmd: TRANSACTION UNDO
+[2025.10.15-19.00.09:392][211]LogEditorTransaction: Undo Delete Elements
+[2025.10.15-19.00.09:675][213]Cmd: TRANSACTION UNDO
+[2025.10.15-19.00.09:675][213]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.15-19.00.09:918][216]Cmd: TRANSACTION UNDO
+[2025.10.15-19.00.09:918][216]LogEditorTransaction: Undo Delete Elements
+[2025.10.15-19.00.15:020][688]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.00.15:025][688]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.00.34:711][358]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_44A1D2A9 (Required Memory Estimate: 0.204417 MB)...
+[2025.10.15-19.00.34:713][358]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9.CubeGridToolOutput_44A1D2A9
+[2025.10.15-19.00.34:714][358]LogStaticMesh: Warning: CubeGridToolOutput_44A1D2A9 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.00.34:714][358]LogStaticMesh: Warning: CubeGridToolOutput_44A1D2A9 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.00.36:939][582]Cmd: DELETE
+[2025.10.15-19.00.36:940][582]Cmd: ACTOR DELETE
+[2025.10.15-19.00.36:941][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-19.00.36:969][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.15-19.00.36:979][582]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.10.15-19.00.38:092][698]Cmd: DELETE
+[2025.10.15-19.00.38:092][698]Cmd: ACTOR DELETE
+[2025.10.15-19.00.38:093][698]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-19.00.38:120][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.15-19.00.38:125][698]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.10.15-19.00.39:873][881]Cmd: TRANSACTION UNDO
+[2025.10.15-19.00.39:873][881]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.15-19.00.44:041][318]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.00.44:045][318]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.15-19.00.54:215][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.00.54:215][458]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 0.171579 MB)...
+[2025.10.15-19.00.54:217][458]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.00.54:217][458]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.00.54:217][458]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.00.54:217][458]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AC9802_1114152297
+[2025.10.15-19.01.00:220][ 67]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.141485 MB)...
+[2025.10.15-19.01.00:221][ 67]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-19.01.01:151][158]Cmd: DELETE
+[2025.10.15-19.01.01:151][158]Cmd: ACTOR DELETE
+[2025.10.15-19.01.01:156][158]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.138541 MB)...
+[2025.10.15-19.01.01:159][158]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-19.01.01:861][225]Cmd: DELETE
+[2025.10.15-19.01.01:861][225]Cmd: ACTOR DELETE
+[2025.10.15-19.01.01:865][225]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.135704 MB)...
+[2025.10.15-19.01.01:866][225]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-19.01.09:472][ 27]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.15-19.01.11:120][171]Cmd: DELETE
+[2025.10.15-19.01.11:120][171]Cmd: ACTOR DELETE
+[2025.10.15-19.01.11:125][171]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.108213 MB)...
+[2025.10.15-19.01.11:126][171]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-19.01.12:413][304]Cmd: DELETE
+[2025.10.15-19.01.12:413][304]Cmd: ACTOR DELETE
+[2025.10.15-19.01.12:418][304]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.09862 MB)...
+[2025.10.15-19.01.12:420][304]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-19.01.13:487][414]Cmd: DELETE
+[2025.10.15-19.01.13:487][414]Cmd: ACTOR DELETE
+[2025.10.15-19.01.13:493][414]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.085823 MB)...
+[2025.10.15-19.01.13:496][414]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-19.01.14:365][502]Cmd: DELETE
+[2025.10.15-19.01.14:365][502]Cmd: ACTOR DELETE
+[2025.10.15-19.01.14:369][502]LogStaticMesh: Display: Building static mesh Box_4FC3D4CB (Required Memory Estimate: 0.079227 MB)...
+[2025.10.15-19.01.14:371][502]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB
+[2025.10.15-19.01.14:994][563]Cmd: DELETE
+[2025.10.15-19.01.14:994][563]Cmd: ACTOR DELETE
+[2025.10.15-19.01.14:996][563]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-19.01.15:023][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.15-19.01.15:031][563]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.10.15-19.01.29:294][111]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.01.29:300][111]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.01.40:944][ 97]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 0.335101 MB)...
+[2025.10.15-19.01.40:946][ 97]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.01.40:947][ 97]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.01.40:947][ 97]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.01.43:680][388]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.01.43:685][388]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.02.00:849][932]Cmd: TRANSACTION UNDO
+[2025.10.15-19.02.00:849][932]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.02.11:664][809]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 0.45254 MB)...
+[2025.10.15-19.02.11:666][809]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.02.11:666][809]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.02.11:667][809]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.02.15:110][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.15-19.02.15:125][170]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.15-19.02.15:125][170]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.15-19.02.15:126][170]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 830 us (total: 27.449 ms)
+[2025.10.15-19.02.15:126][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-19.02.15:149][170]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2025.10.15-19.02.15:152][170]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.10.15-19.02.15:171][171]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-19.02.15:175][171]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.15-19.02.15:176][171]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 795 us (total: 31.136 ms)
+[2025.10.15-19.02.15:176][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005116s)
+[2025.10.15-19.02.15:176][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005166s)
+[2025.10.15-19.02.15:206][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.15-19.02.15:212][171]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.15-19.02.15:214][171]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.15-19.02.15:214][171]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.15-19.02.15:214][171]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.15-19.02.15:214][171]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.15-19.02.15:215][171]LogWorldPartition: Display: WorldPartition initialize took 1.173 ms (total: 201.125 ms)
+[2025.10.15-19.02.15:216][171]LogPlayLevel: PIE: World Init took: (0.003215s)
+[2025.10.15-19.02.15:216][171]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.10.15-19.02.15:216][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-19.02.15:216][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-19.02.15:216][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-19.02.15:216][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-19.02.15:216][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-19.02.15:216][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-19.02.15:216][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-19.02.15:216][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-19.02.15:216][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-19.02.15:216][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-19.02.15:216][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-19.02.15:219][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-19.02.15:242][171]LogAudioMixer: Display: Using Audio Hardware Device HP Z24n G2 (NVIDIA High Definition Audio)
+[2025.10.15-19.02.15:242][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-19.02.15:242][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-19.02.15:242][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-19.02.15:243][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.10.15-19.02.15:243][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.10.15-19.02.15:246][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.10.15-19.02.15:246][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.10.15-19.02.15:246][171]LogInit: FAudioDevice initialized with ID 37.
+[2025.10.15-19.02.15:246][171]LogAudio: Display: Audio Device (ID: 37) registered with world 'Lvl_FirstPerson'.
+[2025.10.15-19.02.15:246][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.10.15-19.02.15:250][171]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.15-19.02.15:252][171]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.15-15.02.15
+[2025.10.15-19.02.15:253][171]LogWorld: Bringing up level for play took: 0.001796
+[2025.10.15-19.02.15:261][171]PIE: Server logged in
+[2025.10.15-19.02.15:264][171]PIE: Play in editor total start time 0.139 seconds.
+[2025.10.15-19.02.15:309][172]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-19.02.16:116][263]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.10.15-19.02.17:853][471]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2025.10.15-19.02.18:854][591]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1
+[2025.10.15-19.02.20:861][831]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4
+[2025.10.15-19.02.33:018][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-19.02.33:018][282]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-19.02.33:018][282]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-19.02.33:019][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-19.02.33:019][282]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.15-19.02.33:021][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-19.02.33:027][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-19.02.33:054][282]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.15-19.02.33:054][282]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.10.15-19.02.33:055][282]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=4
+[2025.10.15-19.02.33:058][282]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37, StreamState=2
+[2025.10.15-19.02.33:065][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-19.02.33:068][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.15-19.02.33:145][283]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.10.15-19.02.39:258][875]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.02.39:263][875]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: ================================================
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Total job queries 18,508, among them cache hits 4,888 (26.41%), DDC hits 12,397 (66.98%), Duplicates 579 (3.13%)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Tracking 13,041 distinct input hashes that result in 11,935 distinct outputs (91.52%)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: RAM used: 158.93 MiB of 3.20 GiB budget. Usage: 4.85%
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Shaders Compiled: 644
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Jobs assigned 644, completed 644 (100%)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Average time worker was idle: 157.98 s
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Time job spent in pending queue: average 3.35 s, longest 21.86 s
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Job execution time: average 5.03 s, max 20.12 s
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Job life time (pending + execution): average 8.38 s, max 23.91
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Shader code size: total 9.923 MiB, numShaders 675, average 15.053 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 84.94 s
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Jobs were issued in 244 batches (only local compilation was used), average 2.64 jobs/batch
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Average processing rate: 7.58 jobs/sec
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Total thread time: 673.643 s
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Total thread preprocess time: 204.115 s
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Percentage time preprocessing: 30.30%
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Effective parallelization: 7.93 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.660895
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 9.38 sec, max 9.38 sec, min 9.38 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.27 sec, max 5.27 sec, min 5.27 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.48 sec, max 5.13 sec, min 1.83 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 25.26% of total time (compiled   80 times, average 2.13 sec, max 2.44 sec, min 1.84 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.23% of total time (compiled   63 times, average 0.88 sec, max 6.38 sec, min 0.27 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.13% of total time (compiled   30 times, average 1.60 sec, max 7.20 sec, min 0.65 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.59% of total time (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.03% of total time (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: === Material stats ===
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Materials Translated:    162
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Material Translation Only: 0.05 s (40%)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.15-19.02.41:540][ 73]LogShaderCompilers: Display: ================================================
+[2025.10.15-19.02.45:136][396]Cmd: TRANSACTION UNDO
+[2025.10.15-19.02.45:136][396]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.02.45:683][407]Cmd: TRANSACTION UNDO
+[2025.10.15-19.02.45:683][407]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.02.46:949][514]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 0.465625 MB)...
+[2025.10.15-19.02.46:951][514]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.02.46:952][514]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.02.46:952][514]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.02.51:303][894]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.02.51:309][894]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.02.55:758][277]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 0.472167 MB)...
+[2025.10.15-19.02.55:760][277]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.02.55:761][277]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.02.55:761][277]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.03.26:108][317]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.03.26:114][317]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.04.45:733][107]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 0.556668 MB)...
+[2025.10.15-19.04.45:736][107]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.04.45:736][107]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.04.45:736][107]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.04.47:719][313]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.15-19.04.47:733][313]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.15-19.04.47:733][313]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.15-19.04.47:734][313]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 750 us (total: 28.199 ms)
+[2025.10.15-19.04.47:734][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-19.04.47:769][313]LogPlayLevel: Display: Creating online subsystem for client :Context_55
+[2025.10.15-19.04.47:771][313]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.10.15-19.04.47:790][314]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-19.04.47:794][314]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.15-19.04.47:795][314]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 787 us (total: 31.924 ms)
+[2025.10.15-19.04.47:795][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005055s)
+[2025.10.15-19.04.47:795][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005107s)
+[2025.10.15-19.04.47:823][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.15-19.04.47:830][314]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.15-19.04.47:831][314]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.15-19.04.47:831][314]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.15-19.04.47:831][314]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.15-19.04.47:831][314]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.15-19.04.47:833][314]LogWorldPartition: Display: WorldPartition initialize took 1.175 ms (total: 202.300 ms)
+[2025.10.15-19.04.47:833][314]LogPlayLevel: PIE: World Init took: (0.003135s)
+[2025.10.15-19.04.47:833][314]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.10.15-19.04.47:833][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-19.04.47:833][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-19.04.47:833][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-19.04.47:833][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-19.04.47:834][314]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-19.04.47:834][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-19.04.47:834][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-19.04.47:834][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-19.04.47:834][314]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-19.04.47:834][314]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-19.04.47:834][314]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-19.04.47:836][314]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-19.04.47:857][314]LogAudioMixer: Display: Using Audio Hardware Device HP Z24n G2 (NVIDIA High Definition Audio)
+[2025.10.15-19.04.47:858][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-19.04.47:858][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-19.04.47:858][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-19.04.47:858][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.10.15-19.04.47:858][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.10.15-19.04.47:861][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.10.15-19.04.47:861][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.10.15-19.04.47:861][314]LogInit: FAudioDevice initialized with ID 38.
+[2025.10.15-19.04.47:861][314]LogAudio: Display: Audio Device (ID: 38) registered with world 'Lvl_FirstPerson'.
+[2025.10.15-19.04.47:861][314]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.10.15-19.04.47:866][314]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.15-19.04.47:868][314]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.15-15.04.47
+[2025.10.15-19.04.47:869][314]LogWorld: Bringing up level for play took: 0.001715
+[2025.10.15-19.04.47:876][314]PIE: Server logged in
+[2025.10.15-19.04.47:879][314]PIE: Play in editor total start time 0.146 seconds.
+[2025.10.15-19.04.47:925][315]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-19.04.48:725][405]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.10.15-19.04.53:103][929]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2025.10.15-19.04.54:106][ 47]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1
+[2025.10.15-19.04.55:613][227]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 4
+[2025.10.15-19.05.00:539][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-19.05.00:539][807]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-19.05.00:539][807]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-19.05.00:540][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-19.05.00:540][807]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.15-19.05.00:542][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-19.05.00:547][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-19.05.00:576][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.15-19.05.00:576][807]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.10.15-19.05.00:576][807]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=4
+[2025.10.15-19.05.00:578][807]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38, StreamState=2
+[2025.10.15-19.05.00:582][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-19.05.00:585][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.15-19.05.00:661][808]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.10.15-19.05.01:635][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5007.693848
+[2025.10.15-19.05.01:691][915]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-19.05.01:691][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5007.740723, Update Interval: 328.208252
+[2025.10.15-19.05.05:380][294]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.05.05:385][294]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.05.24:963][940]Cmd: TRANSACTION UNDO
+[2025.10.15-19.05.24:963][940]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.05.25:472][948]Cmd: TRANSACTION UNDO
+[2025.10.15-19.05.25:472][948]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.15-19.05.26:248][  8]Cmd: TRANSACTION UNDO
+[2025.10.15-19.05.26:248][  8]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.06.10:274][782]Cmd: TRANSACTION UNDO
+[2025.10.15-19.06.10:274][782]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.06.36:167][980]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 0.762975 MB)...
+[2025.10.15-19.06.36:170][980]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.06.36:171][980]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.06.36:171][980]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.06.38:074][166]Cmd: ACTOR HIDE SELECTED
+[2025.10.15-19.06.49:048][391]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.06.49:054][391]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.07.29:928][737]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.29:928][737]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.07.30:255][742]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.30:255][742]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.07.30:808][775]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.30:808][775]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.15-19.07.31:213][807]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.31:213][807]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.07.31:448][824]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.31:448][824]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.07.31:815][852]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.31:815][852]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.15-19.07.32:089][872]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.32:089][872]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.07.32:333][889]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.32:333][889]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.07.32:691][916]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.32:691][916]LogEditorTransaction: Undo Cube Grid Selection Change
+[2025.10.15-19.07.32:957][935]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.32:957][935]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.07.33:177][950]Cmd: TRANSACTION UNDO
+[2025.10.15-19.07.33:177][950]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.07.54:626][679]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 0.853531 MB)...
+[2025.10.15-19.07.54:630][679]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.07.54:631][679]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.07.54:631][679]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.08.13:338][593]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.08.13:345][593]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.08.45:627][301]Cmd: TRANSACTION UNDO
+[2025.10.15-19.08.45:628][301]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.09.30:720][ 21]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 1.293314 MB)...
+[2025.10.15-19.09.30:725][ 21]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.09.30:726][ 21]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.09.30:726][ 21]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.09.33:549][316]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-19.09.33:551][316]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-19.09.41:345][ 38]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.10.15-19.11.11:079][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5377.121094
+[2025.10.15-19.11.11:157][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-19.11.11:157][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5377.187988, Update Interval: 308.912018
+[2025.10.15-19.15.07:347][574]LogStaticMesh: Display: Building static mesh Stairs_298B5090 (Required Memory Estimate: 0.053312 MB)...
+[2025.10.15-19.15.07:347][574]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090.Stairs_298B5090
+[2025.10.15-19.15.07:348][574]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090.Stairs_298B5090
+[2025.10.15-19.15.07:350][574]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090.Stairs_298B5090 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AC9802_1967284298
+[2025.10.15-19.15.07:402][574]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.15.07:407][574]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.15.28:219][357]Cmd: TRANSACTION UNDO
+[2025.10.15-19.15.28:219][357]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.15.35:126][890]LogStaticMesh: Display: Building static mesh Stairs_298B5090 (Required Memory Estimate: 0.148395 MB)...
+[2025.10.15-19.15.35:127][890]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090.Stairs_298B5090
+[2025.10.15-19.15.42:750][678]Cmd: TRANSACTION UNDO
+[2025.10.15-19.15.42:750][678]LogEditorTransaction: Undo Move Elements
+[2025.10.15-19.15.51:617][470]LogStaticMesh: Display: Building static mesh Stairs_298B5090 (Required Memory Estimate: 0.148395 MB)...
+[2025.10.15-19.15.51:619][470]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090.Stairs_298B5090
+[2025.10.15-19.15.57:618][ 81]LogStaticMesh: Display: Building static mesh Stairs_298B5090 (Required Memory Estimate: 0.148395 MB)...
+[2025.10.15-19.15.57:620][ 81]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090.Stairs_298B5090
+[2025.10.15-19.15.57:620][ 81]LogStaticMesh: Warning: Stairs_298B5090 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.15.57:620][ 81]LogStaticMesh: Warning: Stairs_298B5090 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.16.12:452][596]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.16.12:458][596]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.15-19.17.06:419][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5732.303223
+[2025.10.15-19.17.06:494][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-19.17.06:494][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5732.367676, Update Interval: 302.096619
+[2025.10.15-19.20.09:325][290]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_B5D2BA95 (Required Memory Estimate: 0.053953 MB)...
+[2025.10.15-19.20.09:325][290]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95.CubeGridToolOutput_B5D2BA95
+[2025.10.15-19.20.09:327][290]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95.CubeGridToolOutput_B5D2BA95
+[2025.10.15-19.20.09:328][290]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95.CubeGridToolOutput_B5D2BA95 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AD9802_1195520475
+[2025.10.15-19.20.13:735][727]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-19.20.13:736][727]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.10.15-19.20.17:268][ 47]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.10.15-19.20.37:094][768]Cmd: TRANSACTION UNDO
+[2025.10.15-19.20.37:094][768]LogEditorTransaction: Undo Transform
+[2025.10.15-19.21.43:597][452]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C.Stairs_777CDD7C
+[2025.10.15-19.21.43:597][452]LogStaticMesh: Display: Building static mesh Stairs_777CDD7C (Required Memory Estimate: 0.122913 MB)...
+[2025.10.15-19.21.43:599][452]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C.Stairs_777CDD7C
+[2025.10.15-19.21.43:599][452]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C.Stairs_777CDD7C as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AD9802_1289792476
+[2025.10.15-19.22.03:309][442]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-19.22.03:314][442]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-19.22.24:012][161]Cmd: TRANSACTION UNDO
+[2025.10.15-19.22.24:012][161]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.22.55:413][692]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6081.296387
+[2025.10.15-19.22.55:491][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-19.22.55:491][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6081.362793, Update Interval: 310.080261
+[2025.10.15-19.22.58:664][980]Cmd: TRANSACTION UNDO
+[2025.10.15-19.22.58:664][980]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-19.23.01:568][148]LogStaticMesh: Display: Building static mesh Stairs_777CDD7C (Required Memory Estimate: 0.611256 MB)...
+[2025.10.15-19.23.01:571][148]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C.Stairs_777CDD7C
+[2025.10.15-19.23.20:490][113]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 1.293314 MB)...
+[2025.10.15-19.23.20:495][113]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.23.20:496][113]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.20:496][113]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.22:390][310]Cmd: TRANSACTION UNDO
+[2025.10.15-19.23.22:390][310]LogEditorTransaction: Undo Transform
+[2025.10.15-19.23.22:395][310]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_316) Not registered. Aborting.
+[2025.10.15-19.23.22:395][310]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_321) Not registered. Aborting.
+[2025.10.15-19.23.22:396][310]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_322) Not registered. Aborting.
+[2025.10.15-19.23.22:401][310]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.22:401][310]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.38:709][961]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 1.293314 MB)...
+[2025.10.15-19.23.38:713][961]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.23.38:715][961]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.38:715][961]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.42:742][382]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 1.293314 MB)...
+[2025.10.15-19.23.42:747][382]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.23.42:748][382]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.42:748][382]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.45:534][671]Cmd: TRANSACTION UNDO
+[2025.10.15-19.23.45:534][671]LogEditorTransaction: Undo Transform
+[2025.10.15-19.23.45:538][671]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_365) Not registered. Aborting.
+[2025.10.15-19.23.45:538][671]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_376) Not registered. Aborting.
+[2025.10.15-19.23.45:538][671]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_377) Not registered. Aborting.
+[2025.10.15-19.23.45:543][671]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.45:543][671]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.46:389][711]Cmd: TRANSACTION UNDO
+[2025.10.15-19.23.46:389][711]LogEditorTransaction: Undo Transform
+[2025.10.15-19.23.46:394][711]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_378) Not registered. Aborting.
+[2025.10.15-19.23.46:394][711]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_379) Not registered. Aborting.
+[2025.10.15-19.23.46:394][711]LogActorComponent: UnregisterComponent: (/Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.PreviewGeometryActor_1.PointSetComponent_380) Not registered. Aborting.
+[2025.10.15-19.23.46:399][711]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.46:399][711]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.49:701][ 44]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 1.293314 MB)...
+[2025.10.15-19.23.49:706][ 44]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.23.49:707][ 44]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.49:707][ 44]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.53:772][476]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 1.293314 MB)...
+[2025.10.15-19.23.53:777][476]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.23.53:778][476]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.23.53:778][476]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.24.05:002][617]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D1BA46DF (Required Memory Estimate: 1.293314 MB)...
+[2025.10.15-19.24.05:008][617]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.24.05:008][617]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.24.05:008][617]LogStaticMesh: Warning: CubeGridToolOutput_D1BA46DF has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-19.25.52:724][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.15-19.25.52:738][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/0K/UR2PD7S7AO67LUAUQLBVLK_Auto5
+[2025.10.15-19.25.52:738][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/UR2PD7S7AO67LUAUQLBVLK_Auto50434414C4263D85D1BDC2A922064EB02.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/0K/UR2PD7S7AO67LUAUQLBVLK_Auto5.uasset'
+[2025.10.15-19.25.52:742][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/Q0/U5BFPNOM80DU32FAFTQCS2_Auto5
+[2025.10.15-19.25.52:742][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/U5BFPNOM80DU32FAFTQCS2_Auto5F05E56754FF76A8A5193DEA4DE474E5A.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/Q0/U5BFPNOM80DU32FAFTQCS2_Auto5.uasset'
+[2025.10.15-19.25.52:746][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/9D/6TAY7HAWARKHJWOXBLSA1Z_Auto5
+[2025.10.15-19.25.52:746][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/6TAY7HAWARKHJWOXBLSA1Z_Auto59E656FF64AD529C57751AAA70FD23ADB.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/9D/6TAY7HAWARKHJWOXBLSA1Z_Auto5.uasset'
+[2025.10.15-19.25.52:749][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/V2/JXUA97LNSMUELM9GRFYBQ7_Auto5
+[2025.10.15-19.25.52:749][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/JXUA97LNSMUELM9GRFYBQ7_Auto5172546614BF2E13164C2EBA29833C1A4.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/V2/JXUA97LNSMUELM9GRFYBQ7_Auto5.uasset'
+[2025.10.15-19.25.52:753][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/MN/5L12LEGOJEQAYKDT92GIWK_Auto5
+[2025.10.15-19.25.52:753][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/5L12LEGOJEQAYKDT92GIWK_Auto52099F30248A96C6ED81A04860B19C0DB.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/MN/5L12LEGOJEQAYKDT92GIWK_Auto5.uasset'
+[2025.10.15-19.25.52:755][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.086
+[2025.10.15-19.25.52:755][266]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2025.10.15-19.25.52:755][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631] ([1] browsable assets)...
+[2025.10.15-19.25.52:755][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631]
+[2025.10.15-19.25.52:760][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631_Auto5
+[2025.10.15-19.25.52:760][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_00C8F631_Auto5673977B64CD709B51AC189A921DD3F30.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631_Auto5.uasset'
+[2025.10.15-19.25.52:761][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB] ([1] browsable assets)...
+[2025.10.15-19.25.52:794][266]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.Box_414FC1CB]
+[2025.10.15-19.25.52:794][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB]
+[2025.10.15-19.25.52:799][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB_Auto5
+[2025.10.15-19.25.52:799][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_414FC1CB_Auto5B54B1CA94363CA08B4D7FBB296BE17AB.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB_Auto5.uasset'
+[2025.10.15-19.25.52:800][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB] ([1] browsable assets)...
+[2025.10.15-19.25.52:807][266]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.Box_4FC3D4CB]
+[2025.10.15-19.25.52:807][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB]
+[2025.10.15-19.25.52:813][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB_Auto5
+[2025.10.15-19.25.52:813][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_4FC3D4CB_Auto52AEBE4724DA27650C1DA27AB1612B3AB.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB_Auto5.uasset'
+[2025.10.15-19.25.52:814][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9] ([1] browsable assets)...
+[2025.10.15-19.25.52:820][266]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9.CubeGridToolOutput_44A1D2A9]
+[2025.10.15-19.25.52:820][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9]
+[2025.10.15-19.25.52:825][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9_Auto5
+[2025.10.15-19.25.52:825][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_44A1D2A9_Auto5EC3AEDF4EE803DB57D5A9B80558EE00.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9_Auto5.uasset'
+[2025.10.15-19.25.52:827][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF] ([1] browsable assets)...
+[2025.10.15-19.25.52:834][266]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.CubeGridToolOutput_D1BA46DF]
+[2025.10.15-19.25.52:834][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF]
+[2025.10.15-19.25.52:841][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF_Auto5
+[2025.10.15-19.25.52:841][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_D1BA46DF_AutoFA742032497BBD93FAD95AAA4FF7A41D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF_Auto5.uasset'
+[2025.10.15-19.25.52:842][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090] ([1] browsable assets)...
+[2025.10.15-19.25.52:848][266]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090.Stairs_298B5090]
+[2025.10.15-19.25.52:848][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090]
+[2025.10.15-19.25.52:853][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090_Auto5
+[2025.10.15-19.25.52:853][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Stairs_298B5090_Auto5F62FDB1B4BC886CE9FC3BFA71948B9AF.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090_Auto5.uasset'
+[2025.10.15-19.25.52:854][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95] ([1] browsable assets)...
+[2025.10.15-19.25.52:860][266]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95.CubeGridToolOutput_B5D2BA95]
+[2025.10.15-19.25.52:861][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95]
+[2025.10.15-19.25.52:865][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95_Auto5
+[2025.10.15-19.25.52:865][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_B5D2BA95_AutoE6A63E3442DB5FC5DFDFD4A6E8968802.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95_Auto5.uasset'
+[2025.10.15-19.25.52:868][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C] ([1] browsable assets)...
+[2025.10.15-19.25.52:875][266]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C.Stairs_777CDD7C]
+[2025.10.15-19.25.52:875][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C]
+[2025.10.15-19.25.52:880][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C_Auto5
+[2025.10.15-19.25.52:881][266]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Stairs_777CDD7C_Auto577093C104D1A0D196C9099A434BEA857.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C_Auto5.uasset'
+[2025.10.15-19.25.52:882][266]LogFileHelpers: Auto-saving content packages took 0.127
+[2025.10.15-19.26.02:724][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-19.26.02:803][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.15-19.26.02:832][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.15-19.26.02:856][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.15-19.26.02:863][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/0K/UR2PD7S7AO67LUAUQLBVLK
+[2025.10.15-19.26.02:863][436]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/UR2PD7S7AO67LUAUQLBVLK5C974DE04891F61C8070A08597D8A81D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/0K/UR2PD7S7AO67LUAUQLBVLK.uasset'
+[2025.10.15-19.26.02:867][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/Q0/U5BFPNOM80DU32FAFTQCS2
+[2025.10.15-19.26.02:867][436]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/U5BFPNOM80DU32FAFTQCS29C9FB29942AFB1A51A5CC9AC79B8B54E.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/Q0/U5BFPNOM80DU32FAFTQCS2.uasset'
+[2025.10.15-19.26.02:871][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/9D/6TAY7HAWARKHJWOXBLSA1Z
+[2025.10.15-19.26.02:871][436]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/6TAY7HAWARKHJWOXBLSA1ZFC3B3F1145D43D712535C5A1FAB16D61.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/9D/6TAY7HAWARKHJWOXBLSA1Z.uasset'
+[2025.10.15-19.26.02:876][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/V2/JXUA97LNSMUELM9GRFYBQ7
+[2025.10.15-19.26.02:876][436]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/JXUA97LNSMUELM9GRFYBQ7856429A844BB7C88E26BDFB154B4510B.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/V2/JXUA97LNSMUELM9GRFYBQ7.uasset'
+[2025.10.15-19.26.02:879][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/MN/5L12LEGOJEQAYKDT92GIWK
+[2025.10.15-19.26.02:879][436]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/5L12LEGOJEQAYKDT92GIWKF6B3DD67453223D2135E33AC9FBD0DD3.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/MN/5L12LEGOJEQAYKDT92GIWK.uasset'
+[2025.10.15-19.26.02:891][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.265 ms (total: 3.93 sec)
+[2025.10.15-19.26.02:932][436]LogContentValidation: Display: Starting to validate 5 assets
+[2025.10.15-19.26.02:932][436]LogContentValidation: Enabled validators:
+[2025.10.15-19.26.02:933][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-19.26.02:933][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-19.26.02:933][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-19.26.02:933][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-19.26.02:933][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-19.26.02:933][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-19.26.02:933][436]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-19.26.02:977][436]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-19.26.02:980][437]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-19.26.04:559][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-19.26.05:771][621]LogSlate: Window 'Save Content' being destroyed
+[2025.10.15-19.26.05:795][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-19.26.05:852][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631] ([1] browsable assets)...
+[2025.10.15-19.26.05:852][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631]
+[2025.10.15-19.26.05:857][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631
+[2025.10.15-19.26.05:857][621]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_00C8F6318E9C30FE43E183DEC067C4B28CABD563.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Box_00C8F631.uasset'
+[2025.10.15-19.26.05:859][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB] ([1] browsable assets)...
+[2025.10.15-19.26.05:859][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB]
+[2025.10.15-19.26.05:863][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB
+[2025.10.15-19.26.05:863][621]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_414FC1CB1BFBC69C4CAA0CDF639F7FAA672CB299.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB.uasset'
+[2025.10.15-19.26.05:864][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB] ([1] browsable assets)...
+[2025.10.15-19.26.05:865][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB]
+[2025.10.15-19.26.05:868][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB
+[2025.10.15-19.26.05:868][621]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Box_4FC3D4CB070CD81E4F4E82A9FEA874BE89E8C839.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB.uasset'
+[2025.10.15-19.26.05:870][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9] ([1] browsable assets)...
+[2025.10.15-19.26.05:870][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9]
+[2025.10.15-19.26.05:874][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9
+[2025.10.15-19.26.05:874][621]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_44A1D2A92DF816964B4CF1B78DA2FC8D9BF948D4.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9.uasset'
+[2025.10.15-19.26.05:875][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95] ([1] browsable assets)...
+[2025.10.15-19.26.05:875][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95]
+[2025.10.15-19.26.05:880][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95
+[2025.10.15-19.26.05:880][621]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_B5D2BA950DBE5D524FE4919601999AAE26256BCA.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95.uasset'
+[2025.10.15-19.26.05:881][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF] ([1] browsable assets)...
+[2025.10.15-19.26.05:881][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF]
+[2025.10.15-19.26.05:887][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF
+[2025.10.15-19.26.05:887][621]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_D1BA46DF99F843814AC8826F982E4EA6E8DFBB75.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF.uasset'
+[2025.10.15-19.26.05:889][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090] ([1] browsable assets)...
+[2025.10.15-19.26.05:889][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090]
+[2025.10.15-19.26.05:893][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090
+[2025.10.15-19.26.05:893][621]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Stairs_298B509025154B134C821C9F28310688FB7096EB.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090.uasset'
+[2025.10.15-19.26.05:895][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C] ([1] browsable assets)...
+[2025.10.15-19.26.05:895][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C]
+[2025.10.15-19.26.05:899][621]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C
+[2025.10.15-19.26.05:899][621]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Stairs_777CDD7CE16A0E96447D79177B7246810C6BCB0A.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C.uasset'
+[2025.10.15-19.26.05:909][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.701 ms (total: 4.04 sec)
+[2025.10.15-19.26.05:967][621]LogContentValidation: Display: Starting to validate 8 assets
+[2025.10.15-19.26.05:967][621]LogContentValidation: Enabled validators:
+[2025.10.15-19.26.05:967][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-19.26.05:967][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-19.26.05:967][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-19.26.05:967][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-19.26.05:967][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-19.26.05:967][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-19.26.05:967][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Box_00C8F631 Validating asset
+[2025.10.15-19.26.05:967][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Box_414FC1CB Validating asset
+[2025.10.15-19.26.05:967][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Box_4FC3D4CB Validating asset
+[2025.10.15-19.26.05:967][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_44A1D2A9 Validating asset
+[2025.10.15-19.26.05:968][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B5D2BA95 Validating asset
+[2025.10.15-19.26.05:968][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_D1BA46DF Validating asset
+[2025.10.15-19.26.05:968][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_298B5090 Validating asset
+[2025.10.15-19.26.05:968][621]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_777CDD7C Validating asset
+[2025.10.15-19.26.05:987][621]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
