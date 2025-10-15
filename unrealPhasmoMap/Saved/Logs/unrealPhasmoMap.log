@@ -7661,3 +7661,1007 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.15-20.09.09:412][300]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_BA611630 Validating asset
 [2025.10.15-20.09.09:412][300]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31 Validating asset
 [2025.10.15-20.09.09:436][300]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.10.03:218][541]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-20.10.03:225][541]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-20.10.08:735][ 38]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_B8112E7E (Required Memory Estimate: 2.278764 MB)...
+[2025.10.15-20.10.08:742][ 38]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E.CubeGridToolOutput_B8112E7E
+[2025.10.15-20.10.08:744][ 38]LogStaticMesh: Warning: CubeGridToolOutput_B8112E7E has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-20.10.08:744][ 38]LogStaticMesh: Warning: CubeGridToolOutput_B8112E7E has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.15-20.10.17:493][ 17]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-20.10.17:499][ 17]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-20.10.21:997][421]Cmd: TRANSACTION UNDO
+[2025.10.15-20.10.21:997][421]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-20.11.06:528][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.15-20.11.06:542][279]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.15-20.11.06:542][279]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.15-20.11.06:543][279]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 832 us (total: 33.314 ms)
+[2025.10.15-20.11.06:543][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-20.11.06:580][279]LogPlayLevel: Display: Creating online subsystem for client :Context_61
+[2025.10.15-20.11.06:583][279]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.10.15-20.11.06:608][280]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-20.11.06:612][280]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.15-20.11.06:613][280]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 927 us (total: 38.000 ms)
+[2025.10.15-20.11.06:613][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005961s)
+[2025.10.15-20.11.06:613][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.006013s)
+[2025.10.15-20.11.06:642][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.10.15-20.11.06:648][280]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.15-20.11.06:651][280]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.15-20.11.06:651][280]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.15-20.11.06:651][280]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.15-20.11.06:651][280]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.15-20.11.06:652][280]LogWorldPartition: Display: WorldPartition initialize took 1.354 ms (total: 211.160 ms)
+[2025.10.15-20.11.06:652][280]LogPlayLevel: PIE: World Init took: (0.003492s)
+[2025.10.15-20.11.06:653][280]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.10.15-20.11.06:653][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-20.11.06:653][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-20.11.06:653][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-20.11.06:653][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-20.11.06:653][280]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-20.11.06:653][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-20.11.06:653][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-20.11.06:653][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-20.11.06:653][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-20.11.06:653][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-20.11.06:653][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-20.11.06:656][280]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-20.11.06:678][280]LogAudioMixer: Display: Using Audio Hardware Device HP Z24n G2 (NVIDIA High Definition Audio)
+[2025.10.15-20.11.06:678][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-20.11.06:678][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-20.11.06:678][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-20.11.06:679][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.10.15-20.11.06:679][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.10.15-20.11.06:681][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.10.15-20.11.06:681][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.10.15-20.11.06:681][280]LogInit: FAudioDevice initialized with ID 44.
+[2025.10.15-20.11.06:681][280]LogAudio: Display: Audio Device (ID: 44) registered with world 'Lvl_FirstPerson'.
+[2025.10.15-20.11.06:681][280]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.10.15-20.11.06:687][280]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.15-20.11.06:689][280]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.15-16.11.06
+[2025.10.15-20.11.06:689][280]LogWorld: Bringing up level for play took: 0.002056
+[2025.10.15-20.11.06:696][280]PIE: Server logged in
+[2025.10.15-20.11.06:700][280]PIE: Play in editor total start time 0.157 seconds.
+[2025.10.15-20.11.06:744][281]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-20.11.07:533][370]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.10.15-20.11.26:571][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-20.11.26:571][634]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-20.11.26:571][634]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-20.11.26:572][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-20.11.26:572][634]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.15-20.11.26:574][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-20.11.26:579][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-20.11.26:608][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.15-20.11.26:608][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.10.15-20.11.26:608][634]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2025.10.15-20.11.26:611][634]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2025.10.15-20.11.26:616][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-20.11.26:619][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.15-20.11.26:701][635]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.10.15-20.11.31:611][138]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-20.11.31:621][138]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-20.11.36:951][597]LogStaticMesh: Display: Building static mesh Stairs_E7727A31 (Required Memory Estimate: 6.207946 MB)...
+[2025.10.15-20.11.36:967][597]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31) ...
+[2025.10.15-20.11.36:967][597]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31.Stairs_E7727A31
+[2025.10.15-20.11.38:467][749]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.15-20.11.38:480][749]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.15-20.11.38:480][749]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.15-20.11.38:481][749]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 713 us (total: 34.028 ms)
+[2025.10.15-20.11.38:481][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-20.11.38:481][749]LogPlayLevel: Display: Creating online subsystem for client :Context_62
+[2025.10.15-20.11.38:484][749]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.10.15-20.11.38:508][750]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-20.11.38:512][750]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.15-20.11.38:513][750]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 916 us (total: 38.916 ms)
+[2025.10.15-20.11.38:513][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005645s)
+[2025.10.15-20.11.38:513][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005692s)
+[2025.10.15-20.11.38:541][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.15-20.11.38:544][750]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.15-20.11.38:546][750]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.15-20.11.38:546][750]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.15-20.11.38:546][750]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.15-20.11.38:546][750]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.15-20.11.38:548][750]LogWorldPartition: Display: WorldPartition initialize took 1.310 ms (total: 212.470 ms)
+[2025.10.15-20.11.38:548][750]LogPlayLevel: PIE: World Init took: (0.003212s)
+[2025.10.15-20.11.38:548][750]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.10.15-20.11.38:548][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-20.11.38:548][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-20.11.38:548][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-20.11.38:548][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-20.11.38:548][750]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-20.11.38:548][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-20.11.38:548][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-20.11.38:548][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-20.11.38:548][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-20.11.38:548][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-20.11.38:548][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-20.11.38:552][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-20.11.38:573][750]LogAudioMixer: Display: Using Audio Hardware Device HP Z24n G2 (NVIDIA High Definition Audio)
+[2025.10.15-20.11.38:573][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-20.11.38:573][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-20.11.38:573][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-20.11.38:574][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.10.15-20.11.38:574][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.10.15-20.11.38:576][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.10.15-20.11.38:576][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.10.15-20.11.38:576][750]LogInit: FAudioDevice initialized with ID 45.
+[2025.10.15-20.11.38:576][750]LogAudio: Display: Audio Device (ID: 45) registered with world 'Lvl_FirstPerson'.
+[2025.10.15-20.11.38:576][750]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.10.15-20.11.38:580][750]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.15-20.11.38:583][750]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.15-16.11.38
+[2025.10.15-20.11.38:584][750]LogWorld: Bringing up level for play took: 0.002327
+[2025.10.15-20.11.38:591][750]PIE: Server logged in
+[2025.10.15-20.11.38:594][750]PIE: Play in editor total start time 0.114 seconds.
+[2025.10.15-20.11.38:638][751]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-20.11.39:470][845]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.10.15-20.11.45:911][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-20.11.45:911][610]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-20.11.45:911][610]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-20.11.45:912][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-20.11.45:912][610]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.15-20.11.45:914][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-20.11.45:920][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-20.11.45:946][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.15-20.11.45:946][610]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.10.15-20.11.45:946][610]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2025.10.15-20.11.45:949][610]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2025.10.15-20.11.45:954][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-20.11.45:957][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.10.15-20.11.46:040][611]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.10.15-20.11.51:547][200]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-20.11.51:555][200]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.15-20.12.02:317][164]LogStaticMesh: Display: Building static mesh Stairs_E7727A31 (Required Memory Estimate: 6.260497 MB)...
+[2025.10.15-20.12.02:333][164]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31) ...
+[2025.10.15-20.12.02:335][164]LogStaticMesh: Built static mesh [0.02s] /Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31.Stairs_E7727A31
+[2025.10.15-20.12.04:308][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.15-20.12.04:321][372]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.15-20.12.04:321][372]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.15-20.12.04:322][372]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 737 us (total: 34.766 ms)
+[2025.10.15-20.12.04:322][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.15-20.12.04:350][372]LogPlayLevel: Display: Creating online subsystem for client :Context_63
+[2025.10.15-20.12.04:353][372]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.10.15-20.12.04:378][373]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-20.12.04:382][373]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.15-20.12.04:383][373]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 973 us (total: 39.890 ms)
+[2025.10.15-20.12.04:384][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005878s)
+[2025.10.15-20.12.04:384][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.005928s)
+[2025.10.15-20.12.04:411][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.15-20.12.04:415][373]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.15-20.12.04:416][373]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.15-20.12.04:416][373]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.15-20.12.04:417][373]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.15-20.12.04:417][373]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.15-20.12.04:418][373]LogWorldPartition: Display: WorldPartition initialize took 1.343 ms (total: 213.814 ms)
+[2025.10.15-20.12.04:418][373]LogPlayLevel: PIE: World Init took: (0.003236s)
+[2025.10.15-20.12.04:419][373]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.10.15-20.12.04:419][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.15-20.12.04:419][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.15-20.12.04:419][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.15-20.12.04:419][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.15-20.12.04:419][373]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.15-20.12.04:419][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.15-20.12.04:419][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.15-20.12.04:419][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.15-20.12.04:419][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.15-20.12.04:419][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.15-20.12.04:419][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.15-20.12.04:422][373]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.15-20.12.04:442][373]LogAudioMixer: Display: Using Audio Hardware Device HP Z24n G2 (NVIDIA High Definition Audio)
+[2025.10.15-20.12.04:443][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.15-20.12.04:443][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.15-20.12.04:443][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.15-20.12.04:443][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.10.15-20.12.04:443][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.10.15-20.12.04:446][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.10.15-20.12.04:446][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.10.15-20.12.04:446][373]LogInit: FAudioDevice initialized with ID 46.
+[2025.10.15-20.12.04:446][373]LogAudio: Display: Audio Device (ID: 46) registered with world 'Lvl_FirstPerson'.
+[2025.10.15-20.12.04:446][373]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.10.15-20.12.04:450][373]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.15-20.12.04:452][373]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.15-16.12.04
+[2025.10.15-20.12.04:452][373]LogWorld: Bringing up level for play took: 0.001892
+[2025.10.15-20.12.04:460][373]PIE: Server logged in
+[2025.10.15-20.12.04:463][373]PIE: Play in editor total start time 0.141 seconds.
+[2025.10.15-20.12.04:507][374]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.15-20.12.05:315][466]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2025.10.15-20.12.16:671][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-20.12.16:671][810]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.15-20.12.16:671][810]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-20.12.16:672][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-20.12.16:672][810]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.15-20.12.16:674][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.15-20.12.16:679][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-20.12.16:707][810]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.15-20.12.16:708][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.10.15-20.12.16:708][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2025.10.15-20.12.16:711][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2025.10.15-20.12.16:716][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.15-20.12.16:718][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.15-20.12.16:802][811]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.10.15-20.12.30:751][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.12.30:852][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.15-20.12.30:879][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.12.30:906][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.12.30:911][235]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9
+[2025.10.15-20.12.30:912][235]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/X74LTH2THENVMLN2MEPMI9A05799694748658130782ABD71DAE569.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9.uasset'
+[2025.10.15-20.12.30:916][235]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/07/K3FRH8XBFYQVDU95XOR7C4
+[2025.10.15-20.12.30:917][235]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/K3FRH8XBFYQVDU95XOR7C496A030E447880B2C4C4D82928B63CDD3.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/07/K3FRH8XBFYQVDU95XOR7C4.uasset'
+[2025.10.15-20.12.30:929][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 176.694 ms (total: 5.93 sec)
+[2025.10.15-20.12.30:978][235]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-20.12.30:978][235]LogContentValidation: Enabled validators:
+[2025.10.15-20.12.30:978][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.12.30:978][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.12.30:978][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.12.30:978][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.12.30:978][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.12.30:978][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.12.30:978][235]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.12.32:357][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.15-20.12.33:537][365]LogSlate: Window 'Save Content' being destroyed
+[2025.10.15-20.12.33:547][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.12.33:611][365]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E] ([1] browsable assets)...
+[2025.10.15-20.12.33:658][365]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E.CubeGridToolOutput_B8112E7E]
+[2025.10.15-20.12.33:658][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E]
+[2025.10.15-20.12.33:666][365]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E
+[2025.10.15-20.12.33:666][365]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_B8112E7E3CC95DC24B9413AC0E178F93F0C8E75D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E.uasset'
+[2025.10.15-20.12.33:668][365]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31] ([1] browsable assets)...
+[2025.10.15-20.12.33:677][365]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31.Stairs_E7727A31]
+[2025.10.15-20.12.33:677][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31]
+[2025.10.15-20.12.33:684][365]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31
+[2025.10.15-20.12.33:685][365]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Stairs_E7727A317E231CCC4081631359556DBC710FA0CC.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31.uasset'
+[2025.10.15-20.12.33:701][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.960 ms (total: 6.08 sec)
+[2025.10.15-20.12.33:746][365]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-20.12.33:746][365]LogContentValidation: Enabled validators:
+[2025.10.15-20.12.33:746][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.12.33:746][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.12.33:746][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.12.33:746][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.12.33:746][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.12.33:746][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.12.33:746][365]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B8112E7E Validating asset
+[2025.10.15-20.12.33:746][365]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/Stairs_E7727A31 Validating asset
+[2025.10.15-20.12.37:404][747]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.15-20.12.37:409][747]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.15-20.13.22:428][682]Cmd: TRANSACTION UNDO
+[2025.10.15-20.13.22:428][682]LogEditorTransaction: Undo Block Tool Change
+[2025.10.15-20.13.33:272][558]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF.CubeGridToolOutput_021BBAEF
+[2025.10.15-20.13.33:272][558]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_021BBAEF (Required Memory Estimate: 0.170698 MB)...
+[2025.10.15-20.13.33:274][558]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF.CubeGridToolOutput_021BBAEF
+[2025.10.15-20.13.33:274][558]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF.CubeGridToolOutput_021BBAEF as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2B09802_1178242026
+[2025.10.15-20.13.47:502][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9135.776367
+[2025.10.15-20.13.47:554][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-20.13.47:554][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9135.820312, Update Interval: 334.206970
+[2025.10.15-20.13.52:268][609]Cmd: TRANSACTION UNDO
+[2025.10.15-20.13.52:268][609]LogEditorTransaction: Undo Move Elements
+[2025.10.15-20.14.58:524][598]Cmd: TRANSACTION UNDO
+[2025.10.15-20.14.58:524][598]LogEditorTransaction: Undo Rename Folder
+[2025.10.15-20.14.59:315][635]Cmd: TRANSACTION UNDO
+[2025.10.15-20.14.59:315][635]LogEditorTransaction: Undo Create Folder
+[2025.10.15-20.15.43:907][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.15.44:004][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.15-20.15.44:038][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.15-20.15.44:066][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.15-20.15.44:070][558]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/Q0/U5BFPNOM80DU32FAFTQCS2
+[2025.10.15-20.15.44:071][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/U5BFPNOM80DU32FAFTQCS2A5719F5B4FD7DF6A6FA4DFAED79F019F.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/Q0/U5BFPNOM80DU32FAFTQCS2.uasset'
+[2025.10.15-20.15.44:075][558]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9
+[2025.10.15-20.15.44:076][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/X74LTH2THENVMLN2MEPMI95308C1E1407C4F8EC5321483CAB49E07.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9.uasset'
+[2025.10.15-20.15.44:080][558]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/07/K3FRH8XBFYQVDU95XOR7C4
+[2025.10.15-20.15.44:081][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/K3FRH8XBFYQVDU95XOR7C4A1766C0F4BF7C075D228B8AD36268675.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/07/K3FRH8XBFYQVDU95XOR7C4.uasset'
+[2025.10.15-20.15.44:085][558]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/E8/6FWXVY8Z3GK1769XOJ8ETK
+[2025.10.15-20.15.44:085][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/6FWXVY8Z3GK1769XOJ8ETKFD859CB74BDDDE4437D1E3AAB04085F4.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/E8/6FWXVY8Z3GK1769XOJ8ETK.uasset'
+[2025.10.15-20.15.44:089][558]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/TZ/OW17V576PESRBQDER96UP4
+[2025.10.15-20.15.44:089][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/OW17V576PESRBQDER96UP493AF94E6401F490996C18A8B0DD12C56.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/TZ/OW17V576PESRBQDER96UP4.uasset'
+[2025.10.15-20.15.44:093][558]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/NE/37EN3IK2AOTQEXABB3PS76
+[2025.10.15-20.15.44:093][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/37EN3IK2AOTQEXABB3PS76DCDD1EF24644B612CEF4B09FC8C3F13D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/NE/37EN3IK2AOTQEXABB3PS76.uasset'
+[2025.10.15-20.15.44:097][558]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/E/HC/T6M8DWZKKLG7AERNT23WQ2
+[2025.10.15-20.15.44:097][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/T6M8DWZKKLG7AERNT23WQ2F1CD5599474710C5AF358E86D2E1CD37.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/E/HC/T6M8DWZKKLG7AERNT23WQ2.uasset'
+[2025.10.15-20.15.44:100][558]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/E0/HE0X485YCQ7QCRC1MW2AR3
+[2025.10.15-20.15.44:100][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HE0X485YCQ7QCRC1MW2AR3EAEF550E47D792908E4267B8C70059C0.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/E0/HE0X485YCQ7QCRC1MW2AR3.uasset'
+[2025.10.15-20.15.44:104][558]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/5/5M/KGDGRF4T1YER3M6ERUAT5D
+[2025.10.15-20.15.44:104][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/KGDGRF4T1YER3M6ERUAT5D747E974D4F319A5D29DE48969AA29ADA.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/5/5M/KGDGRF4T1YER3M6ERUAT5D.uasset'
+[2025.10.15-20.15.44:108][558]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/8/MJ/HHZIC0OM2FUQ1EG95WOBXW
+[2025.10.15-20.15.44:108][558]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HHZIC0OM2FUQ1EG95WOBXW1F64EBF04ADF6DAB7AEC35ADA16912B8.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/8/MJ/HHZIC0OM2FUQ1EG95WOBXW.uasset'
+[2025.10.15-20.15.44:120][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.017 ms (total: 6.29 sec)
+[2025.10.15-20.15.44:161][558]LogContentValidation: Display: Starting to validate 10 assets
+[2025.10.15-20.15.44:161][558]LogContentValidation: Enabled validators:
+[2025.10.15-20.15.44:161][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.15.44:161][558]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.15.44:161][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.15.44:161][558]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.15.44:161][558]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.15.44:161][558]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.15.44:161][558]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.15.44:193][558]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.16.11:026][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.16.11:118][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.15-20.16.11:145][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.16.11:172][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.15-20.16.11:177][578]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/Q0/U5BFPNOM80DU32FAFTQCS2
+[2025.10.15-20.16.11:178][578]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/U5BFPNOM80DU32FAFTQCS2901EB02D4458454FBF6B6788C9E8845D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/Q0/U5BFPNOM80DU32FAFTQCS2.uasset'
+[2025.10.15-20.16.11:181][578]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9
+[2025.10.15-20.16.11:182][578]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/X74LTH2THENVMLN2MEPMI97C9C968A4C56A702BB2632B950E1D97B.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/2T/X74LTH2THENVMLN2MEPMI9.uasset'
+[2025.10.15-20.16.11:187][578]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/E8/6FWXVY8Z3GK1769XOJ8ETK
+[2025.10.15-20.16.11:187][578]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/6FWXVY8Z3GK1769XOJ8ETKC76A06E748E8E799447429BCAD6B5743.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/E8/6FWXVY8Z3GK1769XOJ8ETK.uasset'
+[2025.10.15-20.16.11:190][578]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/C/YI/2GFQFDSGY681IXTSLYGTSG
+[2025.10.15-20.16.11:190][578]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/2GFQFDSGY681IXTSLYGTSG90928B874A4B4F723B1B40B3DBDC3920.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/C/YI/2GFQFDSGY681IXTSLYGTSG.uasset'
+[2025.10.15-20.16.11:203][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.858 ms (total: 6.47 sec)
+[2025.10.15-20.16.11:261][578]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.15-20.16.11:262][578]LogContentValidation: Enabled validators:
+[2025.10.15-20.16.11:262][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.16.11:262][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.16.11:262][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.16.11:262][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.16.11:262][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.16.11:262][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.16.11:262][578]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.16.11:284][578]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.17.09:919][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.17.09:999][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.15-20.17.10:033][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-20.17.10:060][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.15-20.17.10:066][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LY/XJDNX0VP9FQUZDMOLW52GC
+[2025.10.15-20.17.10:067][541]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XJDNX0VP9FQUZDMOLW52GCA76C9B824093DA9F246914912DA48A88.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/LY/XJDNX0VP9FQUZDMOLW52GC.uasset'
+[2025.10.15-20.17.10:070][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/34/QQU2AD1TIMINB6MZDYC0BC
+[2025.10.15-20.17.10:071][541]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/QQU2AD1TIMINB6MZDYC0BC7C283CB749906211DA2423814D00D03E.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/34/QQU2AD1TIMINB6MZDYC0BC.uasset'
+[2025.10.15-20.17.10:075][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/O6/XX2U3SJUESCPBKIPWPF3JQ
+[2025.10.15-20.17.10:075][541]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XX2U3SJUESCPBKIPWPF3JQ57D5D09643DE8504CF543697F9D51CD7.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/O6/XX2U3SJUESCPBKIPWPF3JQ.uasset'
+[2025.10.15-20.17.10:079][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/YC/CVB64TWXG2G0C2M61E71FM
+[2025.10.15-20.17.10:080][541]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CVB64TWXG2G0C2M61E71FM753C41084C07B569D4A297923E520A89.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/YC/CVB64TWXG2G0C2M61E71FM.uasset'
+[2025.10.15-20.17.10:084][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/6W/H9DIP4L0Y9T693RL1C6FTR
+[2025.10.15-20.17.10:084][541]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/H9DIP4L0Y9T693RL1C6FTREB5E508C4CE4D33D13778AA5BF39D82A.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/6W/H9DIP4L0Y9T693RL1C6FTR.uasset'
+[2025.10.15-20.17.10:088][541]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/U0/ZYTAT73CGCYO2D6M8N6SMY
+[2025.10.15-20.17.10:088][541]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/ZYTAT73CGCYO2D6M8N6SMY744B110E4B490467600D74894CD9DF86.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/U0/ZYTAT73CGCYO2D6M8N6SMY.uasset'
+[2025.10.15-20.17.10:092][541]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/E0/HE0X485YCQ7QCRC1MW2AR3
+[2025.10.15-20.17.10:093][541]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HE0X485YCQ7QCRC1MW2AR324EA7A2A4C6B491B74810CA6EEA303EA.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/E0/HE0X485YCQ7QCRC1MW2AR3.uasset'
+[2025.10.15-20.17.10:104][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.061 ms (total: 6.66 sec)
+[2025.10.15-20.17.10:162][541]LogContentValidation: Display: Starting to validate 7 assets
+[2025.10.15-20.17.10:162][541]LogContentValidation: Enabled validators:
+[2025.10.15-20.17.10:162][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.17.10:162][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.17.10:162][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.17.10:162][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.17.10:162][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.17.10:162][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.17.10:162][541]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.17.32:938][136]Cmd: ACTOR HIDE SELECTED
+[2025.10.15-20.17.37:131][583]Cmd: ACTOR HIDE SELECTED
+[2025.10.15-20.17.39:221][816]Cmd: ACTOR UNHIDE ALL
+[2025.10.15-20.17.44:581][404]Cmd: DELETE
+[2025.10.15-20.17.44:581][404]Cmd: ACTOR DELETE
+[2025.10.15-20.17.44:583][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.17.44:609][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.15-20.17.44:614][404]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.15-20.17.47:659][737]Cmd: TRANSACTION UNDO
+[2025.10.15-20.17.47:659][737]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.15-20.17.52:635][240]Cmd: ACTOR HIDE SELECTED
+[2025.10.15-20.17.56:824][710]Cmd: TRANSACTION UNDO
+[2025.10.15-20.17.56:824][710]LogEditorTransaction: Undo Hide Selected
+[2025.10.15-20.17.57:411][721]Cmd: TRANSACTION UNDO
+[2025.10.15-20.17.57:411][721]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.15-20.17.57:963][780]Cmd: TRANSACTION UNDO
+[2025.10.15-20.17.57:963][780]LogEditorTransaction: Undo Delete Elements
+[2025.10.15-20.17.58:047][780]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:577][ 46]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:586][ 47]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:595][ 48]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:605][ 49]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:614][ 50]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:623][ 51]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:633][ 52]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:642][ 53]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:651][ 54]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:661][ 55]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:670][ 56]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:679][ 57]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:689][ 58]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:698][ 59]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:708][ 60]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:716][ 61]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:725][ 62]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:744][ 64]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:753][ 65]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:772][ 67]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:807][ 71]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.00:898][ 80]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:521][148]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:530][149]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:539][150]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:548][151]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:558][152]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:567][153]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:578][154]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:587][155]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:597][156]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:606][157]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:615][158]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:624][159]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:633][160]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:642][161]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:651][162]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:660][163]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:669][164]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:679][165]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:688][166]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:697][167]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:706][168]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:716][169]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:726][170]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:734][171]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:746][172]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:754][173]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:764][174]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:774][175]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:782][176]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:791][177]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:800][178]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:809][179]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:818][180]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:828][181]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:838][182]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:848][183]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:857][184]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:865][185]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:874][186]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:884][187]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:893][188]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:901][189]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:911][190]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:919][191]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:929][192]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:940][193]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:949][194]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:959][195]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:969][196]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:978][197]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:988][198]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.01:996][199]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.02:023][202]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.02:128][213]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:678][388]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:688][389]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:697][390]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:707][391]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:716][392]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:725][393]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:734][394]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:744][395]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:754][396]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:763][397]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:773][398]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:782][399]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:792][400]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:802][401]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:814][402]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:823][403]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:834][404]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:844][405]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:854][406]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:863][407]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:873][408]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:882][409]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:891][410]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:901][411]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:910][412]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:919][413]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:929][414]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:939][415]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:947][416]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:957][417]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:967][418]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:975][419]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:985][420]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.03:995][421]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:004][422]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:014][423]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:023][424]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:032][425]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:042][426]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:051][427]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:059][428]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:069][429]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:078][430]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:087][431]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:096][432]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:105][433]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:116][434]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:124][435]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:134][436]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:143][437]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:151][438]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:162][439]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:171][440]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:179][441]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:189][442]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:199][443]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:211][444]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:221][445]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:229][446]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:242][447]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:251][448]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:261][449]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:270][450]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:279][451]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:288][452]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:297][453]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:307][454]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:316][455]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:326][456]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:334][457]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:344][458]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:353][459]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:363][460]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:372][461]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:381][462]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:391][463]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:401][464]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:409][465]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:419][466]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:428][467]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:437][468]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:446][469]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:456][470]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:465][471]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:478][472]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:487][473]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:505][475]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:514][476]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:524][477]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:532][478]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:551][480]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:559][481]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.04:855][514]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BC0FF3C172C2AB9802_1488990117.StaticMeshComponent0.
+[2025.10.15-20.18.05:502][586]Cmd: DELETE
+[2025.10.15-20.18.05:502][586]Cmd: ACTOR DELETE
+[2025.10.15-20.18.05:504][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.18.05:533][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.10.15-20.18.05:539][586]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.10.15-20.18.46:538][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.18.46:620][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.15-20.18.46:649][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.15-20.18.46:677][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-20.18.46:683][337]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/AT/SHUHXKB5QB1C1ZI1639IG9
+[2025.10.15-20.18.46:684][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SHUHXKB5QB1C1ZI1639IG9C04366DF4F1BD19DC1B8568273C5BC10.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/AT/SHUHXKB5QB1C1ZI1639IG9.uasset'
+[2025.10.15-20.18.46:688][337]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/3D/DBXY9AZV9KWWX4538B45M2
+[2025.10.15-20.18.46:689][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/DBXY9AZV9KWWX4538B45M2095C278E449210C2048C9EB498FDBF8B.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/3D/DBXY9AZV9KWWX4538B45M2.uasset'
+[2025.10.15-20.18.46:694][337]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/K0/EFEVMGHFNDANJ1GKKUF5C9
+[2025.10.15-20.18.46:694][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/EFEVMGHFNDANJ1GKKUF5C98A839CF048656C95AA68AFAAED72B5FB.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/K0/EFEVMGHFNDANJ1GKKUF5C9.uasset'
+[2025.10.15-20.18.46:698][337]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HB/8ZTX33OPBIUA88Y17GZFNK
+[2025.10.15-20.18.46:699][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/8ZTX33OPBIUA88Y17GZFNK8B2FD85C405AC8D18B06E88C1CD2F967.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HB/8ZTX33OPBIUA88Y17GZFNK.uasset'
+[2025.10.15-20.18.46:703][337]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/7A/K1PVML9A2AX5IA1LLZ5LL9
+[2025.10.15-20.18.46:704][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/K1PVML9A2AX5IA1LLZ5LL9C157BA4147912E1333B6C8B04DC44A9B.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/7A/K1PVML9A2AX5IA1LLZ5LL9.uasset'
+[2025.10.15-20.18.46:708][337]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/7R/WEO0POUVDGVH4SWLTNWGEN
+[2025.10.15-20.18.46:709][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WEO0POUVDGVH4SWLTNWGEN05933A5B480FEB61AD7CF5ABCE778DDF.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/7R/WEO0POUVDGVH4SWLTNWGEN.uasset'
+[2025.10.15-20.18.46:712][337]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/9/UM/RQYRRIKCG1YA1IC7BAPO0W
+[2025.10.15-20.18.46:712][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/RQYRRIKCG1YA1IC7BAPO0W7FB5C39849FD0546C049B2A7923DB2BA.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/9/UM/RQYRRIKCG1YA1IC7BAPO0W.uasset'
+[2025.10.15-20.18.46:716][337]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/0/3F/1QK3288SAJ1D6XYBCUF2F8
+[2025.10.15-20.18.46:716][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/1QK3288SAJ1D6XYBCUF2F84E47D1FD46940E39112DBDB429C545B4.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/0/3F/1QK3288SAJ1D6XYBCUF2F8.uasset'
+[2025.10.15-20.18.46:719][337]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/A/EJ/I0DUQPAJRVI38SGF4V7IR5
+[2025.10.15-20.18.46:719][337]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/I0DUQPAJRVI38SGF4V7IR510E1336D4A63592E3A69C0B499962550.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/A/EJ/I0DUQPAJRVI38SGF4V7IR5.uasset'
+[2025.10.15-20.18.46:732][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.533 ms (total: 6.85 sec)
+[2025.10.15-20.18.46:796][337]LogContentValidation: Display: Starting to validate 9 assets
+[2025.10.15-20.18.46:796][337]LogContentValidation: Enabled validators:
+[2025.10.15-20.18.46:796][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.18.46:796][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.18.46:797][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.18.46:797][337]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.18.46:797][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.18.46:797][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.18.46:797][337]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.18.46:819][337]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.19.22:398][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.19.22:498][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.15-20.19.22:528][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-20.19.22:555][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.19.22:560][ 98]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/MN/5L12LEGOJEQAYKDT92GIWK
+[2025.10.15-20.19.22:561][ 98]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/5L12LEGOJEQAYKDT92GIWK079F72914846FF0E601CEE8C243D49ED.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/MN/5L12LEGOJEQAYKDT92GIWK.uasset'
+[2025.10.15-20.19.22:565][ 98]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/M0/TALGKAN3CP9YZ8YRVVWVYT
+[2025.10.15-20.19.22:566][ 98]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/TALGKAN3CP9YZ8YRVVWVYTC88A1A484C38D6B853E77B986FD04FC8.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/M0/TALGKAN3CP9YZ8YRVVWVYT.uasset'
+[2025.10.15-20.19.22:577][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.672 ms (total: 7.03 sec)
+[2025.10.15-20.19.22:629][ 98]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-20.19.22:629][ 98]LogContentValidation: Enabled validators:
+[2025.10.15-20.19.22:629][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.19.22:629][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.19.22:629][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.19.22:629][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.19.22:629][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.19.22:629][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.19.22:629][ 98]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.19.37:647][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.19.37:716][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.15-20.19.37:745][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-20.19.37:768][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.19.37:774][669]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/5I/1ZCG7YAZDP4BRZIZRCBBUD
+[2025.10.15-20.19.37:775][669]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/1ZCG7YAZDP4BRZIZRCBBUDE6901E6D46F06F80A6B4DA8C93F53673.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/5I/1ZCG7YAZDP4BRZIZRCBBUD.uasset'
+[2025.10.15-20.19.37:779][669]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/E3/MC4DE2Y1W2FUBAXAPO76V8
+[2025.10.15-20.19.37:780][669]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/MC4DE2Y1W2FUBAXAPO76V8BED4E3D8481F3E184D457886B1E0C1BD.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/E3/MC4DE2Y1W2FUBAXAPO76V8.uasset'
+[2025.10.15-20.19.37:783][669]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/QY/Q9L725WSZ57N980THJBQEU
+[2025.10.15-20.19.37:784][669]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Q9L725WSZ57N980THJBQEU83C24C2141C6F220B0C852A13B46F62A.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/QY/Q9L725WSZ57N980THJBQEU.uasset'
+[2025.10.15-20.19.37:788][669]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/XY/RN4Y9T2VRP5N8ER86W517F
+[2025.10.15-20.19.37:789][669]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/RN4Y9T2VRP5N8ER86W517F1963DEA148D6DA2DEB4DA3B0B23E79DC.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/XY/RN4Y9T2VRP5N8ER86W517F.uasset'
+[2025.10.15-20.19.37:792][669]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/AO/Q8QQIINMYCYYVM07TZM7VV
+[2025.10.15-20.19.37:793][669]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Q8QQIINMYCYYVM07TZM7VV12D613724B8ED3ADA87AFABEFE4A3036.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/AO/Q8QQIINMYCYYVM07TZM7VV.uasset'
+[2025.10.15-20.19.37:797][669]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/1P/IGEJLTO1FAO8F6RU2Q2YG9
+[2025.10.15-20.19.37:797][669]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/IGEJLTO1FAO8F6RU2Q2YG91E9529B04C92F21217C07885B03A3B2E.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/1P/IGEJLTO1FAO8F6RU2Q2YG9.uasset'
+[2025.10.15-20.19.37:809][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.366 ms (total: 7.19 sec)
+[2025.10.15-20.19.37:846][669]LogContentValidation: Display: Starting to validate 6 assets
+[2025.10.15-20.19.37:846][669]LogContentValidation: Enabled validators:
+[2025.10.15-20.19.37:846][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.19.37:846][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.19.37:846][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.19.37:846][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.19.37:846][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.19.37:846][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.19.37:846][669]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.19.37:870][669]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.19.54:790][567]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9503.875977
+[2025.10.15-20.19.54:848][574]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-20.19.54:848][574]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9503.924805, Update Interval: 326.161072
+[2025.10.15-20.20.34:734][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.20.34:838][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.15-20.20.34:869][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.20.34:893][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.15-20.20.34:898][101]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/GK/Z7YEKSMSCZP8B1FLZISJHE
+[2025.10.15-20.20.34:899][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Z7YEKSMSCZP8B1FLZISJHE43DBAB534CF7F3923E356C97344CCF9D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/GK/Z7YEKSMSCZP8B1FLZISJHE.uasset'
+[2025.10.15-20.20.34:903][101]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/JU/DGGA7DTR9SPABNJNK306AS
+[2025.10.15-20.20.34:904][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/DGGA7DTR9SPABNJNK306AS3B8CC8C1444F12B266E067A5557AD10C.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/JU/DGGA7DTR9SPABNJNK306AS.uasset'
+[2025.10.15-20.20.34:908][101]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/52/YRHCHVKNU65J7RQK6SXII4
+[2025.10.15-20.20.34:909][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/YRHCHVKNU65J7RQK6SXII40B4BD3D84B8A4B36F9AFBF93E0BC942C.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/52/YRHCHVKNU65J7RQK6SXII4.uasset'
+[2025.10.15-20.20.34:912][101]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/UU/F31F0471BK4W08IDKA5G2O
+[2025.10.15-20.20.34:913][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/F31F0471BK4W08IDKA5G2O656861664A0DBFFB2C6CF6A0AE9F7738.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/UU/F31F0471BK4W08IDKA5G2O.uasset'
+[2025.10.15-20.20.34:917][101]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IR/YJXIE4N9K2G6U1XXVXILBS
+[2025.10.15-20.20.34:918][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/YJXIE4N9K2G6U1XXVXILBS0FB75EE5440CD1C7EBF714B2F27B3CCE.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IR/YJXIE4N9K2G6U1XXVXILBS.uasset'
+[2025.10.15-20.20.34:922][101]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/DJ/53QB7GRUNC2GN80BJVC7ZV
+[2025.10.15-20.20.34:923][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/53QB7GRUNC2GN80BJVC7ZV441DCCD54256E71536ED5E971CADC0C1.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/DJ/53QB7GRUNC2GN80BJVC7ZV.uasset'
+[2025.10.15-20.20.34:926][101]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/40/INFLH9AW74HGCZMAVVOA5Y
+[2025.10.15-20.20.34:927][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/INFLH9AW74HGCZMAVVOA5Y98796396471ECB1CC162968CABF4FD77.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/40/INFLH9AW74HGCZMAVVOA5Y.uasset'
+[2025.10.15-20.20.34:931][101]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/1/PJ/2SLVGMUYPP3Q8WO0QF550O
+[2025.10.15-20.20.34:931][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/2SLVGMUYPP3Q8WO0QF550O9F8B291A448A22B4B3B038BB6507D298.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/1/PJ/2SLVGMUYPP3Q8WO0QF550O.uasset'
+[2025.10.15-20.20.34:934][101]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/D/15/FYB155N2EDTV82YONTGAL9
+[2025.10.15-20.20.34:934][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/FYB155N2EDTV82YONTGAL916DEE2F244AC2C18AFF4A1AEDC2DF7E3.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/D/15/FYB155N2EDTV82YONTGAL9.uasset'
+[2025.10.15-20.20.34:939][101]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/E/IL/EMVBFQ81JW2BMQSXRLO48X
+[2025.10.15-20.20.34:939][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/EMVBFQ81JW2BMQSXRLO48XEE1767874DB4B3CA9C4BCDAFA0C16745.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/E/IL/EMVBFQ81JW2BMQSXRLO48X.uasset'
+[2025.10.15-20.20.34:942][101]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/5/PD/9AYB444ECI2PXNV6HVJGP8
+[2025.10.15-20.20.34:942][101]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/9AYB444ECI2PXNV6HVJGP85A872FFC404BB51647FC3587307C3976.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/5/PD/9AYB444ECI2PXNV6HVJGP8.uasset'
+[2025.10.15-20.20.34:954][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 220.716 ms (total: 7.41 sec)
+[2025.10.15-20.20.34:996][101]LogContentValidation: Display: Starting to validate 11 assets
+[2025.10.15-20.20.34:996][101]LogContentValidation: Enabled validators:
+[2025.10.15-20.20.34:996][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.20.34:996][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.20.34:996][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.20.34:996][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.20.34:996][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.20.34:996][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.20.34:996][101]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.20.35:018][101]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.21.23:539][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.15-20.21.23:546][477]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.032
+[2025.10.15-20.21.23:546][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF] ([1] browsable assets)...
+[2025.10.15-20.21.23:581][477]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF.CubeGridToolOutput_021BBAEF]
+[2025.10.15-20.21.23:581][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF]
+[2025.10.15-20.21.23:587][477]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF_Auto8
+[2025.10.15-20.21.23:587][477]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_021BBAEF_Auto0F2CB04C4FF7C0C2B33E67B3E4A08C54.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF_Auto8.uasset'
+[2025.10.15-20.21.23:588][477]LogFileHelpers: Auto-saving content packages took 0.042
+[2025.10.15-20.22.39:068][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.22.39:154][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.10.15-20.22.39:184][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.15-20.22.39:210][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.22.39:214][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/KT/WULQZ44KB2M7DX1HT03NXX
+[2025.10.15-20.22.39:215][874]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WULQZ44KB2M7DX1HT03NXXDE37EDF745D94F574EDD54AC7DF638C7.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/KT/WULQZ44KB2M7DX1HT03NXX.uasset'
+[2025.10.15-20.22.39:219][874]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IR/YJXIE4N9K2G6U1XXVXILBS
+[2025.10.15-20.22.39:221][874]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/YJXIE4N9K2G6U1XXVXILBS8DBCAF8549930F32BB49C5B2E051AE90.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IR/YJXIE4N9K2G6U1XXVXILBS.uasset'
+[2025.10.15-20.22.39:232][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.565 ms (total: 7.58 sec)
+[2025.10.15-20.22.39:296][874]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-20.22.39:296][874]LogContentValidation: Enabled validators:
+[2025.10.15-20.22.39:296][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.22.39:296][874]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.22.39:296][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.22.39:296][874]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.22.39:296][874]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.22.39:296][874]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.22.39:296][874]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.22.39:319][874]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.23.00:426][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.23.00:500][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.23.00:529][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.15-20.23.00:555][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.23.00:561][ 95]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/VV/MP7TU47BE2C47HTL2DXWQM
+[2025.10.15-20.23.00:562][ 95]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/MP7TU47BE2C47HTL2DXWQM9A9196F7438E6F1005AF2F8618EA74FF.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/VV/MP7TU47BE2C47HTL2DXWQM.uasset'
+[2025.10.15-20.23.00:566][ 95]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/WU/XAWUVT80B43R2B8XB1L2ML
+[2025.10.15-20.23.00:567][ 95]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XAWUVT80B43R2B8XB1L2ML784DAEA24A382E30ACBB38B53421236E.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/WU/XAWUVT80B43R2B8XB1L2ML.uasset'
+[2025.10.15-20.23.00:578][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.071 ms (total: 7.73 sec)
+[2025.10.15-20.23.00:613][ 95]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-20.23.00:613][ 95]LogContentValidation: Enabled validators:
+[2025.10.15-20.23.00:613][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.23.00:613][ 95]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.23.00:613][ 95]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.23.00:613][ 95]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.23.00:613][ 95]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.23.00:613][ 95]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.23.00:613][ 95]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.23.00:637][ 95]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.24.09:018][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.24.09:101][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.15-20.24.09:136][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.15-20.24.09:162][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.15-20.24.09:167][400]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/9D/6TAY7HAWARKHJWOXBLSA1Z
+[2025.10.15-20.24.09:168][400]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/6TAY7HAWARKHJWOXBLSA1Z86857BB946A1784928ACC5A2E2068228.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/9D/6TAY7HAWARKHJWOXBLSA1Z.uasset'
+[2025.10.15-20.24.09:173][400]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/V2/JXUA97LNSMUELM9GRFYBQ7
+[2025.10.15-20.24.09:174][400]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/JXUA97LNSMUELM9GRFYBQ7760B2760447BC1F857EB6AA0758CA1B7.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/V2/JXUA97LNSMUELM9GRFYBQ7.uasset'
+[2025.10.15-20.24.09:191][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 172.496 ms (total: 7.90 sec)
+[2025.10.15-20.24.09:229][400]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.15-20.24.09:229][400]LogContentValidation: Enabled validators:
+[2025.10.15-20.24.09:229][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.24.09:229][400]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.24.09:229][400]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.24.09:229][400]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.24.09:229][400]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.24.09:229][400]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.24.09:229][400]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.24.44:667][398]Cmd: DELETE
+[2025.10.15-20.24.44:667][398]Cmd: ACTOR DELETE
+[2025.10.15-20.24.44:670][398]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.24.44:701][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.15-20.24.44:706][398]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.10.15-20.25.12:290][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.25.12:386][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.15-20.25.12:418][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.25.12:445][567]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.15-20.25.12:450][567]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/NI/7Z9KFUHGDC33I0LYBUUYUQ
+[2025.10.15-20.25.12:451][567]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/7Z9KFUHGDC33I0LYBUUYUQ2A014A6C49BD78B447D6DEAFF5A29562.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/NI/7Z9KFUHGDC33I0LYBUUYUQ.uasset'
+[2025.10.15-20.25.12:456][567]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0
+[2025.10.15-20.25.12:457][567]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CIZR6W2NYH4Y5P8G67XOU0683C152D437F7A330090A18F1C905C4C.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset'
+[2025.10.15-20.25.12:460][567]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/NN/UPER9K07U6B78EE80PY058
+[2025.10.15-20.25.12:461][567]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/UPER9K07U6B78EE80PY0586E8AB8BC46FBE3B26D706C80D5CE3F95.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/NN/UPER9K07U6B78EE80PY058.uasset'
+[2025.10.15-20.25.12:464][567]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/3/2W/ICIIELAE5ZNJS3D8ECTMI4
+[2025.10.15-20.25.12:464][567]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/ICIIELAE5ZNJS3D8ECTMI48DA5701A4C7F5208E0A27AAF1EB4382D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/3/2W/ICIIELAE5ZNJS3D8ECTMI4.uasset'
+[2025.10.15-20.25.12:468][567]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/5/72/N8VV1MAMYP1IO0V89YAC8I
+[2025.10.15-20.25.12:468][567]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/N8VV1MAMYP1IO0V89YAC8ICA022A824739D59385228FB72FDEF103.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/5/72/N8VV1MAMYP1IO0V89YAC8I.uasset'
+[2025.10.15-20.25.12:480][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.661 ms (total: 8.09 sec)
+[2025.10.15-20.25.12:545][567]LogContentValidation: Display: Starting to validate 5 assets
+[2025.10.15-20.25.12:545][567]LogContentValidation: Enabled validators:
+[2025.10.15-20.25.12:545][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.25.12:545][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.25.12:545][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.25.12:545][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.25.12:545][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.25.12:545][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.25.12:546][567]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.25.12:568][567]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.25.31:889][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.25.31:967][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-20.25.31:994][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.25.32:020][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.25.32:037][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.338 ms (total: 8.24 sec)
+[2025.10.15-20.26.15:164][901]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9885.798828
+[2025.10.15-20.26.15:225][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-20.26.15:225][908]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9885.850586, Update Interval: 304.473389
+[2025.10.15-20.28.34:175][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.28.34:271][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.15-20.28.34:299][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.15-20.28.34:327][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.15-20.28.34:333][367]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/TZ/OW17V576PESRBQDER96UP4
+[2025.10.15-20.28.34:333][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/OW17V576PESRBQDER96UP4EAE0489E4FB2A54E2E432CB29093B659.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/TZ/OW17V576PESRBQDER96UP4.uasset'
+[2025.10.15-20.28.34:337][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/3/W9/HTON133Y70GEEGGGTUJHTB
+[2025.10.15-20.28.34:337][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HTON133Y70GEEGGGTUJHTB73405AC64BEED92416DCEBB6FBACA87B.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/3/W9/HTON133Y70GEEGGGTUJHTB.uasset'
+[2025.10.15-20.28.34:341][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/TW/FB6WP06Y9TFADMVPET8CMJ
+[2025.10.15-20.28.34:341][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/FB6WP06Y9TFADMVPET8CMJD643AAC94778A00063C29D915D35E932.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/TW/FB6WP06Y9TFADMVPET8CMJ.uasset'
+[2025.10.15-20.28.34:344][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/9/P0/MPR3BRVHKOPA4BIIFLY9XU
+[2025.10.15-20.28.34:344][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/MPR3BRVHKOPA4BIIFLY9XU3803BD3D45CB0AC145792CBE4C33D726.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/9/P0/MPR3BRVHKOPA4BIIFLY9XU.uasset'
+[2025.10.15-20.28.34:348][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/A/V4/RU615O1CKECDXYCL6NDYJZ
+[2025.10.15-20.28.34:348][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/RU615O1CKECDXYCL6NDYJZ563E84C243EDF55E2BBE40BA2170330E.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/A/V4/RU615O1CKECDXYCL6NDYJZ.uasset'
+[2025.10.15-20.28.34:352][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/LR/JRLIRKIIB09X1Z6HLP0MLU
+[2025.10.15-20.28.34:352][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/JRLIRKIIB09X1Z6HLP0MLU785D24124C88DFBD0950D8916F83AAB6.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/LR/JRLIRKIIB09X1Z6HLP0MLU.uasset'
+[2025.10.15-20.28.34:355][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/4/32/7LRAZRC9MR2QMMN6SUK6PT
+[2025.10.15-20.28.34:355][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/7LRAZRC9MR2QMMN6SUK6PT617A56C84CB8F405D42877814AC94CF5.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/4/32/7LRAZRC9MR2QMMN6SUK6PT.uasset'
+[2025.10.15-20.28.34:358][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/WL/RE15BM20YODZP1U3PWU61P
+[2025.10.15-20.28.34:359][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/RE15BM20YODZP1U3PWU61P89453ADB46A13910A2C6ECAAA09C365E.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/WL/RE15BM20YODZP1U3PWU61P.uasset'
+[2025.10.15-20.28.34:362][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/YW/HO0A00K8650JPE4HK5O059
+[2025.10.15-20.28.34:362][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/HO0A00K8650JPE4HK5O059C073583341409BC9E0F1448945230618.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/2/YW/HO0A00K8650JPE4HK5O059.uasset'
+[2025.10.15-20.28.34:366][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/RD/PJPNKUCXUQTCZZWCQA933Z
+[2025.10.15-20.28.34:366][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/PJPNKUCXUQTCZZWCQA933Z7729E36746D861293689C09CC76E6676.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/RD/PJPNKUCXUQTCZZWCQA933Z.uasset'
+[2025.10.15-20.28.34:369][367]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/M7/MWYY4CDZDP5221QSH49QQ7
+[2025.10.15-20.28.34:369][367]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/MWYY4CDZDP5221QSH49QQ774F594184FCCDF0BA14419970205AEC8.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/6/M7/MWYY4CDZDP5221QSH49QQ7.uasset'
+[2025.10.15-20.28.34:381][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 207.239 ms (total: 8.45 sec)
+[2025.10.15-20.28.34:446][367]LogContentValidation: Display: Starting to validate 11 assets
+[2025.10.15-20.28.34:446][367]LogContentValidation: Enabled validators:
+[2025.10.15-20.28.34:446][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.28.34:446][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.28.34:446][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.28.34:446][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.28.34:446][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.28.34:446][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.28.34:447][367]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.28.34:469][367]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.28.43:772][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.28.43:849][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.28.43:875][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.15-20.28.43:900][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.15-20.28.43:906][365]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/TZ/OW17V576PESRBQDER96UP4
+[2025.10.15-20.28.43:907][365]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/OW17V576PESRBQDER96UP49A8B7F95404F7BDE8ECED7B762EE9B29.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/TZ/OW17V576PESRBQDER96UP4.uasset'
+[2025.10.15-20.28.43:920][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.756 ms (total: 8.60 sec)
+[2025.10.15-20.28.43:979][365]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-20.28.43:979][365]LogContentValidation: Enabled validators:
+[2025.10.15-20.28.43:979][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.28.43:979][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.28.43:979][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.28.43:979][365]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.28.43:979][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.28.43:980][365]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.28.43:980][365]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.28.51:079][153]Cmd: DELETE
+[2025.10.15-20.28.51:079][153]Cmd: ACTOR DELETE
+[2025.10.15-20.28.51:081][153]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.28.51:108][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.15-20.28.51:113][153]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-20.28.52:447][296]Cmd: DELETE
+[2025.10.15-20.28.52:448][296]Cmd: ACTOR DELETE
+[2025.10.15-20.28.52:450][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.28.52:478][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.15-20.28.52:483][296]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.15-20.28.53:770][435]Cmd: DELETE
+[2025.10.15-20.28.53:770][435]Cmd: ACTOR DELETE
+[2025.10.15-20.28.53:773][435]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.28.53:800][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.15-20.28.53:805][435]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-20.28.55:015][566]Cmd: DELETE
+[2025.10.15-20.28.55:015][566]Cmd: ACTOR DELETE
+[2025.10.15-20.28.55:018][566]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.28.55:047][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.10.15-20.28.55:051][566]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.10.15-20.28.58:655][980]Cmd: DELETE
+[2025.10.15-20.28.58:655][980]Cmd: ACTOR DELETE
+[2025.10.15-20.28.58:657][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.28.58:684][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.10.15-20.28.58:688][980]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.15-20.29.00:425][173]Cmd: DELETE
+[2025.10.15-20.29.00:425][173]Cmd: ACTOR DELETE
+[2025.10.15-20.29.00:427][173]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.00:455][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.15-20.29.00:459][173]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.15-20.29.01:595][295]Cmd: DELETE
+[2025.10.15-20.29.01:595][295]Cmd: ACTOR DELETE
+[2025.10.15-20.29.01:598][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.01:625][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.15-20.29.01:630][295]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.10.15-20.29.02:923][438]Cmd: DELETE
+[2025.10.15-20.29.02:923][438]Cmd: ACTOR DELETE
+[2025.10.15-20.29.02:925][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.02:952][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.15-20.29.02:956][438]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-20.29.04:559][616]Cmd: DELETE
+[2025.10.15-20.29.04:559][616]Cmd: ACTOR DELETE
+[2025.10.15-20.29.04:562][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.04:589][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.15-20.29.04:593][616]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.15-20.29.05:453][705]Cmd: DELETE
+[2025.10.15-20.29.05:453][705]Cmd: ACTOR DELETE
+[2025.10.15-20.29.05:455][705]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.05:481][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.15-20.29.05:485][705]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.10.15-20.29.06:673][833]Cmd: DELETE
+[2025.10.15-20.29.06:673][833]Cmd: ACTOR DELETE
+[2025.10.15-20.29.06:675][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.06:702][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.10.15-20.29.06:707][833]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-20.29.07:379][901]Cmd: DELETE
+[2025.10.15-20.29.07:379][901]Cmd: ACTOR DELETE
+[2025.10.15-20.29.07:380][901]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.07:408][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.10.15-20.29.07:413][901]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-20.29.08:709][ 44]Cmd: DELETE
+[2025.10.15-20.29.08:709][ 44]Cmd: ACTOR DELETE
+[2025.10.15-20.29.08:712][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.08:740][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.15-20.29.08:746][ 44]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.10.15-20.29.09:595][133]Cmd: DELETE
+[2025.10.15-20.29.09:595][133]Cmd: ACTOR DELETE
+[2025.10.15-20.29.09:598][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.09:628][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.15-20.29.09:633][133]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.10.15-20.29.18:026][108]Cmd: DELETE
+[2025.10.15-20.29.18:026][108]Cmd: ACTOR DELETE
+[2025.10.15-20.29.18:028][108]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.15-20.29.18:056][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.15-20.29.18:061][108]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.10.15-20.29.19:518][250]Cmd: DUPLICATE
+[2025.10.15-20.29.19:518][250]Cmd: ACTOR DUPLICATE
+[2025.10.15-20.30.44:383][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.30.44:503][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.15-20.30.44:536][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.15-20.30.44:561][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-20.30.44:570][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/5I/1ZCG7YAZDP4BRZIZRCBBUD
+[2025.10.15-20.30.44:570][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/1ZCG7YAZDP4BRZIZRCBBUDBA8376B649587A130E52D686C626AA24.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/5I/1ZCG7YAZDP4BRZIZRCBBUD.uasset'
+[2025.10.15-20.30.44:575][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/CC/0JTUNI8VQLSXUN7CSUXHGJ
+[2025.10.15-20.30.44:576][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/0JTUNI8VQLSXUN7CSUXHGJ6C4AEE6D43994A7272568080DB1BA47F.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/CC/0JTUNI8VQLSXUN7CSUXHGJ.uasset'
+[2025.10.15-20.30.44:580][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/E3/MC4DE2Y1W2FUBAXAPO76V8
+[2025.10.15-20.30.44:581][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/MC4DE2Y1W2FUBAXAPO76V881BB0AFD43611FD69D974ABF3EBF4290.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/E3/MC4DE2Y1W2FUBAXAPO76V8.uasset'
+[2025.10.15-20.30.44:584][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/QY/Q9L725WSZ57N980THJBQEU
+[2025.10.15-20.30.44:585][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Q9L725WSZ57N980THJBQEU25B7EB3F45042BE036475FBA9CFCFAC0.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/QY/Q9L725WSZ57N980THJBQEU.uasset'
+[2025.10.15-20.30.44:589][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/XY/RN4Y9T2VRP5N8ER86W517F
+[2025.10.15-20.30.44:590][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/RN4Y9T2VRP5N8ER86W517FBF60CCB64E693C4BACAA9CA9E361764B.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/XY/RN4Y9T2VRP5N8ER86W517F.uasset'
+[2025.10.15-20.30.44:594][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/AO/Q8QQIINMYCYYVM07TZM7VV
+[2025.10.15-20.30.44:595][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Q8QQIINMYCYYVM07TZM7VV879177D74B275297A6346FBF989F0F84.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/AO/Q8QQIINMYCYYVM07TZM7VV.uasset'
+[2025.10.15-20.30.44:599][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6
+[2025.10.15-20.30.44:599][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/JEF6NHSL8XXSCQTOUZMFM6D93CE8964129AFE3B03ED4A8EDA6231D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6.uasset'
+[2025.10.15-20.30.44:603][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE
+[2025.10.15-20.30.44:604][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/FSMNL3KLM133J5VKZAU0BE4280DF2C4D7219EB386F6391C34841E8.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset'
+[2025.10.15-20.30.44:608][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B
+[2025.10.15-20.30.44:608][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WB7S47W2IE4F23EZ9SLQ1BC9AF239A49B0D436B38B17B413EA73B5.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset'
+[2025.10.15-20.30.44:613][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/1P/IGEJLTO1FAO8F6RU2Q2YG9
+[2025.10.15-20.30.44:614][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/IGEJLTO1FAO8F6RU2Q2YG9B654695744D350EB40759E808BEB7CB0.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/1P/IGEJLTO1FAO8F6RU2Q2YG9.uasset'
+[2025.10.15-20.30.44:618][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/AT/SHUHXKB5QB1C1ZI1639IG9
+[2025.10.15-20.30.44:618][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SHUHXKB5QB1C1ZI1639IG909955C3B4BCC2CBA61373B86E8168048.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/AT/SHUHXKB5QB1C1ZI1639IG9.uasset'
+[2025.10.15-20.30.44:622][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/3D/DBXY9AZV9KWWX4538B45M2
+[2025.10.15-20.30.44:623][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/DBXY9AZV9KWWX4538B45M2844C37A9481B3059DF57A9B1A75AF69C.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/3D/DBXY9AZV9KWWX4538B45M2.uasset'
+[2025.10.15-20.30.44:627][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/K0/EFEVMGHFNDANJ1GKKUF5C9
+[2025.10.15-20.30.44:628][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/EFEVMGHFNDANJ1GKKUF5C9A881BCC04A16F4E50970C296D915ABFB.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/K0/EFEVMGHFNDANJ1GKKUF5C9.uasset'
+[2025.10.15-20.30.44:632][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HB/8ZTX33OPBIUA88Y17GZFNK
+[2025.10.15-20.30.44:633][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/8ZTX33OPBIUA88Y17GZFNK3B1E74D14616DA91EC25BDA108768F32.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HB/8ZTX33OPBIUA88Y17GZFNK.uasset'
+[2025.10.15-20.30.44:637][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/7A/K1PVML9A2AX5IA1LLZ5LL9
+[2025.10.15-20.30.44:637][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/K1PVML9A2AX5IA1LLZ5LL94B391B8B45FF72BF683ED8B5D07A5D03.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/7A/K1PVML9A2AX5IA1LLZ5LL9.uasset'
+[2025.10.15-20.30.44:641][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/7R/WEO0POUVDGVH4SWLTNWGEN
+[2025.10.15-20.30.44:643][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WEO0POUVDGVH4SWLTNWGEN9EED8FE9435628516EDCAC8CBC5EAF3D.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/7R/WEO0POUVDGVH4SWLTNWGEN.uasset'
+[2025.10.15-20.30.44:648][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/VV/MP7TU47BE2C47HTL2DXWQM
+[2025.10.15-20.30.44:648][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/MP7TU47BE2C47HTL2DXWQMA7A2682F447F3386C7AD5C91C550DE1B.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/VV/MP7TU47BE2C47HTL2DXWQM.uasset'
+[2025.10.15-20.30.44:652][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/WU/XAWUVT80B43R2B8XB1L2ML
+[2025.10.15-20.30.44:652][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XAWUVT80B43R2B8XB1L2ML185B0D9643A7F6D4A568A49703A807B5.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/WU/XAWUVT80B43R2B8XB1L2ML.uasset'
+[2025.10.15-20.30.44:656][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/GK/Z7YEKSMSCZP8B1FLZISJHE
+[2025.10.15-20.30.44:657][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Z7YEKSMSCZP8B1FLZISJHEE4FC2DB44C5A92215F53F39D41FF4B05.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/GK/Z7YEKSMSCZP8B1FLZISJHE.uasset'
+[2025.10.15-20.30.44:661][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/KT/WULQZ44KB2M7DX1HT03NXX
+[2025.10.15-20.30.44:661][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/WULQZ44KB2M7DX1HT03NXX3E09748C4454C7E83A50118A836FE0D0.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/KT/WULQZ44KB2M7DX1HT03NXX.uasset'
+[2025.10.15-20.30.44:664][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/JU/DGGA7DTR9SPABNJNK306AS
+[2025.10.15-20.30.44:665][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/DGGA7DTR9SPABNJNK306AS989C5CB44E9271F69605C1AF905CD017.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/JU/DGGA7DTR9SPABNJNK306AS.uasset'
+[2025.10.15-20.30.44:669][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/52/YRHCHVKNU65J7RQK6SXII4
+[2025.10.15-20.30.44:670][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/YRHCHVKNU65J7RQK6SXII49BE5822E429410922E7147A97EA34724.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/52/YRHCHVKNU65J7RQK6SXII4.uasset'
+[2025.10.15-20.30.44:674][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/UU/F31F0471BK4W08IDKA5G2O
+[2025.10.15-20.30.44:675][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/F31F0471BK4W08IDKA5G2O268E59254EA9C51E2B02E491B389C55F.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/UU/F31F0471BK4W08IDKA5G2O.uasset'
+[2025.10.15-20.30.44:678][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IR/YJXIE4N9K2G6U1XXVXILBS
+[2025.10.15-20.30.44:679][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/YJXIE4N9K2G6U1XXVXILBSC4AAB7AA4A110092D06CD8AFB9074351.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IR/YJXIE4N9K2G6U1XXVXILBS.uasset'
+[2025.10.15-20.30.44:682][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/DJ/53QB7GRUNC2GN80BJVC7ZV
+[2025.10.15-20.30.44:683][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/53QB7GRUNC2GN80BJVC7ZVEB0A5F8D46BC2FEF92C52581C4BA9751.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/DJ/53QB7GRUNC2GN80BJVC7ZV.uasset'
+[2025.10.15-20.30.44:687][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/40/INFLH9AW74HGCZMAVVOA5Y
+[2025.10.15-20.30.44:688][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/INFLH9AW74HGCZMAVVOA5Y7476B24E4C80321B0DF3CBA98C1F38B3.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/F/40/INFLH9AW74HGCZMAVVOA5Y.uasset'
+[2025.10.15-20.30.44:692][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK
+[2025.10.15-20.30.44:693][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/1ZY1QFVHRWZSP8YI4VZLMK1EC5AEF34DFD4A82DC2EFAA120FFAB45.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset'
+[2025.10.15-20.30.44:696][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH
+[2025.10.15-20.30.44:697][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/LHEOZ28EA00LZG55QEAGFH633E3BA7495E0600C7F8DBB5BE2391B2.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset'
+[2025.10.15-20.30.44:701][ 82]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/KJ/KAZUQANOD80BDCEW74ZA2O
+[2025.10.15-20.30.44:701][ 82]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/KAZUQANOD80BDCEW74ZA2O489F695741A5FCCA7C2C18BD18D3671E.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/KJ/KAZUQANOD80BDCEW74ZA2O.uasset'
+[2025.10.15-20.30.44:713][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 329.751 ms (total: 8.93 sec)
+[2025.10.15-20.30.44:780][ 82]LogContentValidation: Display: Starting to validate 29 assets
+[2025.10.15-20.30.44:780][ 82]LogContentValidation: Enabled validators:
+[2025.10.15-20.30.44:780][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.30.44:780][ 82]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.30.44:780][ 82]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.30.44:780][ 82]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.30.44:780][ 82]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.30.44:780][ 82]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.30.44:780][ 82]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.15-20.30.44:820][ 82]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-20.31.00:852][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.31.00:959][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.10.15-20.31.00:990][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-20.31.01:016][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-20.31.01:029][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.332 ms (total: 9.10 sec)
+[2025.10.15-20.31.02:455][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.10.15-20.31.03:602][ 54]LogSlate: Window 'Save Content' being destroyed
+[2025.10.15-20.31.03:626][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-20.31.03:681][ 54]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF] ([1] browsable assets)...
+[2025.10.15-20.31.03:681][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF]
+[2025.10.15-20.31.03:685][ 54]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF
+[2025.10.15-20.31.03:685][ 54]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_021BBAEF79D869194C2A76A5474BA09630E446C1.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF.uasset'
+[2025.10.15-20.31.03:696][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.885 ms (total: 9.17 sec)
+[2025.10.15-20.31.03:747][ 54]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-20.31.03:747][ 54]LogContentValidation: Enabled validators:
+[2025.10.15-20.31.03:747][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-20.31.03:747][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-20.31.03:747][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-20.31.03:747][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-20.31.03:747][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-20.31.03:747][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-20.31.03:747][ 54]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_021BBAEF Validating asset
+[2025.10.15-20.31.03:767][ 54]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
