@@ -10998,3 +10998,567 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.15-21.55.27:609][746]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.15-21.55.27:609][746]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.15-21.55.27:609][746]AssetCheck: /Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_0FD5391A Validating asset
+[2025.10.15-21.59.45:989][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15503.036133
+[2025.10.15-21.59.46:058][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-21.59.46:058][389]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15503.097656, Update Interval: 319.171722
+[2025.10.15-22.01.22:736][523]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.15-22.01.22:772][523]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.15-22.01.22:809][525]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.15-22.01.24:068][651]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.10.15-22.01.24:070][651]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.15-22.01.41:139][ 93]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/NewMaterial.NewMaterial
+[2025.10.15-22.01.41:146][ 93]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.15-22.01.41:761][ 93]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.01.41:761][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.01.41:761][ 93]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.01.41:761][ 93]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.01.41:844][ 95]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.01.41:845][ 95]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.01.41:845][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.01.41:845][ 95]MaterialEditorStats: Shader Count: 3
+[2025.10.15-22.01.41:845][ 95]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.01.42:658][152]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.01.42:658][152]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.01.42:658][152]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.01.42:658][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.01.42:658][152]MaterialEditorStats: Shader Count: 4
+[2025.10.15-22.01.42:658][152]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.01.50:810][782]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.01.50:810][782]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.01.50:810][782]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.01.50:810][782]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.01.50:849][783]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.01.50:849][783]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.01.50:849][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.01.50:849][783]MaterialEditorStats: Shader Count: 3
+[2025.10.15-22.01.50:849][783]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.01.50:875][784]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.01.50:876][784]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.01.50:876][784]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.01.50:876][784]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.01.50:876][784]MaterialEditorStats: Shader Count: 5
+[2025.10.15-22.01.50:876][784]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.02.09:253][222]LogSlate: Window 'NewMaterial' being destroyed
+[2025.10.15-22.02.10:503][363]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-22.02.10:503][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-22.02.10:522][363]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.15-22.02.10:522][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.15-22.02.10:640][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.10.15-22.02.20:253][454]LogContentBrowser: Attempting asset rename: NewMaterial -> Green_Box
+[2025.10.15-22.02.20:343][454]LogMaterial: Display: MaterialInterface NewMaterial has a incorrectly name EditorOnlyData 'NewMaterialEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'Green_BoxEditorOnlyData'.
+[2025.10.15-22.02.20:382][454]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-22.02.20:382][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Green_Box] ([1] browsable assets)...
+[2025.10.15-22.02.20:440][454]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Green_Box.Green_Box]
+[2025.10.15-22.02.20:440][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Green_Box]
+[2025.10.15-22.02.20:440][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Green_Box" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/Green_Box.uasset" SILENT=true
+[2025.10.15-22.02.20:444][454]LogSavePackage: Moving output files for package: /Game/Materials/Green_Box
+[2025.10.15-22.02.20:445][454]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Green_Box2F4F1BB848E04368E846B496DCB4028C.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/Green_Box.uasset'
+[2025.10.15-22.02.20:446][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.650 ms (total: 16.1 sec)
+[2025.10.15-22.02.20:489][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.15-22.02.20:515][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.10.15-22.02.20:539][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.15-22.02.20:595][454]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-22.02.20:596][454]LogContentValidation: Enabled validators:
+[2025.10.15-22.02.20:596][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-22.02.20:596][454]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-22.02.20:596][454]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-22.02.20:596][454]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-22.02.20:596][454]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-22.02.20:596][454]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-22.02.20:596][454]AssetCheck: /Game/Materials/Green_Box Validating asset
+[2025.10.15-22.02.20:634][454]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-22.02.32:724][158]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-22.02.32:737][158]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.02.32:737][158]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.02.32:737][158]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.02.32:737][158]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.02.32:872][162]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.02.32:872][162]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.02.32:872][162]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.02.32:872][162]MaterialEditorStats: Shader Count: 2
+[2025.10.15-22.02.32:872][162]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.02.33:480][220]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.02.33:480][220]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.02.33:480][220]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.02.33:480][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.02.33:480][220]MaterialEditorStats: Shader Count: 4
+[2025.10.15-22.02.33:480][220]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.02.40:083][955]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.15-22.02.40:092][955]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.15-22.02.40:101][956]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: ================================================
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Total job queries 18,529, among them cache hits 4,903 (26.46%), DDC hits 12,398 (66.91%), Duplicates 579 (3.12%)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Tracking 13,047 distinct input hashes that result in 11,941 distinct outputs (91.52%)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: RAM used: 158.97 MiB of 3.20 GiB budget. Usage: 4.85%
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Shaders Compiled: 649
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Jobs assigned 649, completed 649 (100%)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Average time worker was idle: 296.11 s
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Time job spent in pending queue: average 3.32 s, longest 21.86 s
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Job execution time: average 5.00 s, max 20.12 s
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Job life time (pending + execution): average 8.32 s, max 23.91
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Shader code size: total 9.963 MiB, numShaders 680, average 15.004 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 87.00 s
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Jobs were issued in 249 batches (only local compilation was used), average 2.61 jobs/batch
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Average processing rate: 7.46 jobs/sec
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Total thread time: 675.92 s
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Total thread preprocess time: 204.334 s
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Percentage time preprocessing: 30.23%
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Effective parallelization: 7.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.647461
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 9.38 sec, max 9.38 sec, min 9.38 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.27 sec, max 5.27 sec, min 5.27 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.48 sec, max 5.13 sec, min 1.83 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 25.18% of total time (compiled   80 times, average 2.13 sec, max 2.44 sec, min 1.84 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.31% of total time (compiled   65 times, average 0.86 sec, max 6.38 sec, min 0.27 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.30% of total time (compiled   32 times, average 1.54 sec, max 7.20 sec, min 0.64 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.57% of total time (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.01% of total time (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: === Material stats ===
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Materials Translated:    169
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Material Translation Only: 0.05 s (41%)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.15-22.02.42:360][228]LogShaderCompilers: Display: ================================================
+[2025.10.15-22.02.46:027][668]LogContentBrowser: Attempting asset rename: NewMaterial -> Brown_Box
+[2025.10.15-22.02.46:029][668]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.15-22.02.50:664][181]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.15-22.02.50:671][181]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.15-22.02.50:680][182]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.15-22.02.58:250][ 90]LogContentBrowser: Attempting asset rename: NewMaterial -> LightBrown_Box
+[2025.10.15-22.02.58:252][ 90]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.15-22.03.11:439][470]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.15-22.03.11:470][470]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.15-22.03.11:485][471]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.15-22.03.18:003][254]LogContentBrowser: Attempting asset rename: NewMaterial -> Grey_Box
+[2025.10.15-22.03.18:004][254]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.15-22.03.24:840][ 24]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.10.15-22.03.24:847][ 24]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.10.15-22.03.24:857][ 25]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.10.15-22.03.30:250][673]LogContentBrowser: Attempting asset rename: NewMaterial -> DarkGrey_Box
+[2025.10.15-22.03.30:251][673]LogContentBrowser: End creating deferred item NewMaterial
+[2025.10.15-22.03.37:026][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-22.03.37:064][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/DarkGrey_Box] ([1] browsable assets)...
+[2025.10.15-22.03.37:070][450]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/DarkGrey_Box.DarkGrey_Box]
+[2025.10.15-22.03.37:070][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/DarkGrey_Box]
+[2025.10.15-22.03.37:070][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DarkGrey_Box" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/DarkGrey_Box.uasset" SILENT=true
+[2025.10.15-22.03.37:075][450]LogSavePackage: Moving output files for package: /Game/Materials/DarkGrey_Box
+[2025.10.15-22.03.37:075][450]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/DarkGrey_BoxB0D811EC46358EBDCA05BF9E02DA7104.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/DarkGrey_Box.uasset'
+[2025.10.15-22.03.37:085][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.784 ms (total: 16.1 sec)
+[2025.10.15-22.03.37:147][450]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-22.03.37:147][450]LogContentValidation: Enabled validators:
+[2025.10.15-22.03.37:147][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-22.03.37:147][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-22.03.37:147][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-22.03.37:147][450]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-22.03.37:147][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-22.03.37:147][450]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-22.03.37:147][450]AssetCheck: /Game/Materials/DarkGrey_Box Validating asset
+[2025.10.15-22.03.37:196][450]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-22.03.38:977][624]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Brown_Box.Brown_Box
+[2025.10.15-22.03.38:980][624]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.15-22.03.39:527][624]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.03.39:527][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.03.39:527][624]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.03.39:527][624]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.03.39:585][626]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.03.39:585][626]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.03.39:585][626]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.03.39:585][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.03.39:585][626]MaterialEditorStats: Shader Count: 5
+[2025.10.15-22.03.39:585][626]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.03.50:648][822]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-22.03.50:661][822]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.03.50:661][822]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.03.50:661][822]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.03.50:661][822]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.03.50:795][826]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.03.50:795][826]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.03.50:795][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.03.50:795][826]MaterialEditorStats: Shader Count: 2
+[2025.10.15-22.03.50:795][826]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.03.51:421][883]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.03.51:421][883]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.03.51:421][883]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.03.51:421][883]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.03.51:421][883]MaterialEditorStats: Shader Count: 4
+[2025.10.15-22.03.51:421][883]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.03.56:925][481]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/LightBrown_Box.LightBrown_Box
+[2025.10.15-22.03.56:928][481]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.10.15-22.03.57:530][481]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.03.57:530][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.03.57:530][481]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.03.57:530][481]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.03.57:586][483]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.03.57:586][483]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.03.57:586][483]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.03.57:586][483]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.03.57:586][483]MaterialEditorStats: Shader Count: 5
+[2025.10.15-22.03.57:586][483]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.07:767][698]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-22.04.07:780][698]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.04.07:780][698]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.07:780][698]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.04.07:780][698]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.07:915][702]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.04.07:915][702]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.04.07:915][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.07:915][702]MaterialEditorStats: Shader Count: 2
+[2025.10.15-22.04.07:915][702]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.08:246][727]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.04.08:246][727]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.04.08:246][727]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.04.08:246][727]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.08:246][727]MaterialEditorStats: Shader Count: 4
+[2025.10.15-22.04.08:246][727]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.09:380][852]LogMaterialEditor: Saving and Compiling material LightBrown_Box
+[2025.10.15-22.04.09:558][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.15-22.04.10:450][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.10.15-22.04.10:464][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-22.04.10:497][852]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LightBrown_Box] ([1] browsable assets)...
+[2025.10.15-22.04.10:539][852]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/LightBrown_Box.LightBrown_Box]
+[2025.10.15-22.04.10:540][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LightBrown_Box]
+[2025.10.15-22.04.10:540][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LightBrown_Box" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/LightBrown_Box.uasset" SILENT=true
+[2025.10.15-22.04.10:544][852]LogSavePackage: Moving output files for package: /Game/Materials/LightBrown_Box
+[2025.10.15-22.04.10:544][852]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/LightBrown_Box3BC2375440FC825E4EDCBC945629EEFD.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/LightBrown_Box.uasset'
+[2025.10.15-22.04.10:555][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.213 ms (total: 16.2 sec)
+[2025.10.15-22.04.10:614][852]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-22.04.10:614][852]LogContentValidation: Enabled validators:
+[2025.10.15-22.04.10:614][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-22.04.10:614][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-22.04.10:614][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-22.04.10:614][852]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-22.04.10:614][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-22.04.10:614][852]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-22.04.10:614][852]AssetCheck: /Game/Materials/LightBrown_Box Validating asset
+[2025.10.15-22.04.10:638][852]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-22.04.20:797][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-22.04.20:847][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Brown_Box] ([1] browsable assets)...
+[2025.10.15-22.04.20:885][982]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Brown_Box.Brown_Box]
+[2025.10.15-22.04.20:885][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Brown_Box]
+[2025.10.15-22.04.20:885][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Brown_Box" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/Brown_Box.uasset" SILENT=true
+[2025.10.15-22.04.20:889][982]LogSavePackage: Moving output files for package: /Game/Materials/Brown_Box
+[2025.10.15-22.04.20:889][982]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Brown_Box4EC0EE0C4857EE44782DFFA0EE7569F9.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/Brown_Box.uasset'
+[2025.10.15-22.04.20:900][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.102 ms (total: 16.3 sec)
+[2025.10.15-22.04.20:945][982]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-22.04.20:945][982]LogContentValidation: Enabled validators:
+[2025.10.15-22.04.20:945][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-22.04.20:945][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-22.04.20:945][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-22.04.20:945][982]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-22.04.20:945][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-22.04.20:945][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-22.04.20:945][982]AssetCheck: /Game/Materials/Brown_Box Validating asset
+[2025.10.15-22.04.20:967][982]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-22.04.22:739][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.10.15-22.04.23:858][191]LogSlate: Window 'Save Content' being destroyed
+[2025.10.15-22.04.23:868][191]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-22.04.23:932][191]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Grey_Box] ([1] browsable assets)...
+[2025.10.15-22.04.23:993][191]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Grey_Box.Grey_Box]
+[2025.10.15-22.04.23:994][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Grey_Box]
+[2025.10.15-22.04.23:994][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Grey_Box" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/Grey_Box.uasset" SILENT=true
+[2025.10.15-22.04.23:997][191]LogSavePackage: Moving output files for package: /Game/Materials/Grey_Box
+[2025.10.15-22.04.23:997][191]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Grey_BoxD08F7DF440C1485DA0639C896B60EBA5.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/Grey_Box.uasset'
+[2025.10.15-22.04.24:008][191]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.473 ms (total: 16.5 sec)
+[2025.10.15-22.04.24:047][191]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-22.04.24:047][191]LogContentValidation: Enabled validators:
+[2025.10.15-22.04.24:047][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-22.04.24:047][191]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-22.04.24:047][191]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-22.04.24:047][191]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-22.04.24:047][191]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-22.04.24:047][191]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-22.04.24:047][191]AssetCheck: /Game/Materials/Grey_Box Validating asset
+[2025.10.15-22.04.24:069][191]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.15-22.04.34:803][354]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.04.34:803][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.34:803][354]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.04.34:803][354]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.34:867][356]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.04.34:867][356]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.04.34:867][356]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.04.34:867][356]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.34:867][356]MaterialEditorStats: Shader Count: 5
+[2025.10.15-22.04.34:867][356]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.44:119][363]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Grey_Box.Grey_Box
+[2025.10.15-22.04.44:123][363]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.10.15-22.04.44:728][363]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.04.44:728][363]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.44:728][363]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.04.44:728][363]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.44:786][365]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.04.44:786][365]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.04.44:786][365]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.04.44:786][365]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.44:786][365]MaterialEditorStats: Shader Count: 5
+[2025.10.15-22.04.44:786][365]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.54:822][539]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-22.04.54:835][539]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.04.54:835][539]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.54:835][539]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.04.54:835][539]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.54:973][543]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.04.54:973][543]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.04.54:973][543]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.54:973][543]MaterialEditorStats: Shader Count: 2
+[2025.10.15-22.04.54:973][543]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.04.55:570][597]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.04.55:570][597]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.04.55:570][597]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.04.55:570][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.04.55:570][597]MaterialEditorStats: Shader Count: 4
+[2025.10.15-22.04.55:570][597]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.05.00:875][159]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/DarkGrey_Box.DarkGrey_Box
+[2025.10.15-22.05.00:879][159]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.15-22.05.01:524][159]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.05.01:524][159]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.05.01:524][159]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.05.01:524][159]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.05.01:580][161]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.05.01:580][161]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.05.01:581][161]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.05.01:581][161]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.05.01:581][161]MaterialEditorStats: Shader Count: 5
+[2025.10.15-22.05.01:581][161]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.05.11:007][687]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.15-22.05.11:020][687]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.05.11:020][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.05.11:020][687]MaterialEditorStats: Shader Count: 0
+[2025.10.15-22.05.11:020][687]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.05.11:151][691]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.05.11:151][691]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.15-22.05.11:151][691]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.05.11:151][691]MaterialEditorStats: Shader Count: 2
+[2025.10.15-22.05.11:151][691]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.05.11:530][720]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.15-22.05.11:530][720]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.15-22.05.11:530][720]MaterialEditorStats: Texture samplers: 1/16
+[2025.10.15-22.05.11:530][720]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.10.15-22.05.11:530][720]MaterialEditorStats: Shader Count: 4
+[2025.10.15-22.05.11:530][720]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.15-22.05.13:292][920]LogMaterialEditor: Saving and Compiling material DarkGrey_Box
+[2025.10.15-22.05.13:446][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.15-22.05.14:433][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.10.15-22.05.14:448][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.15-22.05.14:480][920]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/DarkGrey_Box] ([1] browsable assets)...
+[2025.10.15-22.05.14:523][920]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/DarkGrey_Box.DarkGrey_Box]
+[2025.10.15-22.05.14:523][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/DarkGrey_Box]
+[2025.10.15-22.05.14:523][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/DarkGrey_Box" FILE="../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/DarkGrey_Box.uasset" SILENT=true
+[2025.10.15-22.05.14:527][920]LogSavePackage: Moving output files for package: /Game/Materials/DarkGrey_Box
+[2025.10.15-22.05.14:528][920]LogSavePackage: Moving '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/DarkGrey_BoxE6C21C13416F730AB291CD9F9A7FCEE9.tmp' to '../../../../../../Users/sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/Materials/DarkGrey_Box.uasset'
+[2025.10.15-22.05.14:537][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.428 ms (total: 16.5 sec)
+[2025.10.15-22.05.14:580][920]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.15-22.05.14:580][920]LogContentValidation: Enabled validators:
+[2025.10.15-22.05.14:580][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.15-22.05.14:580][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.15-22.05.14:580][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.15-22.05.14:580][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.15-22.05.14:580][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.15-22.05.14:580][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.15-22.05.14:580][920]AssetCheck: /Game/Materials/DarkGrey_Box Validating asset
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: ================================================
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Total job queries 18,621, among them cache hits 4,975 (26.72%), DDC hits 12,398 (66.58%), Duplicates 581 (3.12%)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Tracking 13,065 distinct input hashes that result in 11,959 distinct outputs (91.53%)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: RAM used: 159.09 MiB of 3.20 GiB budget. Usage: 4.86%
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Shaders Compiled: 667
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Jobs assigned 667, completed 667 (100%)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Average time worker was idle: 277.06 s
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Time job spent in pending queue: average 3.24 s, longest 21.86 s
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Job execution time: average 4.88 s, max 20.12 s
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Job life time (pending + execution): average 8.11 s, max 23.91
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Shader code size: total 10.111 MiB, numShaders 698, average 14.834 KiB, min 2.246 KiB, max 55.505 KiB
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.00 s
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.29%
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Jobs were issued in 267 batches (only local compilation was used), average 2.50 jobs/batch
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Average processing rate: 7.25 jobs/sec
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Total thread time: 683.906 s
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Total thread preprocess time: 205.363 s
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Percentage time preprocessing: 30.03%
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Effective parallelization: 7.43 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.619489
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 9.38 sec, max 9.38 sec, min 9.38 sec)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 5.27 sec, max 5.27 sec, min 5.27 sec)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 3.48 sec, max 5.13 sec, min 1.83 sec)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 24.88% of total time (compiled   80 times, average 2.13 sec, max 2.44 sec, min 1.84 sec)
+[2025.10.15-22.05.42:650][400]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.42% of total time (compiled   69 times, average 0.83 sec, max 6.38 sec, min 0.27 sec)
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.58% of total time (compiled   36 times, average 1.44 sec, max 7.20 sec, min 0.63 sec)
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.49% of total time (compiled   13 times, average 3.42 sec, max 6.53 sec, min 1.10 sec)
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 5.94% of total time (compiled   10 times, average 4.06 sec, max 10.40 sec, min 2.12 sec)
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display: === Material stats ===
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display: Materials Translated:    192
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display: Material Translation Only: 0.06 s (41%)
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.15-22.05.42:651][400]LogShaderCompilers: Display: ================================================
+[2025.10.15-22.05.55:324][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15872.574219
+[2025.10.15-22.05.56:326][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.15-22.05.56:326][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15873.241211, Update Interval: 314.652557
