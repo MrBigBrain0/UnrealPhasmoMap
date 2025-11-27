@@ -4374,3 +4374,624 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.27-07.28.12:953][630]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.27-07.28.12:953][630]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.27-07.28.12:953][630]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.11.27-07.28.45:567][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.27-07.28.45:569][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.015
+[2025.11.27-07.28.45:569][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6] ([1] browsable assets)...
+[2025.11.27-07.28.45:636][455]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6.CubeGridToolOutput_1DD253C6]
+[2025.11.27-07.28.45:636][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6]
+[2025.11.27-07.28.45:647][455]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6_Auto7
+[2025.11.27-07.28.45:647][455]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_1DD253C6_Auto2B8770DC406AAD6445C555AB4229F214.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6_Auto7.uasset'
+[2025.11.27-07.28.45:648][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325] ([1] browsable assets)...
+[2025.11.27-07.28.45:655][455]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325.CubeGridToolOutput_BA26C325]
+[2025.11.27-07.28.45:655][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325]
+[2025.11.27-07.28.45:662][455]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325_Auto7
+[2025.11.27-07.28.45:662][455]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_BA26C325_Auto5248C50644D85865C2CA7194C9C8401D.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325_Auto7.uasset'
+[2025.11.27-07.28.45:662][455]LogFileHelpers: Auto-saving content packages took 0.094
+[2025.11.27-07.28.50:097][956]Cmd: ACTOR HIDE SELECTED
+[2025.11.27-07.28.52:434][234]Cmd: TRANSACTION UNDO
+[2025.11.27-07.28.52:434][234]LogEditorTransaction: Undo Hide Selected
+[2025.11.27-07.29.03:550][427]Cmd: DELETE
+[2025.11.27-07.29.03:550][427]Cmd: ACTOR DELETE
+[2025.11.27-07.29.03:552][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.11.27-07.29.03:565][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.11.27-07.29.03:570][427]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2025.11.27-07.29.29:799][517]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9436.041992
+[2025.11.27-07.29.29:899][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-07.29.29:899][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9436.135742, Update Interval: 334.313171
+[2025.11.27-07.29.29:994][541]Cmd: DUPLICATE
+[2025.11.27-07.29.29:994][541]Cmd: ACTOR DUPLICATE
+[2025.11.27-07.29.42:322][  2]Cmd: TRANSACTION UNDO
+[2025.11.27-07.29.42:322][  2]LogEditorTransaction: Undo Rotate Elements
+[2025.11.27-07.29.54:015][324]Cmd: TRANSACTION UNDO
+[2025.11.27-07.29.54:015][324]LogEditorTransaction: Undo Clicking on Elements
+[2025.11.27-07.29.54:488][331]Cmd: TRANSACTION UNDO
+[2025.11.27-07.29.54:488][331]LogEditorTransaction: Undo Set Rotation
+[2025.11.27-07.30.33:666][930]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-07.30.33:737][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.11.27-07.30.33:752][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.27-07.30.33:765][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.11.27-07.30.33:774][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/U5/K2IPV6XKW2YD9G5S136ALM
+[2025.11.27-07.30.33:774][930]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/K2IPV6XKW2YD9G5S136ALM187E44E54BDEEFD82C6A34A59E71E3D5.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/U5/K2IPV6XKW2YD9G5S136ALM.uasset'
+[2025.11.27-07.30.33:780][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/EG/UL2EC2IRODJTLY9Q34JMZD
+[2025.11.27-07.30.33:780][930]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/UL2EC2IRODJTLY9Q34JMZDF335EC034B40F7E35042B29CEDA3A7F1.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/EG/UL2EC2IRODJTLY9Q34JMZD.uasset'
+[2025.11.27-07.30.33:785][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/2Z/RTSSR34BB3UQ44GW3ZGUNR
+[2025.11.27-07.30.33:785][930]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/RTSSR34BB3UQ44GW3ZGUNR78C8E31D48A957DD993684BD7CE67FAB.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/2Z/RTSSR34BB3UQ44GW3ZGUNR.uasset'
+[2025.11.27-07.30.33:790][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/Y3/M2WNTT4NCC0QMIUKBC8IWE
+[2025.11.27-07.30.33:790][930]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/M2WNTT4NCC0QMIUKBC8IWE88B8005E4BD207C39B1CD4BD0532AC58.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/Y3/M2WNTT4NCC0QMIUKBC8IWE.uasset'
+[2025.11.27-07.30.33:794][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4D/XMRLN83E74X8C3Y6MKA42X
+[2025.11.27-07.30.33:794][930]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/XMRLN83E74X8C3Y6MKA42XDDA09B1B48F5F81F4DEF2FA51933C569.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4D/XMRLN83E74X8C3Y6MKA42X.uasset'
+[2025.11.27-07.30.33:799][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/UZ/SOGDRB2K7UABGO4MSB8N8W
+[2025.11.27-07.30.33:799][930]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SOGDRB2K7UABGO4MSB8N8W531C68A7409B08FCC6BAACAEE9BB0492.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/UZ/SOGDRB2K7UABGO4MSB8N8W.uasset'
+[2025.11.27-07.30.33:804][930]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/7R/5VBRLWPOFXGCWZFYFWSLHG
+[2025.11.27-07.30.33:804][930]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/5VBRLWPOFXGCWZFYFWSLHGD257418A4FE171FE72628DB24AF31B3A.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/7R/5VBRLWPOFXGCWZFYFWSLHG.uasset'
+[2025.11.27-07.30.33:811][930]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.039 ms (total: 9.32 sec)
+[2025.11.27-07.30.33:869][930]LogContentValidation: Display: Starting to validate 7 assets
+[2025.11.27-07.30.33:869][930]LogContentValidation: Enabled validators:
+[2025.11.27-07.30.33:869][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.27-07.30.33:869][930]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.27-07.30.33:869][930]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.27-07.30.33:869][930]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.27-07.30.33:869][930]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.27-07.30.33:869][930]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.27-07.30.33:869][930]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.11.27-07.30.33:994][930]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.27-07.35.34:723][673]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9801.065430
+[2025.11.27-07.35.35:723][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-07.35.35:723][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9801.732422, Update Interval: 313.440338
+[2025.11.27-07.38.45:791][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.11.27-07.38.45:795][246]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.018
+[2025.11.27-07.38.45:795][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_7EAB2596] ([1] browsable assets)...
+[2025.11.27-07.38.45:795][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_7EAB2596]
+[2025.11.27-07.38.45:806][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_7EAB2596_Auto8
+[2025.11.27-07.38.45:806][246]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_7EAB2596_Auto10A003134B8656EEF9A9F585235B5DDC.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_7EAB2596_Auto8.uasset'
+[2025.11.27-07.38.45:807][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_0FD5391A] ([1] browsable assets)...
+[2025.11.27-07.38.45:807][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_0FD5391A]
+[2025.11.27-07.38.45:814][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_0FD5391A_Auto8
+[2025.11.27-07.38.45:814][246]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_0FD5391A_Auto5E4148714EB474344B59A593818B539F.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_0FD5391A_Auto8.uasset'
+[2025.11.27-07.38.45:814][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B46E9F7D] ([1] browsable assets)...
+[2025.11.27-07.38.45:814][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B46E9F7D]
+[2025.11.27-07.38.45:820][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B46E9F7D_Auto8
+[2025.11.27-07.38.45:820][246]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_B46E9F7D_AutoB53200A9400910B45FC572814087B88F.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_B46E9F7D_Auto8.uasset'
+[2025.11.27-07.38.45:820][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_4C7F6993] ([1] browsable assets)...
+[2025.11.27-07.38.45:820][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_4C7F6993]
+[2025.11.27-07.38.45:827][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_4C7F6993_Auto8
+[2025.11.27-07.38.45:827][246]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_4C7F6993_Auto2697AF35433A9B79FB225393FD75A6AD.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_4C7F6993_Auto8.uasset'
+[2025.11.27-07.38.45:828][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_620B5D63] ([1] browsable assets)...
+[2025.11.27-07.38.45:828][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_620B5D63]
+[2025.11.27-07.38.45:834][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_620B5D63_Auto8
+[2025.11.27-07.38.45:834][246]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_620B5D63_AutoBB3C993E47B74AB3C986ADA6CCE36982.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/sicilisi/CubeGridToolOutput_620B5D63_Auto8.uasset'
+[2025.11.27-07.38.45:834][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6] ([1] browsable assets)...
+[2025.11.27-07.38.45:835][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6]
+[2025.11.27-07.38.45:839][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6_Auto8
+[2025.11.27-07.38.45:839][246]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_1DD253C6_Auto00E244554102823F43F43D935B7557B5.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_1DD253C6_Auto8.uasset'
+[2025.11.27-07.38.45:841][246]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325] ([1] browsable assets)...
+[2025.11.27-07.38.45:841][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325]
+[2025.11.27-07.38.45:846][246]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325_Auto8
+[2025.11.27-07.38.45:846][246]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/CubeGridToolOutput_BA26C325_Auto7AE0C89449EF81ECB05879986C96D3FD.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/Autosaves/Game/FirstPerson/_GENERATED/silvi/CubeGridToolOutput_BA26C325_Auto8.uasset'
+[2025.11.27-07.38.45:846][246]LogFileHelpers: Auto-saving content packages took 0.051
+[2025.11.27-07.41.32:749][747]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10159.033203
+[2025.11.27-07.41.33:749][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-07.41.33:749][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10159.699219, Update Interval: 331.855835
+[2025.11.27-07.47.59:434][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10545.654297
+[2025.11.27-07.48.00:435][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-07.48.00:435][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10546.321289, Update Interval: 323.458344
+[2025.11.27-07.54.11:777][ 24]LogDerivedDataCache: C:/Users/silvi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.27-07.54.22:461][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10928.641602
+[2025.11.27-07.54.23:460][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-07.54.23:460][ 59]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10929.307617, Update Interval: 327.223114
+[2025.11.27-08.00.44:148][663]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11310.599609
+[2025.11.27-08.00.44:223][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-08.00.44:224][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11310.666016, Update Interval: 353.508728
+[2025.11.27-08.02.32:360][634]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.32:361][634]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.32:365][634]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.02.32:365][634]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.02.32:365][634]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.02.32:373][635]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.02.32:373][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.02.32:373][635]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.32:373][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.02.32:373][635]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.02.32:373][635]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.27-08.02.32:374][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.02.33:128][724]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:128][724]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:160][725]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.02.33:161][725]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.02.33:161][725]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.02.33:168][725]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:168][725]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.02.33:168][725]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:178][726]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:180][726]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.02.33:180][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.02.33:180][726]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:180][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.02.33:180][726]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.02.33:181][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.02.33:182][726]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:182][726]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:194][727]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.02.33:195][727]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.02.33:195][727]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.02.33:198][727]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:198][727]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.02.33:198][727]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:212][727]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:212][727]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.02.33:212][727]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:228][728]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:228][728]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.02.33:228][728]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:229][728]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:231][728]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.02.33:231][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.02.33:231][728]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:231][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.02.33:231][728]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.02.33:232][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.02.33:244][729]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:244][729]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:261][730]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:261][730]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.11.27-08.02.33:261][730]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:261][730]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.02.33:261][730]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.02.33:261][730]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.02.33:272][731]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:274][731]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:274][731]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.02.33:274][731]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:274][731]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.02.33:274][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.02.33:274][731]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:274][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.02.33:274][731]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.02.33:276][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.02.33:287][731]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:288][731]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:295][732]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.02.33:295][732]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.02.33:295][732]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.02.33:301][732]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.02.33:301][732]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.02.33:301][732]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:306][733]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:308][733]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.02.33:308][733]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.02.33:308][733]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:308][733]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.02.33:308][733]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.02.33:309][733]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.02.33:322][734]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=4 - SAMSUNG (2- AMD High Definition Audio Device), InstanceID=1
+[2025.11.27-08.02.33:322][734]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.02.33:329][735]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}]
+[2025.11.27-08.02.33:329][735]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.02.33:329][735]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.02.33:401][742]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.02.33:403][742]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}, Name=4 - SAMSUNG (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=71.82
+[2025.11.27-08.02.33:403][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.02.33:403][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.02.33:404][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.07.15:218][556]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11702.080078
+[2025.11.27-08.07.15:328][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-08.07.15:328][569]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11702.180664, Update Interval: 327.025360
+[2025.11.27-08.07.31:350][479]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:350][479]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:352][480]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.07.31:352][480]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.07.31:353][480]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.07.31:362][481]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.07.31:362][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.07.31:362][481]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:362][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.07.31:362][481]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.07.31:362][481]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.27-08.07.31:363][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.07.31:481][495]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:481][495]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:512][496]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.07.31:512][496]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.07.31:512][496]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.07.31:515][496]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:515][496]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.07.31:515][496]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:527][496]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:527][496]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.07.31:527][496]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:542][497]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:544][497]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.07.31:544][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.07.31:544][497]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:544][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.07.31:544][497]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.07.31:545][497]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:545][497]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:546][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.07.31:553][498]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.07.31:553][498]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.07.31:553][498]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.07.31:561][498]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:561][498]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.07.31:561][498]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:576][498]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:576][498]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.07.31:576][498]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:581][499]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:583][499]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.07.31:583][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.07.31:583][499]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:583][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.07.31:583][499]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.07.31:585][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.07.31:590][500]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:590][500]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:591][500]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.07.31:591][500]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.07.31:591][500]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.07.31:605][500]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:605][500]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.07.31:605][500]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:614][501]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:616][501]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.07.31:616][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.07.31:616][501]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:616][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.07.31:616][501]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.07.31:617][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.07.31:619][501]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:619][501]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:625][502]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.07.31:625][502]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.07.31:625][502]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.07.31:633][502]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:633][502]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.07.31:633][502]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:646][502]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.07.31:646][502]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.07.31:646][502]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:648][503]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:650][503]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.07.31:650][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.07.31:650][503]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:650][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.07.31:650][503]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.07.31:651][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.07.31:666][504]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=4 - SAMSUNG (2- AMD High Definition Audio Device), InstanceID=1
+[2025.11.27-08.07.31:666][504]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.07.31:671][505]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}]
+[2025.11.27-08.07.31:671][505]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.07.31:671][505]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.07.31:751][513]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.07.31:753][513]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}, Name=4 - SAMSUNG (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=72.94
+[2025.11.27-08.07.31:753][513]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.07.31:753][513]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.07.31:754][513]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.12.29:701][249]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.29:701][249]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.29:705][249]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.12.29:705][249]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.12.29:705][249]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.12.29:712][250]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.12.29:712][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.12.29:712][250]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.29:712][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.12.29:712][250]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.12.29:712][250]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.27-08.12.29:714][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.12.30:519][346]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:519][346]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:546][347]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.12.30:546][347]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.12.30:546][347]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.12.30:557][347]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:557][347]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.12.30:557][347]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:568][348]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:570][348]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.12.30:570][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.12.30:570][348]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:570][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.12.30:570][348]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.12.30:572][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.12.30:572][348]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:572][348]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:579][349]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.12.30:579][349]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.12.30:579][349]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.12.30:588][350]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:589][350]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:589][350]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.12.30:589][350]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:589][350]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.12.30:589][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.12.30:589][350]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:589][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.12.30:589][350]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.12.30:591][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.12.30:604][351]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:604][351]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:610][352]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.12.30:610][352]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.12.30:610][352]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.12.30:619][352]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:619][352]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.12.30:619][352]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:634][353]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:634][353]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.12.30:634][353]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:635][353]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:637][353]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.12.30:637][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.12.30:637][353]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:637][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.12.30:637][353]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.12.30:639][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.12.30:652][355]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:652][355]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:654][355]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.12.30:654][355]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.12.30:654][355]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.12.30:663][356]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:664][356]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.12.30:664][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.12.30:664][356]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:664][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.12.30:664][356]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.12.30:666][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.12.30:667][356]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:667][356]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:673][357]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.12.30:673][357]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.12.30:673][357]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.12.30:681][358]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:682][358]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:682][358]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.12.30:682][358]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:683][358]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.12.30:683][358]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.12.30:683][358]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:683][358]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.12.30:683][358]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.12.30:685][358]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.12.30:696][359]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.12.30:696][359]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:700][360]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.12.30:700][360]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.12.30:700][360]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.12.30:707][361]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:710][361]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.12.30:710][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.12.30:710][361]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:710][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.12.30:710][361]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.12.30:713][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.12.30:715][361]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=4 - SAMSUNG (2- AMD High Definition Audio Device), InstanceID=1
+[2025.11.27-08.12.30:715][361]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.12.30:720][362]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}]
+[2025.11.27-08.12.30:720][362]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.12.30:720][362]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.12.30:791][370]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.12.30:792][370]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}, Name=4 - SAMSUNG (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=70.04
+[2025.11.27-08.12.30:793][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.12.30:793][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.12.30:794][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.13.20:780][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12068.026367
+[2025.11.27-08.13.20:888][379]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-08.13.20:888][379]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12068.125977, Update Interval: 348.326660
+[2025.11.27-08.17.29:024][134]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:024][134]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:027][135]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.17.29:027][135]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.17.29:027][135]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.17.29:037][136]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.17.29:037][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.17.29:037][136]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:037][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.17.29:037][136]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.17.29:037][136]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.11.27-08.17.29:039][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.17.29:795][226]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:795][226]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:797][226]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.17.29:797][226]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.17.29:797][226]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.17.29:805][227]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:806][227]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.17.29:806][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.17.29:807][227]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:807][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.17.29:807][227]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.17.29:808][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.17.29:835][228]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:835][228]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:842][229]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.17.29:843][229]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.17.29:843][229]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.17.29:850][230]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:851][230]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:851][230]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.17.29:851][230]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:852][230]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.17.29:852][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.17.29:852][230]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:852][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.17.29:852][230]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.17.29:854][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.17.29:867][230]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:867][230]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:881][230]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:881][230]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.11.27-08.17.29:881][230]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:892][231]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.17.29:892][231]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.17.29:892][231]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.17.29:898][231]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:898][231]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.17.29:898][231]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:903][232]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:905][232]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.17.29:905][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.17.29:905][232]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:905][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.17.29:905][232]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.17.29:906][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.17.29:911][232]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:911][232]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:925][233]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.17.29:925][233]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.17.29:925][233]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.17.29:928][233]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:928][233]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.17.29:928][233]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:935][234]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:937][234]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.17.29:937][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.17.29:937][234]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:937][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.17.29:937][234]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.17.29:938][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.17.29:941][234]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:941][234]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:955][234]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:955][234]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.11.27-08.17.29:955][234]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:958][235]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.27-08.17.29:958][235]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.17.29:958][235]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.17.29:967][235]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.11.27-08.17.29:967][235]LogAudioMixer: Display: Ignoring device swap request, swap already requested.
+[2025.11.27-08.17.29:967][235]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:970][236]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:972][236]LogAudioMixer: Warning: FAudioMixerPlatformSwappable::CheckThreadedDeviceSwap PostDeviceSwap() failed
+[2025.11.27-08.17.29:972][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.17.29:972][236]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.29:972][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.17.29:972][236]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13212
+[2025.11.27-08.17.29:975][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.17.29:987][237]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=4 - SAMSUNG (2- AMD High Definition Audio Device), InstanceID=1
+[2025.11.27-08.17.29:987][237]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.27-08.17.29:992][238]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}]
+[2025.11.27-08.17.29:992][238]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.27-08.17.29:992][238]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.27-08.17.30:070][246]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.11.27-08.17.30:072][246]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f19c9445-195b-4762-bc9f-9ee320908ad0}, Name=4 - SAMSUNG (2- AMD High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=71.93
+[2025.11.27-08.17.30:072][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.27-08.17.30:072][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.27-08.17.30:073][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.27-08.19.56:712][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12464.230469
+[2025.11.27-08.19.56:787][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-08.19.56:787][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12464.297852, Update Interval: 300.838654
+[2025.11.27-08.25.32:271][557]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12799.788086
+[2025.11.27-08.25.33:271][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-08.25.33:271][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12800.455078, Update Interval: 336.497681
+[2025.11.27-08.31.21:796][962]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.11.27-08.31.21:796][962]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.11.27-08.31.21:798][962]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_AC361BEF9D8409A602_1670953425
+[2025.11.27-08.31.21:798][962]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_AC361BEF9D8409A602_1670953425
+[2025.11.27-08.31.48:192][ 49]Cmd: DUPLICATE
+[2025.11.27-08.31.48:192][ 49]Cmd: ACTOR DUPLICATE
+[2025.11.27-08.31.55:888][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13183.655273
+[2025.11.27-08.31.55:985][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.27-08.31.55:985][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13183.746094, Update Interval: 347.530151
+[2025.11.27-08.32.31:203][ 65]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.11.27-08.32.31:270][ 65]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.11.27-08.32.31:275][ 65]LogStreaming: Display: FlushAsyncLoading(685): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.27-08.32.31:297][ 65]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.11.27-08.32.31:302][ 65]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.11.27-08.32.31:325][ 65]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.11.27-08.32.31:326][ 65]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.11.27-08.32.34:398][271]LogSlate: Window 'Cube' being destroyed
+[2025.11.27-08.32.34:403][271]LogSlate: Window 'Cube' being destroyed
+[2025.11.27-08.32.34:470][271]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.27-08.32.34:470][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.27-08.32.34:512][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.11.27-08.32.35:558][389]Cmd: DUPLICATE
+[2025.11.27-08.32.35:558][389]Cmd: ACTOR DUPLICATE
+[2025.11.27-08.32.46:637][604]Cmd: DUPLICATE
+[2025.11.27-08.32.46:637][604]Cmd: ACTOR DUPLICATE
+[2025.11.27-08.33.11:993][569]Cmd: DUPLICATE
+[2025.11.27-08.33.11:993][569]Cmd: ACTOR DUPLICATE
+[2025.11.27-08.33.48:664][707]Cmd: DUPLICATE
+[2025.11.27-08.33.48:664][707]Cmd: ACTOR DUPLICATE
+[2025.11.27-08.34.19:088][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-08.34.19:153][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.11.27-08.34.19:171][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.11.27-08.34.19:183][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.27-08.34.19:194][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/XP/RLSB9ZB4QFQDK1XKYKMK3I
+[2025.11.27-08.34.19:194][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/RLSB9ZB4QFQDK1XKYKMK3I127B72234F73D234C1EE56895FF65779.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/XP/RLSB9ZB4QFQDK1XKYKMK3I.uasset'
+[2025.11.27-08.34.19:199][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/BP/64THV45H77J5JBRC0OJXYY
+[2025.11.27-08.34.19:200][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/64THV45H77J5JBRC0OJXYYA4EDADDE4848040E254747AD129A26A1.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/BP/64THV45H77J5JBRC0OJXYY.uasset'
+[2025.11.27-08.34.19:204][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/TX/64HYOV4A4XAIMTF19BTEIS
+[2025.11.27-08.34.19:205][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/64HYOV4A4XAIMTF19BTEIS417F49E8459DE5CA03D27C915D3ABA17.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/TX/64HYOV4A4XAIMTF19BTEIS.uasset'
+[2025.11.27-08.34.19:209][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/6Y/VC1ZZOKU1EDRUFWSVV82IW
+[2025.11.27-08.34.19:209][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/VC1ZZOKU1EDRUFWSVV82IW2318B29F46B39AE26B259DB71351833C.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/6Y/VC1ZZOKU1EDRUFWSVV82IW.uasset'
+[2025.11.27-08.34.19:214][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/T9/H9D7JPSFHJOXACG6O5Z7LF
+[2025.11.27-08.34.19:214][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/H9D7JPSFHJOXACG6O5Z7LFFE455F1347296E7F32DF479F2DF4D0BB.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/T9/H9D7JPSFHJOXACG6O5Z7LF.uasset'
+[2025.11.27-08.34.19:219][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/US/EDDDC35AA9WDE379C9L37X
+[2025.11.27-08.34.19:219][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/EDDDC35AA9WDE379C9L37X41B9160B4D18F7E68DFEA2A73051F4A4.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/US/EDDDC35AA9WDE379C9L37X.uasset'
+[2025.11.27-08.34.19:223][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/T0/TFTJYF5QKMOOLPS9UDXPNB
+[2025.11.27-08.34.19:223][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/TFTJYF5QKMOOLPS9UDXPNBA02188144C31064E2090999C59FD2503.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/T0/TFTJYF5QKMOOLPS9UDXPNB.uasset'
+[2025.11.27-08.34.19:228][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/JP/4V5YNBXE8QT9RAIKDAPBZW
+[2025.11.27-08.34.19:228][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/4V5YNBXE8QT9RAIKDAPBZWD35AAAC5411BFFB89849FD9CF10CD0D4.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/JP/4V5YNBXE8QT9RAIKDAPBZW.uasset'
+[2025.11.27-08.34.19:232][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/0B/NWN5SQNUGUNIGNNLIPCU9L
+[2025.11.27-08.34.19:232][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/NWN5SQNUGUNIGNNLIPCU9L74A64EF84F617EC75B707B87504842AB.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/0B/NWN5SQNUGUNIGNNLIPCU9L.uasset'
+[2025.11.27-08.34.19:237][237]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/8Y/MXRTE7OS827TW1MK5Y6IM1
+[2025.11.27-08.34.19:237][237]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/MXRTE7OS827TW1MK5Y6IM1D078EED54501961DBAAFE78F2F08C75D.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/8Y/MXRTE7OS827TW1MK5Y6IM1.uasset'
+[2025.11.27-08.34.19:245][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 157.303 ms (total: 9.48 sec)
+[2025.11.27-08.34.19:319][237]LogContentValidation: Display: Starting to validate 10 assets
+[2025.11.27-08.34.19:319][237]LogContentValidation: Enabled validators:
+[2025.11.27-08.34.19:319][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.27-08.34.19:319][237]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.27-08.34.19:319][237]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.27-08.34.19:319][237]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.27-08.34.19:319][237]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.27-08.34.19:319][237]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.27-08.34.19:319][237]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.11.27-08.34.19:411][237]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: ================================================
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Total job queries 502, among them cache hits 55 (10.96%), DDC hits 357 (71.12%), Duplicates 69 (13.75%)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Tracking 378 distinct input hashes that result in 284 distinct outputs (75.13%)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: RAM used: 3.58 MiB of 1.60 GiB budget. Usage: 0.22%
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Shaders Compiled: 21
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Average time worker was idle: 3186.81 s
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Job execution time: average 0.56 s, max 0.92 s
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Job life time (pending + execution): average 0.63 s, max 0.94
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Shader code size: total 186.262 KiB, numShaders 23, average 8.098 KiB, min 3.09 KiB, max 14.152 KiB
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.96 s
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Average processing rate: 4.24 jobs/sec
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Total thread time: 8.409 s
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Total thread preprocess time: 4.657 s
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Percentage time preprocessing: 55.38%
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Effective parallelization: 1.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.212051
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 0.70 sec, max 0.71 sec, min 0.69 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 0.37 sec, max 0.43 sec, min 0.26 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 39.34% of total time (compiled    9 times, average 0.37 sec, max 0.43 sec, min 0.26 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 25.05% of total time (compiled    3 times, average 0.70 sec, max 0.71 sec, min 0.69 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.65% of total time (compiled    5 times, average 0.23 sec, max 0.28 sec, min 0.16 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 6.01% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display:                                                  FVelocityPS - 4.25% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: === Material stats ===
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Materials Translated:    154
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Material Translation Only: 0.03 s (40%)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: Material Cache Hits: 24 (16%)
+[2025.11.27-08.34.19:605][258]LogShaderCompilers: Display: ================================================
+[2025.11.27-08.34.28:347][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-08.34.28:419][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.27-08.34.28:435][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.27-08.34.28:447][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.11.27-08.34.28:454][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.746 ms (total: 9.59 sec)
