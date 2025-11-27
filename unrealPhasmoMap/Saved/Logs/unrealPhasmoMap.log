@@ -4995,3 +4995,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.27-08.34.28:435][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
 [2025.11.27-08.34.28:447][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
 [2025.11.27-08.34.28:454][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.746 ms (total: 9.59 sec)
+[2025.11.27-08.35.30:799][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-08.35.30:862][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.27-08.35.30:878][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.27-08.35.30:889][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.11.27-08.35.30:901][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/XP/RLSB9ZB4QFQDK1XKYKMK3I
+[2025.11.27-08.35.30:901][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/RLSB9ZB4QFQDK1XKYKMK3I1AB050EE4A2F42A8BDCD08B09D4C7B82.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/XP/RLSB9ZB4QFQDK1XKYKMK3I.uasset'
+[2025.11.27-08.35.30:907][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/BP/64THV45H77J5JBRC0OJXYY
+[2025.11.27-08.35.30:907][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/64THV45H77J5JBRC0OJXYYD66ED12141AA4164CF1312B353E95311.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/BP/64THV45H77J5JBRC0OJXYY.uasset'
+[2025.11.27-08.35.30:912][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/TX/64HYOV4A4XAIMTF19BTEIS
+[2025.11.27-08.35.30:912][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/64HYOV4A4XAIMTF19BTEISF24D74FF4A6B7473CC4C84A752E2098F.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/TX/64HYOV4A4XAIMTF19BTEIS.uasset'
+[2025.11.27-08.35.30:917][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/6Y/VC1ZZOKU1EDRUFWSVV82IW
+[2025.11.27-08.35.30:917][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/VC1ZZOKU1EDRUFWSVV82IW39647378496075559E0C7C8F72342547.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/6Y/VC1ZZOKU1EDRUFWSVV82IW.uasset'
+[2025.11.27-08.35.30:922][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/T9/H9D7JPSFHJOXACG6O5Z7LF
+[2025.11.27-08.35.30:922][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/H9D7JPSFHJOXACG6O5Z7LF6CBB9A6A42B4EA33853A3BB77BA45A8D.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/T9/H9D7JPSFHJOXACG6O5Z7LF.uasset'
+[2025.11.27-08.35.30:927][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/US/EDDDC35AA9WDE379C9L37X
+[2025.11.27-08.35.30:927][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/EDDDC35AA9WDE379C9L37X2BF9C7E741814F72992A04B015F60A41.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/US/EDDDC35AA9WDE379C9L37X.uasset'
+[2025.11.27-08.35.30:931][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/T0/TFTJYF5QKMOOLPS9UDXPNB
+[2025.11.27-08.35.30:931][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/TFTJYF5QKMOOLPS9UDXPNB486A4E674311ECA677579EA2B2DA4F50.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/T0/TFTJYF5QKMOOLPS9UDXPNB.uasset'
+[2025.11.27-08.35.30:936][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/JP/4V5YNBXE8QT9RAIKDAPBZW
+[2025.11.27-08.35.30:936][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/4V5YNBXE8QT9RAIKDAPBZW3A8248D94DC8FC1CE58ED4B51152CEE4.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/JP/4V5YNBXE8QT9RAIKDAPBZW.uasset'
+[2025.11.27-08.35.30:941][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/0B/NWN5SQNUGUNIGNNLIPCU9L
+[2025.11.27-08.35.30:941][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/NWN5SQNUGUNIGNNLIPCU9LD04889F74E35AB6E2BF995830ACD2AE5.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/0B/NWN5SQNUGUNIGNNLIPCU9L.uasset'
+[2025.11.27-08.35.30:946][215]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/8Y/MXRTE7OS827TW1MK5Y6IM1
+[2025.11.27-08.35.30:946][215]LogSavePackage: Moving '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/MXRTE7OS827TW1MK5Y6IM113138E0F4B0EBF59F16D36A6F49FDC80.tmp' to '../../../../../../Users/silvi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/8Y/MXRTE7OS827TW1MK5Y6IM1.uasset'
+[2025.11.27-08.35.30:953][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.282 ms (total: 9.74 sec)
+[2025.11.27-08.35.31:012][215]LogContentValidation: Display: Starting to validate 10 assets
+[2025.11.27-08.35.31:012][215]LogContentValidation: Enabled validators:
+[2025.11.27-08.35.31:012][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.27-08.35.31:012][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.27-08.35.31:012][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.27-08.35.31:012][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.27-08.35.31:012][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.27-08.35.31:012][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.27-08.35.31:012][215]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
