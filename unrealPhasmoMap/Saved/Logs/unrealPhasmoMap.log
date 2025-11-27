@@ -1384,3 +1384,16 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.27-15.19.25:390][575]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2075.316650
 [2025.11.27-15.19.26:390][578]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.27-15.19.26:390][578]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2075.983887, Update Interval: 340.242310
+[2025.11.27-15.22.33:575][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.27-15.22.33:618][504]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/LH/9BY8CCFWBXK0S6P0ZHDHOX
+[2025.11.27-15.22.33:619][504]LogSavePackage: Moving 'C:/Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Saved/9BY8CCFWBXK0S6P0ZHDHOX40BD29C44A615EE032D7499DC047B3F3.tmp' to 'C:/Users/Sicilisi/Documents/GitHub/UnrealPhasmoMap/unrealPhasmoMap/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/LH/9BY8CCFWBXK0S6P0ZHDHOX.uasset'
+[2025.11.27-15.22.33:633][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.492 ms
+[2025.11.27-15.22.33:696][504]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.27-15.22.33:696][504]LogContentValidation: Enabled validators:
+[2025.11.27-15.22.33:696][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.27-15.22.33:696][504]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.27-15.22.33:696][504]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.27-15.22.33:696][504]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.27-15.22.33:696][504]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.27-15.22.33:696][504]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.27-15.22.33:697][504]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
